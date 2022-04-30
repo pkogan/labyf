@@ -1,0 +1,24 @@
+[
+ {
+  "adhiere": null,
+  "asistida": "Concejal",
+  "cargo_ejecutivo": false,
+  "codigo": "CNJ",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Concejal",
+  "posicion": 1
+ },
+ {
+  "adhiere": null,
+  "asistida": "Ref\u00e9rendum Popular",
+  "cargo_ejecutivo": false,
+  "codigo": "RPO",
+  "consulta_popular": true,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Refer\u00e9ndum Popular",
+  "posicion": 2
+ }
+]

@@ -1,0 +1,267 @@
+
+<!-- saved from url=(0058)http://neuquen.votar.com.ar/flavors/neuquen/templates.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><script id="tmpl_neuquen/candidato" type="text/x-handlebars-template" class="raw_template">
+<div class="candidato candidato-persona {{extra_classes}}" id="{{id_boton}}">
+    <main class="candidato_base">
+        <div class="candidato_base-lista">
+            <p class="candidato_base-lista_palabra">{{i18n "palabra_lista"}}</p>
+            <p class="candidato_base-lista_numero">{{candidato.lista.numero}}</p>
+        </div>
+        <div class="candidato_base-foto_candidato-foto_candidato_1">
+            {{imagen_candidatura candidato.imagenes.[0]}}
+        </div>
+        <div class="candidato_base-foto_candidato-foto_candidato_2">
+            {{imagen_candidatura candidato.imagenes.[1]}}
+        </div>
+        <div class="candidato_base-foto_partido">
+            {{imagen_candidatura candidato.lista.imagenes.[0]}}
+        </div>
+         {{#if nombre_lista}}
+            <div class="candidato_base-nombre_partido">{{nombre_lista}}</div>
+        {{else}}
+            <div class="candidato_base-nombre_partido">{{candidato.partido.nombre}}</div>
+        {{/if}}
+        <div class="candidato_base-candidato_principal">{{candidato.nombre}}</div>
+        <div class="candidato_base-candidato_secundario">{{{secundarios}}}</div>
+    </main>
+</div>
+
+</script>
+<script id="tmpl_neuquen/categoria" type="text/x-handlebars-template" class="raw_template">
+<div class="candidato {{seleccionado}}" id="{{id_boton}}">
+    <div class="nombre-cargo">{{categoria.nombre}}</div>
+    <div class="lista">
+        <p class="palabra-lista">{{palabra_lista}}</p>
+        <p class="numero-lista">{{candidato.lista.numero}}</p>
+    </div>
+    <div class="foto-candidato">
+        {{imagen_candidatura candidato.imagenes.[0]}}
+    </div>
+    <div class="foto-partido">
+        {{imagen_candidatura candidato.lista.imagenes.[0]}}
+    </div>
+    <div class="candidato-principal">{{candidato.nombre}}</div>
+    <div class="candidato-secundario"> {{{secundarios}}}</div>
+    <div class="nombre-partido">{{candidato.lista.nombre}}</div>
+</div>
+
+</script>
+<script id="tmpl_neuquen/lista" type="text/x-handlebars-template" class="raw_template">
+<div id="{{id_boton}}" class="candidato candidato-lista-completa boton-lista {{seleccionado}}">
+    {{#if lista.numero}}
+        <div class="lista">
+            <p class="palabra-lista">{{i18n "palabra_lista"}}</p>
+            <p class="numero-lista">{{lista.numero}}</p>
+        </div>
+    {{/if}}
+    {{#if normal}}
+        <div class="foto-candidato">
+            {{#if candidatos.[0].imagenes.[0]}}
+                {{imagen_candidatura candidatos.[0].imagenes.[0]}}
+            {{/if}}
+        </div>
+    {{else}}
+        <div class="foto-candidato">
+            {{imagen_candidatura lista.imagenes.[0]}}
+        </div>
+    {{/if}}
+
+    {{#if normal}}
+        <div class="foto-partido">
+            {{imagen_candidatura lista.imagenes.[0]}}
+        </div>
+    {{/if}}
+    {{colores lista.color}}
+    <div class="clear"></div>
+    <div class="nombre-partido">{{lista.nombre}}</div>
+    {{^normal}}
+        <div>{{lista.categoria}}</div>
+    {{/normal}}
+</div>
+
+</script>
+<script id="tmpl_neuquen/partido" type="text/x-handlebars-template" class="raw_template">
+<div id="{{id_boton}}" class="candidato candidato-lista-completa partido {{extra_classes}}">
+    <div class="foto-partido">
+        {{imagen_candidatura partido.imagenes.[0]}}
+    </div>
+    <div class="clear"></div>
+    <div class="nombre-partido">
+        {{partido.nombre}}
+    </div>
+</div>
+
+</script>
+<script id="tmpl_neuquen/candidato_hijo" type="text/x-handlebars-template" class="raw_template">
+<div class="candidato-secundario">
+    {{categoria.nombre}}: 
+    {{candidato.nombre}}{{#if candidato.secundarios}}; {{/if}}
+    {{{candidato.secundarios}}}
+</div>
+
+</script>
+<script id="tmpl_neuquen/confirmacion" type="text/x-handlebars-template" class="raw_template">
+<div class="candidato {{#if blanco}}blanco{{/if}} {{consulta_popular}} {{#if modificar}}modificable{{/if}}" id="{{id_boton}}">
+    <div class="contenedor-candidato">
+        <div class="lista">
+            <p class="palabra-lista">{{i18n "palabra_lista"}}</p>
+            <p class="numero-lista">{{candidato.lista.numero}}</p>
+        </div>
+        <div class="foto-candidato">
+            {{imagen_candidatura candidato.imagenes.[0]}}
+        </div>
+        <div class="foto-partido">
+            {{imagen_candidatura candidato.lista.imagenes.[0]}}
+        </div>
+        {{colores candidato.lista.color}}
+        <div class="nombre-partido">{{candidato.lista.nombre}}</div>
+        {{#if consulta_popular}}
+        <div class="candidato-principal" style="color:{{candidato.lista.color.[0]}}">{{candidato.nombre}}</div>
+        {{else}}
+        <div class="candidato-principal">{{candidato.nombre}}</div>
+        {{/if}}
+        <div class="candidato-secundario">{{{secundarios}}}</div>
+    </div>
+</div>
+  
+
+</script>
+<script id="tmpl_neuquen/consulta_popular" type="text/x-handlebars-template" class="raw_template">
+<div id="{{id_boton}}" class="opcion-consulta candidato {{#if seleccionado}} seleccionado {{/if}}">
+    <div class="nombre-candidato">
+        <div class="candidato-principal" style="color:{{candidato.lista.color.[0]}}">{{candidato.nombre}}</div>
+        <div class="candidato-secundario">{{{candidato.secundarios}}}</div>
+    </div>
+</div> 
+
+</script>
+<script id="tmpl_neuquen/candidatos_adicionales" type="text/x-handlebars-template" class="raw_template">
+{{#candidatos}}
+    <span>
+        {{this}}{{#unless @last}};{{/unless}}
+    </span>
+{{/candidatos}}
+
+</script>
+<script id="tmpl_neuquen/colores" type="text/x-handlebars-template" class="raw_template">
+<div class="color-lista">
+  {{#each colores}}
+  <div class="color colores{{../num_colores}}" style="background:{{this}}"></div>
+  {{/each}}
+</div>
+
+</script>
+<script id="tmpl_neuquen/candidato_verificacion" type="text/x-handlebars-template" class="raw_template">
+<div class="candidato {{#if blanco}}blanco{{/if}} {{#if es_consulta}}consulta_popular{{/if}}" id="{{id_boton}}">
+    <div class="nombre-cargo">{{categoria.nombre}}</div>
+    {{#unless es_consulta}}
+        {{#unless blanco}}
+            <div class="lista">
+                <p class="palabra-lista">{{i18n "palabra_lista"}}</p>
+                <p class="numero-lista">{{candidato.lista.numero}}</p>
+            </div>
+        {{/unless}}
+
+        <!-- Primer candidato o voto en blanco. -->
+        <div class="foto-candidato">
+            {{imagen_candidatura candidato.imagenes.[0]}}
+        </div>
+
+        {{#unless blanco}}
+            <div class="foto-candidato">
+                {{imagen_candidatura candidato.imagenes.[1]}}
+            </div>
+            <div class="foto-partido">
+                {{imagen_candidatura candidato.lista.imagenes.[0]}}
+            </div>
+        {{/unless}}
+    {{/unless}}
+    {{#unless es_consulta}}
+        <div class="nombre-partido">{{candidato.lista.nombre}}</div>
+    {{/unless}}
+    {{#if es_consulta}}
+    <div class="candidato-principal" style="color:{{candidato.lista.color.[0]}}">{{candidato.nombre}}</div>
+    {{else}}
+    <div class="candidato-principal">{{candidato.nombre}}</div>
+    {{/if}}
+    <div class="candidato-secundario">{{{secundarios}}}</div>
+</div>
+
+</script>
+<script id="tmpl_neuquen/solapa" type="text/x-handlebars-template" class="raw_template">
+{{#categoria}}
+<div class="categoria">
+    {{nombre}}
+</div>
+{{/categoria}}
+{{#candidatura}}
+<div class="foto-candidato">
+    {{imagen_candidatura imagenes.[0]}}
+</div>
+<div class="candidato-principal">
+    {{nombre}}
+</div>
+{{/candidatura}}
+
+</script>
+<script id="tmpl_neuquen/confirmacion_tarjeta" type="text/x-handlebars-template" class="raw_template">
+<article
+    class="confirmacion_tarjeta candidato {{#if blanco}}blanco{{/if}} {{consulta_popular}} {{#if modificar}}modificable{{/if}}"
+    id="{{id_boton}}">
+    <header class="confirmacion_tarjeta-header">
+        <h3 class="confirmacion_tarjeta-header__titulo">
+            {{categoria.nombre}}
+        </h3>
+    </header>
+    <main class="confirmacion_tarjeta-main">
+        {{> componenteConfirmacion }}
+    </main>
+    {{#if modificar}}
+    <footer class="confirmacion_tarjeta-footer">
+        <p class="confirmacion_tarjeta-footer__btn btn-modificar-voto-js">{{i18n "modificar"}}</p>
+    </footer>
+    {{/if}}
+</article>
+
+</script>
+<script id="tmpl_neuquen/confirmacion_candidato_blanco" type="text/x-handlebars-template" class="raw_template">
+<main class="confirmacion_blanco">
+    <div class="confirmacion_blanco-foto_candidato">
+        {{imagen_candidatura candidato.imagenes.[0]}}
+    </div>
+    <div class="confirmacion_blanco-candidato_principal">{{candidato.nombre}}</div>
+</main>
+
+</script>
+<script id="tmpl_neuquen/confirmacion_consulta_popular" type="text/x-handlebars-template" class="raw_template">
+<main class="conf_consulta_popular">
+    <div>
+        <div class="candidato_principal" style="color:{{candidato.lista.color.[0]}}">{{candidato.nombre}}</div>
+        <div class="candidato_secundario">{{{secundarios}}}</div>
+    </div>
+</main>
+
+</script>
+<script id="tmpl_neuquen/confirmacion_candidato_elegido" type="text/x-handlebars-template" class="raw_template">
+<div class="conf_candidato_elegido {{#if modificar}}modificable{{/if}}" id="{{id_boton}}">
+    <div class="conf_candidato_elegido-lista">
+        <p class="conf_candidato_elegido-lista__palabra">{{i18n "palabra_lista"}}</p>
+        <p class="conf_candidato_elegido-lista__numero">{{candidato.lista.numero}}</p>
+    </div>
+    <div id="conf_candidato_elegido-foto_candidato_1">
+        {{imagen_candidatura candidato.imagenes.[0]}}
+    </div>
+    <div id="conf_candidato_elegido-foto_candidato_2">
+        {{imagen_candidatura candidato.imagenes.[1]}}
+    </div>
+    <div class="conf_candidato_elegido-foto_partido">
+        {{imagen_candidatura candidato.lista.imagenes.[0]}}
+    </div>
+    <div class="conf_candidato_elegido-nombre_partido">{{candidato.lista.nombre}}</div>
+    <div class="conf_candidato_elegido-candidato_principal">{{candidato.nombre}}</div>
+    <div class="conf_candidato_elegido-candidatos_secundarios">{{{secundarios}}}</div>
+    <div class="conf_candidato_elegido-candidatos_suplentes">{{{suplentes}}}</div>
+</div>
+
+</script>
+</head><body></body></html>

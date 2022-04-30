@@ -1,0 +1,99 @@
+[
+ {
+  "CNJ": 1,
+  "agrupacion_municipal": false,
+  "codigo": "151",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 2,
+  "agrupacion_municipal": false,
+  "codigo": "180",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 3,
+  "agrupacion_municipal": false,
+  "codigo": "183",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 4,
+  "agrupacion_municipal": false,
+  "codigo": "3",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 5,
+  "agrupacion_municipal": false,
+  "codigo": "40",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 6,
+  "agrupacion_municipal": false,
+  "codigo": "47",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 7,
+  "agrupacion_municipal": false,
+  "codigo": "5",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 8,
+  "agrupacion_municipal": false,
+  "codigo": "64",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 9,
+  "agrupacion_municipal": false,
+  "codigo": "667",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 10,
+  "agrupacion_municipal": false,
+  "codigo": "668",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 11,
+  "agrupacion_municipal": false,
+  "codigo": "669",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 12,
+  "agrupacion_municipal": false,
+  "codigo": "670",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 13,
+  "agrupacion_municipal": false,
+  "codigo": "902",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 14,
+  "RPO": 18,
+  "agrupacion_municipal": false,
+  "codigo": "BLC",
+  "lista_completa": true
+ },
+ {
+  "RPO": 22,
+  "agrupacion_municipal": false,
+  "codigo": "RNO",
+  "lista_completa": true
+ },
+ {
+  "RPO": 23,
+  "agrupacion_municipal": false,
+  "codigo": "RSI",
+  "lista_completa": true
+ }
+]

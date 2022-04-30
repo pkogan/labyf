@@ -1,0 +1,759 @@
+[
+ {
+  "asistida": "Claudio Dom\u00ednguez",
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "151",
+  "codigo": "151.19",
+  "id_candidatura": "151.19",
+  "id_umv": 1,
+  "imagenes": [
+   "151.19",
+   "151.20"
+  ],
+  "nombre": "Claudio Dominguez",
+  "orden_absoluto": [
+   6,
+   1,
+   1
+  ],
+  "secundarios": [
+   "Maria Victoria Fernandez",
+   "Jorge Alberto Rey",
+   "Isabel Adelaida Mosna",
+   "Nicolas Alejandro Soiza Castrellon",
+   "Debora Gabriela Cuartara",
+   "Diego Alberto Landeiro",
+   "Daniela Denis Sifuentes Cordoba",
+   "Juan Carlos Fabio Torres"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Sofia Gisel Juarez",
+   "Luis Angel Forestier",
+   "Amalia Graciela Arrieta",
+   "Marco Emmanuel Fernandez",
+   "Yoana Belen Fuentes",
+   "Victor Horacio Maldonado Uribe",
+   "Sandra Noemi Bruzzone",
+   "Emiliano Luis Sayago",
+   "Lea Silva"
+  ]
+ },
+ {
+  "asistida": "Juan Pel\u00e1 Ez",
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "180",
+  "codigo": "180.179",
+  "id_candidatura": "180.179",
+  "id_umv": 2,
+  "imagenes": [
+   "180.179",
+   "180.180"
+  ],
+  "nombre": "Juan Pelaez",
+  "orden_absoluto": [
+   7,
+   1,
+   1
+  ],
+  "secundarios": [
+   "Denisse Stillger",
+   "Leonardo Leszczynski",
+   "Rocio Casamayor Jabat",
+   "Matias Cid",
+   "Jorgelina Gonzalez",
+   "Ivan Pullek",
+   "Susana Centurion",
+   "Adalberto \"Beto\" Orrego"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Luana Granero",
+   "Mario Cesar Ferrari",
+   "Paula Cecilia Fondacaro",
+   "Oscar Eduardo Lopez Marecich",
+   "Norma Noemi Delgado",
+   "Marcelo Hugo Villegas",
+   "Andrea Belen Giuliani",
+   "Gabriel Vicente Barresi",
+   "Carola Del Carmen Saucedo"
+  ]
+ },
+ {
+  "asistida": "Al Cides Cr\u00edstiansen",
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "183",
+  "codigo": "183.91",
+  "id_candidatura": "183.91",
+  "id_umv": 3,
+  "imagenes": [
+   "183.91",
+   "183.92"
+  ],
+  "nombre": "Alcides Christiansen",
+  "orden_absoluto": [
+   8,
+   1,
+   1
+  ],
+  "secundarios": [
+   "Keila Riquelme",
+   "Matias Daniel Pereyra",
+   "Marcela Holstein",
+   "Dario Damian Gutierrez",
+   "Carla Stefania Frei",
+   "Juan Bernardo Uribe",
+   "Elena Noemi Moreyra",
+   "Matias Nicolas Pagliarini"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Yanina Figueroa",
+   "Erik Ain Hermosilla",
+   "Natali Vanesa Alvarez",
+   "Dante Rodolfo Mena",
+   "Camila Nair Salinas",
+   "Pablo Fernandez",
+   "Rosana Moreyra",
+   "Hector Miguel Castillo",
+   "Margarita Urrutia"
+  ]
+ },
+ {
+  "asistida": "Juan Pel\u00e1ez",
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "3",
+  "codigo": "3.197",
+  "id_candidatura": "3.197",
+  "id_umv": 4,
+  "imagenes": [
+   "3.197",
+   "3.198"
+  ],
+  "nombre": "Juan Pelaez",
+  "orden_absoluto": [
+   1,
+   1,
+   1
+  ],
+  "secundarios": [
+   "Denisse Stillger",
+   "Leonardo Leszczynski",
+   "Rocio Casamayor Jabat",
+   "Matias Cid",
+   "Jorgelina Gonzalez",
+   "Ivan Pullek",
+   "Susana Centurion",
+   "Adalberto \"Beto\" Orrego"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Luana Granero",
+   "Mario Cesar Ferrari",
+   "Paula Cecilia Fondacaro",
+   "Oscar Eduardo Lopez Marecich",
+   "Norma Noemi Delgado",
+   "Marcelo Hugo Villegas",
+   "Andrea Belen Giuliani",
+   "Gabriel Vicente Barresi",
+   "Carola Del Carmen Saucedo"
+  ]
+ },
+ {
+  "asistida": "Mercedes Lamarca",
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "40",
+  "codigo": "40.55",
+  "id_candidatura": "40.55",
+  "id_umv": 5,
+  "imagenes": [
+   "40.55",
+   "40.56"
+  ],
+  "nombre": "Mercedes Lamarca",
+  "orden_absoluto": [
+   3,
+   1,
+   1
+  ],
+  "secundarios": [
+   "Sebastian Ibalos",
+   "Gladys Aballay",
+   "Adrian Ezequiel Magnago",
+   "Daiana Belen Aroca",
+   "Vicente Russo",
+   "Liliana Kulisz",
+   "Axel Mendez",
+   "Sofia Loro"
+  ],
+  "sexo": "F",
+  "suplentes": [
+   "Eduardo Jara",
+   "Elita Riquelme",
+   "Fidel Salazar Mendez",
+   "Valeria Jara",
+   "Facundo Fit",
+   "Camila Rocha",
+   "Rodrigo Mellado Toussaint",
+   "Cintia Rios",
+   "Alex Damian Vilo"
+  ]
+ },
+ {
+  "asistida": "Cr\u00edstian Marselo Galv\u00e1n",
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "47",
+  "codigo": "47.269",
+  "id_candidatura": "47.269",
+  "id_umv": 6,
+  "imagenes": [
+   "47.269",
+   "47.270"
+  ],
+  "nombre": "Christian Marcelo Galvan",
+  "orden_absoluto": [
+   4,
+   1,
+   1
+  ],
+  "secundarios": [
+   "Maria Belen Lopez Gomez",
+   "Michel Dario Messineo",
+   "Claudia Belen Keding",
+   "Ricardo Gabriel Catella Molina",
+   "Lilia Anahi Quevedo",
+   "David Rene Mu\u00f1oz",
+   "Olga Isabel Pinto",
+   "Ricardo Catella Buzo"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Jaquelin Yanet Mansilla",
+   "Luis Fernando Flores",
+   "Mariana Romina Escobar Pacheco",
+   "Carlos Gaston Talledo",
+   "Paola Gabriela Vilar",
+   "Gustavo Fabian Zabala",
+   "Elisa Noemi Molina",
+   "Eusebio Antonio Mu\u00f1oz",
+   "Cristina Gomez"
+  ]
+ },
+ {
+  "asistida": "Gast\u00f3n Jorge S\u00f3bistch",
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "5",
+  "codigo": "5.215",
+  "id_candidatura": "5.215",
+  "id_umv": 7,
+  "imagenes": [
+   "5.215",
+   "5.216"
+  ],
+  "nombre": "Gaston Jorge Sobisch",
+  "orden_absoluto": [
+   2,
+   1,
+   1
+  ],
+  "secundarios": [
+   "Maria Alejandra Durdos",
+   "Javier Antonio Manzano",
+   "Sonia Ides Frei Oses",
+   "Mario Guillermo Rossetti",
+   "Ivanna Gabriela Rumino",
+   "Raul Vitelmo Carbajal",
+   "Rosa Yaneri Vasquez Riquelme",
+   "Hever Lucas Bello"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Elvira Elisa Cornejo",
+   "Jorge Javier Schmidt",
+   "Valeria Mariana De Los Milagros Saez",
+   "Franco Fernando Martinez",
+   "Donna Gangarossa",
+   "Daniel Gangarossa",
+   "Silvina Marcela Leoni",
+   "Eduardo Laureano Guerrero",
+   "Luciana Amancay Carranza"
+  ]
+ },
+ {
+  "asistida": "Juan Pel\u00e1 Es",
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "64",
+  "codigo": "64.143",
+  "id_candidatura": "64.143",
+  "id_umv": 8,
+  "imagenes": [
+   "64.143",
+   "64.144"
+  ],
+  "nombre": "Juan Pelaez",
+  "orden_absoluto": [
+   5,
+   1,
+   1
+  ],
+  "secundarios": [
+   "Denisse Stillger",
+   "Leonardo Leszczynski",
+   "Rocio Casamayor Jabat",
+   "Matias Cid",
+   "Jorgelina Gonzalez",
+   "Ivan Pullek",
+   "Susana Centurion",
+   "Adalberto \"Beto\" Orrego"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Luana Granero",
+   "Mario Cesar Ferrari",
+   "Paula Cecilia Fondacaro",
+   "Oscar Eduardo Lopez Marecich",
+   "Norma Noemi Delgado",
+   "Marcelo Hugo Villegas",
+   "Andrea Belen Giuliani",
+   "Gabriel Vicente Barresi",
+   "Carola Del Carmen Saucedo"
+  ]
+ },
+ {
+  "asistida": "Marcelo Z\u00fa\u00f1iga",
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "667",
+  "codigo": "667.1",
+  "id_candidatura": "667.1",
+  "id_umv": 9,
+  "imagenes": [
+   "667.1",
+   "667.2"
+  ],
+  "nombre": "Marcelo Zu\u00f1iga",
+  "orden_absoluto": [
+   9,
+   1,
+   1
+  ],
+  "secundarios": [
+   "Micaela Gomiz",
+   "Santiago Nogueira",
+   "Gimena Eastoe",
+   "Pablo Meuli",
+   "Ana Ocampos",
+   "Walter Garrido",
+   "Soledad Urrutia",
+   "Guillermo Reyes"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Jesica Millico",
+   "Nicola Andres Maiolo",
+   "Nora Miguel",
+   "Abel Gallardo",
+   "Micaela Vaccarini",
+   "Emiliano Pereyra",
+   "Carina Vilche",
+   "Ramiro Martin Blanco",
+   "Claudia Marisel Parada"
+  ]
+ },
+ {
+  "asistida": "Ema Guagliardo",
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "668",
+  "codigo": "668.127",
+  "id_candidatura": "668.127",
+  "id_umv": 10,
+  "imagenes": [
+   "668.127",
+   "668.128"
+  ],
+  "nombre": "Ema Guagliardo",
+  "orden_absoluto": [
+   10,
+   1,
+   1
+  ],
+  "secundarios": [
+   "Ale Rodriguez Carrera",
+   "Juan Diego Yrala",
+   "Pamela Gaita",
+   "Ever Urrutia",
+   "Sandra Liliana Montecinos",
+   "Daniel Alejandro Palacios Mu\u00f1oz",
+   "Patricia Bernarda Ramirez",
+   "Juan Pablo Safenreiter"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Daay Torres",
+   "Miguel Angel Gatica",
+   "Kathy Luis",
+   "Adrian Daniel Roncali Armendano",
+   "Maria Liliana Gutierrez",
+   "Martin Jesus David Beluardi",
+   "Maria Eugenia Mora Catriquir"
+  ]
+ },
+ {
+  "asistida": "C\u00e9sar Parra",
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "669",
+  "codigo": "669.251",
+  "id_candidatura": "669.251",
+  "id_umv": 11,
+  "imagenes": [
+   "669.251",
+   "669.252"
+  ],
+  "nombre": "Cesar  Parra",
+  "orden_absoluto": [
+   11,
+   1,
+   1
+  ],
+  "secundarios": [
+   "Laura  Eggers",
+   "Esteban Martine",
+   "Flavia  Naccaratti",
+   "Jose \"Pepe\" Benegas",
+   "Mery Colitripay",
+   "Juan Bari",
+   "Yanina  Saldia",
+   "Fede Sanchez"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Micaela Solange Rocha",
+   "Agustin Abraham Uribe",
+   "Macarena Encina Araya",
+   "Javier Lombardo",
+   "Kari Barriga",
+   "Diego Rubilar",
+   "Susana Arias",
+   "Franco Vergara",
+   "Cristina Toledo"
+  ]
+ },
+ {
+  "asistida": "Claudio Dominguez",
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "670",
+  "codigo": "670.233",
+  "id_candidatura": "670.233",
+  "id_umv": 12,
+  "imagenes": [
+   "670.233",
+   "670.234"
+  ],
+  "nombre": "Claudio Dominguez",
+  "orden_absoluto": [
+   12,
+   1,
+   1
+  ],
+  "secundarios": [
+   "Maria Victoria Fernandez",
+   "Jorge Alberto Rey",
+   "Isabel Adelaida Mosna",
+   "Nicolas Alejandro Soiza Castrellon",
+   "Debora Gabriela Cuartara",
+   "Diego Alberto Landeiro",
+   "Daniela Denis Sifuentes Cordoba",
+   "Juan Carlos Fabio Torres"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Sofia Gisel Juarez",
+   "Luis Angel Forestier",
+   "Amalia Graciela Arrieta",
+   "Marco Emmanuel Fernandez",
+   "Yoana Belen Fuentes",
+   "Victor Horacio Maldonado Uribe",
+   "Sandra Noemi Bruzzone",
+   "Emiliano Luis Sayago",
+   "Lea Silva"
+  ]
+ },
+ {
+  "asistida": "Guillermo Monzani",
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "902",
+  "codigo": "902.109",
+  "id_candidatura": "902.109",
+  "id_umv": 13,
+  "imagenes": [
+   "902.109",
+   "902.110"
+  ],
+  "nombre": "Guillermo Monzani",
+  "orden_absoluto": [
+   13,
+   1,
+   1
+  ],
+  "secundarios": [
+   "Vanesa Diaz",
+   "Juan Monteiro",
+   "Carolina Magnalardo",
+   "Ariel Koon",
+   "Cintia Meri\u00f1o",
+   "Roberto Galarza",
+   "Vanina Lorena Navarro",
+   "Francisco Matias Duffard"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Andrea Karina Aranda",
+   "Jose David Casabene",
+   "Patricia Andrea Cornejo",
+   "Pablo Matias Pozo",
+   "Estefania Marisol Valdez Valenzuela",
+   "Juan Carlos Elissetche Pojmaevich",
+   "Mabel Estela Valdez",
+   "Horacio Emilio Oliva",
+   "Patricia Alejandra Torres"
+  ]
+ },
+ {
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "CNJ",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 14,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "RPO",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 18,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   2
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos IMPUGNADOS",
+  "clase": "Especial",
+  "cod_categoria": "CNJ",
+  "cod_lista": "",
+  "codigo": "IMP",
+  "id_candidatura": "IMP",
+  "id_umv": 15,
+  "nombre": "Votos IMPUGNADOS",
+  "orden_absoluto": [
+   996,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos IMPUGNADOS",
+  "clase": "Especial",
+  "cod_categoria": "RPO",
+  "cod_lista": "",
+  "codigo": "IMP",
+  "id_candidatura": "IMP",
+  "id_umv": 19,
+  "nombre": "Votos IMPUGNADOS",
+  "orden_absoluto": [
+   996,
+   2
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos OBSERVADOS",
+  "clase": "Especial",
+  "cod_categoria": "CNJ",
+  "cod_lista": "",
+  "codigo": "OBS",
+  "id_candidatura": "OBS",
+  "id_umv": 16,
+  "nombre": "Votos OBSERVADOS",
+  "orden_absoluto": [
+   997,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos OBSERVADOS",
+  "clase": "Especial",
+  "cod_categoria": "RPO",
+  "cod_lista": "",
+  "codigo": "OBS",
+  "id_candidatura": "OBS",
+  "id_umv": 20,
+  "nombre": "Votos OBSERVADOS",
+  "orden_absoluto": [
+   997,
+   2
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos RECURRIDOS",
+  "clase": "Especial",
+  "cod_categoria": "CNJ",
+  "cod_lista": "",
+  "codigo": "REC",
+  "id_candidatura": "REC",
+  "id_umv": 17,
+  "nombre": "Votos RECURRIDOS",
+  "orden_absoluto": [
+   995,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos RECURRIDOS",
+  "clase": "Especial",
+  "cod_categoria": "RPO",
+  "cod_lista": "",
+  "codigo": "REC",
+  "id_candidatura": "REC",
+  "id_umv": 21,
+  "nombre": "Votos RECURRIDOS",
+  "orden_absoluto": [
+   995,
+   2
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "No estoy de acuerdo con la enmienda a la Carta Org\u00e1nica Municipal aprobada por Ordenanza 14205",
+  "clase": "Candidato",
+  "cod_categoria": "RPO",
+  "cod_lista": "RNO",
+  "codigo": "RNO.287",
+  "id_candidatura": "RNO.287",
+  "id_umv": 22,
+  "imagenes": [
+   "default",
+   "default"
+  ],
+  "nombre": "NO",
+  "orden_absoluto": [
+   14,
+   2,
+   1
+  ],
+  "secundarios": [
+   "No estoy de acuerdo con la enmienda a la Carta Org\u00e1nica Municipal aprobada por Ordenanza 14205"
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "S\u00ed estoy de acuerdo con la enmienda a la Carta Org\u00e1nica Municipal aprobada por Ordenanza 14205",
+  "clase": "Candidato",
+  "cod_categoria": "RPO",
+  "cod_lista": "RSI",
+  "codigo": "RSI.289",
+  "id_candidatura": "RSI.289",
+  "id_umv": 23,
+  "imagenes": [
+   "default",
+   "default"
+  ],
+  "nombre": "SI",
+  "orden_absoluto": [
+   15,
+   2,
+   1
+  ],
+  "secundarios": [
+   "S\u00ed estoy de acuerdo con la enmienda a la Carta Org\u00e1nica Municipal aprobada por Ordenanza 14205"
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ }
+]
