@@ -1,0 +1,242 @@
+[ {
+  "asistida": "Gentile",
+  "clase": "Candidato",
+  "cod_categoria": "REC",
+  "cod_lista": "1",
+  "codigo": "1.1",
+  "id_candidatura": "1.1",
+  "id_umv": 1,
+  "imagenes": [
+  ],
+  "nombre": "Beatriz Gentile",
+  "orden_absoluto": [
+   1,
+   1,
+   1
+  ],
+  "secundarios": [
+                "Paul Osovnicar"
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Ponse de Leon",
+  "clase": "Candidato",
+  "cod_categoria": "REC",
+  "cod_lista": "2",
+  "codigo": "1.2",
+  "id_candidatura": "1.2",
+  "id_umv": 2,
+  "imagenes": [
+  ],
+  "nombre": "Andres Ponse de Leon",
+  "orden_absoluto": [
+   2,
+   1,
+   1
+  ],
+  "secundarios": [
+                "Lidia Lopez"
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Ponse de Leon",
+  "clase": "Candidato",
+  "cod_categoria": "REC",
+  "cod_lista": "3",
+  "codigo": "1.3",
+  "id_candidatura": "1.3",
+  "id_umv": 3,
+  "imagenes": [
+  ],
+  "nombre": "Omar Jurgeit",
+  "orden_absoluto": [
+   3,
+   1,
+   1
+  ],
+  "secundarios": [
+                "María Laura Malaspina"
+  ],
+  "sexo": "M",
+  "suplentes": []
+ },
+ {
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "REC",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 4,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ }, 
+    
+    
+  {
+  "asistida": "Daniel Nataine",
+  "clase": "Candidato",
+  "cod_categoria": "CSD",
+  "cod_lista": "10",
+  "codigo": "10.1",
+  "id_candidatura": "10.1",
+  "id_umv": 10,
+  "imagenes": [
+  ],
+  "nombre": "Daniel Nataine",
+  "orden_absoluto": [
+   10,
+   2
+  ],
+  "secundarios": [
+   "Silvia Bascur",
+   "Gabriel Lineares",
+   "Melina Schierloh",
+   "Pablo Kogan",
+   "Gustavo Raggio",
+   "Laura Porrino",
+   "Leonardo FAntini",
+   "Graciela Blanco",
+   "Natalia Ormeño"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Nestor Fernández",
+   "Ariel Sarricouet",
+   "Gabriel Rafart",
+   "Patricio Macchi",
+   "Fausto Firstater",
+   "Carlos Ferraro",
+   "Gustavo Casabona",
+   "Emir Parra",
+   "Mirta Guerrero",
+   "Hugo Curzel"
+  ]
+ },
+ {
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "CSD",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 18,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   2
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ 
+  {
+  "asistida": "Guillermo Grosso",
+  "clase": "Candidato",
+  "cod_categoria": "DEC",
+  "cod_lista": "20",
+  "codigo": "3.1",
+  "id_candidatura": "3.1",
+  "id_umv": 20,
+  "imagenes": [
+  ],
+  "nombre": "Guillermo Grosso",
+  "orden_absoluto": [
+   1,
+   3,
+   1
+  ],
+  "secundarios": [
+                "Silvia Amaro"
+  ],
+  "sexo": "M",
+  "suplentes": []
+ },
+
+ 
+ 
+ {
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "DEC",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 28,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   3
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },   
+ {
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "CDD",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 38,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   4
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ }   
+
+
+
+
+    
+    
+ 
+]

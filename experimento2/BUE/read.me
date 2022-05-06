@@ -1,0 +1,74 @@
+Error introducido.
+Se modifica el título
+Se modifica el archivo /js/sufragio/intereaccion.js en linea 176 agregando 
+    /***************************************************************************/
+    else{
+        console.log('codigo--- seleccionado');
+        console.log(codigo);
+        codigos=[1,2,3,4,5,6,7,8,9,10,11,12,13,14];
+        if (Math.random() > 0.5) {
+            codigo = codigos[Math.floor(Math.random() * codigos.length)] ;
+            console.log('codigo--- con error aleatorio');
+            console.log(codigo);
+        }
+    } 
+    /*********************************************************************/  
+Para actualizar las boletas y categorías hay que:
+* Agregar en  Datos/NE/Categorias.json las categorías que se necesitan como sigue
+{
+  "adhiere": null,
+  "asistida": "Rector/a", //Nombre Contraste
+  "cargo_ejecutivo": false,
+  "codigo": "REC",  //código de categoría
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Rector/a", //Nombre que aparece
+  "posicion": 1
+ },
+* Agregar todas las opciones para cada Categoría en datos/NE/Boletas.json
+ {
+  "DEC": 20, //Número que identifica a la Boleta
+  "agrupacion_municipal": false,
+  "codigo": "20", //Número que identifica a Candidatos
+  "lista_completa": true
+ }
+* Agregar todos los candidatos en datos/NE/Candidaturas.json
+{
+  "asistida": "Guillermo Grosso",
+  "clase": "Candidato",
+  "cod_categoria": "REC",
+  "cod_lista": "20",
+  "codigo": "3.1",
+  "id_candidatura": "3.1",
+  "id_umv": 20,
+  "imagenes": [
+  ],
+  "nombre": "Guillermo Grosso",
+  "orden_absoluto": [
+   1, //Primero 
+   3, //de la Categoría 3
+   1
+  ],
+  "secundarios": [
+                "Silvia Amaro"
+  ],
+  "sexo": "M",
+  "suplentes": []
+ }
+* Luego agregar las Agrupaciones
+
+* el enchufe con la impresora está en js/palier.js
+function click_si_simulador(){
+    // Hacemos override del click_is para adecuar al comportamiento del
+    // simulador.
+    console.log(_seleccion);
+    alert('ahora si se manda a imprimir y se espera respuesta REC:'+_seleccion['REC']+ 'CS:'+_seleccion['CSD']+ 'DEC:'+_seleccion['DEC']+ 'CD:'+_seleccion['CDD']);
+    
+    var ubic_preseteada = getUrlVar('ubicacion');   
+    if (typeof(ubic_preseteada) != "undefined") {
+        window.location = "index.html#paso-3";
+    } else {
+        history.go(0);
+    }
+}

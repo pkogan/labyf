@@ -1,0 +1,382 @@
+[
+    {
+        "asistida": "Convergencia Universitaria",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "1",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "1",
+        "imagenes": [
+        ],
+        "nombre": "Convergencia Universitaria",
+        "nombre_corto": "1REC",
+        "numero": "1",
+        "orden_absoluto": [
+            1
+        ]
+    }, 
+    {
+        "asistida": "Pensar la UNCo",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "1",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "2",
+        "imagenes": [
+        ],
+        "nombre": "Pensar la UNCo",
+        "nombre_corto": "2REC",
+        "numero": "2",
+        "orden_absoluto": [
+            2
+        ]
+    },
+    {
+        "asistida": "Unidad Docente",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "10",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "10",
+        "imagenes": [
+            "10"
+        ],
+        "nombre": "Unidad Docente",
+        "nombre_corto": "1CSD",
+        "numero": "1",
+        "orden_absoluto": [
+            10
+        ]
+    },
+{
+        "asistida": "La FAI",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "20",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "20",
+        "imagenes": [
+        ],
+        "nombre": "La FAI",
+        "nombre_corto": "1DEC",
+        "numero": "5",
+        "orden_absoluto": [
+            20
+        ]
+    },
+
+
+
+    {
+        "asistida": "151 - Movimiento Popular Neuquino",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "151",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "151",
+        "imagenes": [
+            "151"
+        ],
+        "nombre": "Movimiento Popular Neuquino",
+        "nombre_corto": "MPN",
+        "numero": "151",
+        "orden_absoluto": [
+            6
+        ]
+    },
+    {
+        "asistida": "180 - Nuevo Compromiso Neuquino",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "180",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "180",
+        "imagenes": [
+            "180"
+        ],
+        "nombre": "Nuevo Compromiso Neuquino",
+        "nombre_corto": "NCN",
+        "numero": "180",
+        "orden_absoluto": [
+            7
+        ]
+    },
+    {
+        "asistida": "183 - Movimiento Al Socialismo",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "183",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "183",
+        "imagenes": [
+            "183"
+        ],
+        "nombre": "Movimiento al Socialismo",
+        "nombre_corto": "MAS",
+        "numero": "183",
+        "orden_absoluto": [
+            8
+        ]
+    },
+    {
+        "asistida": "3 - Uni\u00f3n C\u00edvica Radical",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "3",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "3",
+        "imagenes": [
+            "3"
+        ],
+        "nombre": "Union C\u00edvica Radical",
+        "nombre_corto": "UCR",
+        "numero": "3",
+        "orden_absoluto": [
+            1
+        ]
+    },
+    {
+        "asistida": "40 - Movimiento Libres Del Sur",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "40",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "40",
+        "imagenes": [
+            "40"
+        ],
+        "nombre": "Movimiento Libres del Sur",
+        "nombre_corto": "MLS",
+        "numero": "40",
+        "orden_absoluto": [
+            3
+        ]
+    },
+    {
+        "asistida": "47 - Coalici\u00f3n C\u00edvica - Afirmaci\u00f3n Para Una Rep\u00fablica Igualitaria (Ari)",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "47",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "47",
+        "imagenes": [
+            "47"
+        ],
+        "nombre": "Coalici\u00f3n C\u00edvica - Afirmaci\u00f3n para Una Rep\u00fablica Igualitaria (ARI)",
+        "nombre_corto": "ARI",
+        "numero": "47",
+        "orden_absoluto": [
+            4
+        ]
+    },
+    {
+        "asistida": "5 - Partido Dem\u00f3crata Cristiano",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "5",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "5",
+        "imagenes": [
+            "5"
+        ],
+        "nombre": "Partido Dem\u00f3crata Cristiano",
+        "nombre_corto": "PDC",
+        "numero": "5",
+        "orden_absoluto": [
+            2
+        ]
+    },
+    {
+        "asistida": "64 - Pro - Propuesta Republicana",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "64",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "64",
+        "imagenes": [
+            "64"
+        ],
+        "nombre": "PRO - Propuesta Republicana",
+        "nombre_corto": "PRO",
+        "numero": "64",
+        "orden_absoluto": [
+            5
+        ]
+    },
+    {
+        "asistida": "667 - Frente De Todos",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "667",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "667",
+        "imagenes": [
+            "667"
+        ],
+        "nombre": "Frente de Todos",
+        "nombre_corto": "FT",
+        "numero": "667",
+        "orden_absoluto": [
+            9
+        ]
+    },
+    {
+        "asistida": "668 - Neuqu\u00e9n Puede Mas",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "668",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "668",
+        "imagenes": [
+            "668"
+        ],
+        "nombre": "Neuqu\u00e9n Puede Mas",
+        "nombre_corto": "NPM",
+        "numero": "668",
+        "orden_absoluto": [
+            10
+        ]
+    },
+    {
+        "asistida": "669 - Frente De Izquierda Y De Trabajadores - Unidad",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "669",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "669",
+        "imagenes": [
+            "669"
+        ],
+        "nombre": "Frente de Izquierda y de Trabajadores - Unidad",
+        "nombre_corto": "FITU",
+        "numero": "669",
+        "orden_absoluto": [
+            11
+        ]
+    },
+    {
+        "asistida": "670 - Confluencia Con Vos",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "670",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "670",
+        "imagenes": [
+            "670"
+        ],
+        "nombre": "Confluencia con Vos",
+        "nombre_corto": "CV",
+        "numero": "670",
+        "orden_absoluto": [
+            12
+        ]
+    },
+    {
+        "asistida": "902 - Juntos Por Neuqu\u00e9n",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "902",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "902",
+        "imagenes": [
+            "902"
+        ],
+        "nombre": "Juntos por Neuqu\u00e9n",
+        "nombre_corto": "JXN",
+        "numero": "902",
+        "orden_absoluto": [
+            13
+        ]
+    },
+    {
+        "asistida": "NO",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "RNO",
+        "color": [
+            "#db0101"
+        ],
+        "id_candidatura": "RNO",
+        "imagenes": [
+            "default_lista"
+        ],
+        "nombre": "NO",
+        "nombre_corto": "NO",
+        "numero": null,
+        "orden_absoluto": [
+            14
+        ]
+    },
+    {
+        "asistida": "SI",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "RSI",
+        "color": [
+            "#029d02"
+        ],
+        "id_candidatura": "RSI",
+        "imagenes": [
+            "default_lista"
+        ],
+        "nombre": "SI",
+        "nombre_corto": "SI",
+        "numero": null,
+        "orden_absoluto": [
+            15
+        ]
+    }
+]

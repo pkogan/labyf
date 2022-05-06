@@ -1,0 +1,279 @@
+[ {
+  "asistida": "Rectora: Gentile",
+  "clase": "Candidato",
+  "cod_categoria": "REC",
+  "cod_lista": "1",
+  "codigo": "1.1",
+  "id_candidatura": "1.1",
+  "id_umv": 1,
+
+  "nombre": "Rectora: Gentile Beatriz",
+  "orden_absoluto": [
+   1,
+   1,
+   1
+  ],
+  "secundarios": [
+                "Vice Rector: Osovnikar Paul"
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Rector: Ponce de Leon",
+  "clase": "Candidato",
+  "cod_categoria": "REC",
+  "cod_lista": "3",
+  "codigo": "1.3",
+  "id_candidatura": "1.3",
+  "id_umv": 3,
+  "imagenes": [
+  ],
+  "nombre": "Rector: Ponce de Leon Andres",
+  "orden_absoluto": [
+   2,
+   1,
+   1
+  ],
+  "secundarios": [
+                "Vice-Rectora: Lopez Lidia"
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Rector: Jurgeit",
+  "clase": "Candidato",
+  "cod_categoria": "REC",
+  "cod_lista": "2",
+  "codigo": "1.2",
+  "id_candidatura": "1.2",
+  "id_umv": 2,
+  "imagenes": [
+  ],
+  "nombre": "Rector: Jurgeit Omar Ruben",
+  "orden_absoluto": [
+   3,
+   1,
+   1
+  ],
+  "secundarios": [
+                "Vice-Rectora: Malaspina María Laura"
+  ],
+  "sexo": "M",
+  "suplentes": []
+ },
+ {
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "REC",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 4,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ }, 
+    
+    
+  {
+  "asistida": "Consejerxs Superiores",
+  "clase": "Candidato",
+  "cod_categoria": "CSD",
+  "cod_lista": "10",
+  "codigo": "10.1",
+  "id_candidatura": "10.1",
+  "id_umv": 10,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Superiores",
+  "orden_absoluto": [
+   10,
+   2
+  ],
+  "secundarios": [
+   "Titulares: Daniel Nataine","Silvia Bascur",
+   "Gabriel Lineares",
+   "Melina Schierloh",
+   "Pablo Kogan",
+   "Gustavo Raggio",
+   "Laura Porrino",
+   "Leonardo Fantini",
+   "Graciela Blanco",
+   "Natalia Ormeño"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Nestor Fernández",
+   "Ariel Sarricouet",
+   "Gabriel Rafart",
+   "Patricio Macchi",
+   "Fausto Firstater",
+   "Carlos Ferraro",
+   "Gustavo Casabona",
+   "Emir Parra",
+   "Mirta Guerrero",
+   "Hugo Curzel"
+  ]
+ },
+ {
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "CSD",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 18,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   2
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ 
+  {
+  "asistida": "Decano: Guillermo Grosso",
+  "clase": "Candidato",
+  "cod_categoria": "DEC",
+  "cod_lista": "20",
+  "codigo": "3.1",
+  "id_candidatura": "3.1",
+  "id_umv": 20,
+  "imagenes": [
+  ],
+  "nombre": "Decano: Guillermo Grosso",
+  "orden_absoluto": [
+   1,
+   3,
+   1
+  ],
+  "secundarios": [
+                "Vice-Decana: Amaro Silvia"
+  ],
+  "sexo": "M",
+  "suplentes": []
+ },
+
+ 
+ 
+ {
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "DEC",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 28,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   3
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ 
+   {
+  "asistida": "Consejerxs Directivxs",
+  "clase": "Candidato",
+  "cod_categoria": "CDD",
+  "cod_lista": "30",
+  "codigo": "4.1",
+  "id_candidatura": "4.1",
+  "id_umv": 30,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Directivxs",
+  "orden_absoluto": [
+   30,
+   4
+  ],
+  "secundarios": ["Titulares: Allan María Claudia",
+   "Mazalu Rafaela J.M.",
+   "Flores Andrés Pablo",
+   "Roger Sandra",
+   "Cecchi Laura Andrea",
+   "Martinez Carod Nadina",
+   "Zoratto Valeria",
+   "Morán Marina"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Fracchia Claudia Carina",
+   "Buccella Agustina",
+   "Martinez Rodolfo",
+   "Braun German Alejandro",
+   "Balladini Javier Aldo",
+   "Reynoso Luis Alberto",
+   "Baeza Natalia Elizabet",
+   "Cañibano Rodrigo S."
+  ]
+ },
+ 
+ {
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "CDD",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 38,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   4
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ }   
+
+
+
+
+    
+    
+ 
+]

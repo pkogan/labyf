@@ -1,0 +1,119 @@
+[
+    {
+        "asistida": "Convergencia Universitaria del Comahue",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "1",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "1",
+        "imagenes": [
+        ],
+        "nombre": "Convergencia Universitaria del Comahue",
+        "nombre_corto": "1REC",
+        "numero": "1",
+        "orden_absoluto": [
+            1
+        ]
+    }, 
+    {
+        "asistida": "Frente Universitario del Comahue",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "1",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "2",
+        "imagenes": [
+        ],
+        "nombre": "Frente Universitario del Comahue",
+        "nombre_corto": "2REC",
+        "numero": "2",
+        "orden_absoluto": [
+            2
+        ]
+    },
+    {
+        "asistida": "Pensar la UNCo",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "3",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "3",
+        "imagenes": [
+        ],
+        "nombre": "Pensar la UNCo",
+        "nombre_corto": "3REC",
+        "numero": "3",
+        "orden_absoluto": [
+            3
+        ]
+    },
+        
+    {
+        "asistida": "Unidad Docente",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "10",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "10",
+        "imagenes": [
+            "10"
+        ],
+        "nombre": "Unidad Docente",
+        "nombre_corto": "1CSD",
+        "numero": "1",
+        "orden_absoluto": [
+            10
+        ]
+    },
+{
+        "asistida": "La FAI",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "20",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "20",
+        "imagenes": [
+        ],
+        "nombre": "La FAI",
+        "nombre_corto": "1DEC",
+        "numero": "5",
+        "orden_absoluto": [
+            20
+        ]
+    },
+{
+        "asistida": "La FAI.EDU",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "30",
+        "color": [
+            "#FFFFFF"
+        ],
+        "id_candidatura": "30",
+        "imagenes": [
+        ],
+        "nombre": "La FAI.EDU",
+        "nombre_corto": "1CDD",
+        "numero": "8",
+        "orden_absoluto": [
+            30
+        ]
+    }
+
+]
