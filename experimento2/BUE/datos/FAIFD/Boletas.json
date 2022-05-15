@@ -23,6 +23,8 @@
   "CSD": 18,
   "DEC": 28,
   "CDD": 38,
+  "CDE": 48,
+  "CDN": 58,
   "agrupacion_municipal": false,
   "codigo": "BLC",
   "lista_completa": true
@@ -58,6 +60,12 @@
   "DEC": 20,
   "agrupacion_municipal": false,
   "codigo": "20",
+  "lista_completa": true
+ },
+ {
+  "CDE": 40,
+  "agrupacion_municipal": false,
+  "codigo": "40",
   "lista_completa": true
  }
  

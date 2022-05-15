@@ -1,0 +1,47 @@
+[
+ {
+  "adhiere": null,
+  "asistida": "Rector/a y Vice Rector/a",
+  "cargo_ejecutivo": false,
+  "codigo": "REC",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Rector/a y Vice Rector/a",
+  "posicion": 1
+ },
+ {
+  "adhiere": null,
+  "asistida": "Consejerxs Superiores Graduadxs",
+  "cargo_ejecutivo": false,
+  "codigo": "CSG",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Consejerxs Superiores Graduadxs",
+  "posicion": 2
+ }
+ ,
+  {
+  "adhiere": null,
+  "asistida": "Decano/a y Vice Decano/a",
+  "cargo_ejecutivo": false,
+  "codigo": "DECCRUB",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Decano/a y Vice Decano/a",
+  "posicion": 3
+ },
+ {
+  "adhiere": null,
+  "asistida": "Consejerxs Directivos Graduadxs",
+  "cargo_ejecutivo": false,
+  "codigo": "CDGCRUB",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Consejerxs Directivos Graduadxs",
+  "posicion": 4
+ }
+]

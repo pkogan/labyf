@@ -246,12 +246,49 @@ function click_si_simulador(){
     // Hacemos override del click_is para adecuar al comportamiento del
     // simulador.
     console.log(_seleccion);
+    /*crear qr*/
+    lugar=document.getElementById("rechazar_voto");
+    lugar.innerHTML='<br/>';
+    var qrcode = new QRCode(lugar, {
+	width : 150,
+	height : 150
+    });
+    
+     var ubic_preseteada = getUrlVar('ubicacion');   
+    if (typeof(ubic_preseteada) != "undefined") {
+        ubicacion=ubic_preseteada.substring(0,4);
+    }
+    
+    salida='[{"t":'+new Date().getTime()+'\n,"u":"'+ubic_preseteada+'"';
+    //salida+=',"loc":"'+window.location.search+'"';
+    salida+='\n,"votos":['
+    primero=true;
+    for(var cat in _seleccion){
+        lista=local_data.agrupaciones.one({id_candidatura:_seleccion[cat]});
+        if(primero){
+            primero=false;
+        }else{
+            salida+=",";
+        }
+        salida+= '{"c":"'+cat+'","id":'+_seleccion[cat];
+        if(lista==undefined){
+            salida+= ',"n":"B"';
+        }else{
+            salida+= ',"n":'+lista.numero;
+        }
+        //salida+= ',"nombre":"'+lista.nombre+'"}\n';
+        salida+= '}\n';
+    }
+    salida+=']}]';
+    console.log(salida);
+    qrcode.makeCode(salida);
+    //alert('ahora si se manda a imprimir y se espera respuesta REC:'+_seleccion['REC']+ 'CS:'+_seleccion['CSD']+ 'DEC:'+_seleccion['DEC']+ 'CD:'+_seleccion['CDD']);
     window.print();
     //alert('ahora si se manda a imprimir y se espera respuesta REC:'+_seleccion['REC']+ 'CS:'+_seleccion['CSD']+ 'DEC:'+_seleccion['DEC']+ 'CD:'+_seleccion['CDD']);
     
     var ubic_preseteada = getUrlVar('ubicacion');   
     if (typeof(ubic_preseteada) != "undefined") {
-        window.location = "index.html#paso-3";
+        window.location = "index_"+ubicacion+".html#paso-3";
     } else {
         history.go(0);
     }

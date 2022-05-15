@@ -1,0 +1,25 @@
+[
+ {
+  "adhiere": null,
+  "asistida": "Rector/a y Vice Rector/a",
+  "cargo_ejecutivo": false,
+  "codigo": "REC",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Rector/a y Vice Rector/a",
+  "posicion": 1
+ },
+ {
+  "adhiere": null,
+  "asistida": "Consejerxs Superiores Docentes",
+  "cargo_ejecutivo": false,
+  "codigo": "CSD",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Consejerxs Superiores Docentes",
+  "posicion": 2
+ }
+
+]

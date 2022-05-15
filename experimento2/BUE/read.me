@@ -72,3 +72,36 @@ function click_si_simulador(){
         history.go(0);
     }
 }
+
+* MODIFICACIÓN TEMPLATE
+flavors/neuquen/flavor.css
+/* Agregado para que no imprima los botones de imprimir, modificar y reiniciar*/
+@media print{
+    .boton-barra-individual, .confirmacion_tarjeta-footer{
+                  visibility: hidden;
+    display: none; }
+    
+}
+
+
+Candidaturas
+RECT 1..3  4 Blanco
+CSD 10..15 18 Blanco
+
+FAIF
+DEC 20 28 Blanco
+CDD 30 38 Blanco
+CDE 40 48 Blanco
+CDN 50 58 Blanco
+CDG 60 68 Blanco
+
+CSE 70..77 78 Blanco
+CSN 80..82 88 Blanco
+CSG 90..95 98 Blanco
+
+CRUB
+DECCRUB 100 108 Blanco
+CDDCRUB 110 118 Blanco
+CDECRUB 120 128 Blanco
+CDNCRUB 130 138 Blanco
+CDGCRUB 140 148 Blanco

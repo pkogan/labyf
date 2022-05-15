@@ -7,7 +7,7 @@
     "PATH_TEMPLATES_MODULOS": "",
     "seleccionar_lista_unica": true,
     "agrupar_por_partido": false,
-    "numeros_templates": [3, 6, 9, 12 ],
+    "numeros_templates": [3, 6, 8, 12 ],
     "path_imagenes_candidaturas": "imagenes_candidaturas/",
     "interna": false,
     "mostrar_cursor": true,
@@ -78,7 +78,7 @@
     "encabezado": {
         "subtitulo": "Elecciones UNComa - 23 y 24 de mayo de 2022",
         "fecha": "23 y 24 de mayo de 2022",
-        "titulo": "UNComa FAIF Docentes",
+        "titulo": "UNComa CRUB Estudiantes",
         "entidad": "No oficial - Actividad Académica"
     },
     "cod_datos": "NE",

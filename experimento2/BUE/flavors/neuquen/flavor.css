@@ -1,3 +1,4 @@
+
 .opciones .candidato .foto-candidato,
 .opciones .candidato .foto-principal {
   display: inline;
@@ -2897,4 +2898,11 @@ body[data-state="alto-contraste"] .max16 .candidato_base {
     grid-row-gap: 4px;
     grid-column-gap: 3px;
   }
+}
+/* Agregado para que no imprima los botones de imprimir, modificar y reiniciar*/
+@media print{
+    #si_confirmar_voto, .confirmacion_tarjeta-footer{
+                  visibility: hidden;
+    display: none; }
+    
 }
