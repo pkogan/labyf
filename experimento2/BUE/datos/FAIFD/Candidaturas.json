@@ -1,4 +1,4 @@
-[ {
+[{
   "asistida": "Rectora: Gentile",
   "clase": "Candidato",
   "cod_categoria": "REC",
@@ -240,7 +240,7 @@
    "Jara María de los A.",
    "Nuñez Santiago A.",
    "Vasquez Maximiliano",
-   "*Villca Victor H.",
+   "Villca Victor H.",
    "Parra Gerardo"
   ],
   "sexo": "M",
@@ -361,7 +361,7 @@
  },
  
   {
-  "asistida": "Decano: Guillermo Grosso",
+  "asistida": "Decano: Grosso Guillermo",
   "clase": "Candidato",
   "cod_categoria": "DEC",
   "cod_lista": "20",
@@ -370,7 +370,7 @@
   "id_umv": 20,
   "imagenes": [
   ],
-  "nombre": "Decano: Guillermo Grosso",
+  "nombre": "Decano: Grosso Guillermo",
   "orden_absoluto": [
    1,
    3,
