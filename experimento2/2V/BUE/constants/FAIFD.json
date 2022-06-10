@@ -1,5 +1,5 @@
 {
-    "numeros_templates_confirmacion": [4],
+    "numeros_templates_confirmacion": [1],
     "tiempo_feedback": 150,
     "boton_modificar_en_lista_completa": true,
     "ubicacion": "NE.17.448",
@@ -7,7 +7,7 @@
     "PATH_TEMPLATES_MODULOS": "",
     "seleccionar_lista_unica": true,
     "agrupar_por_partido": false,
-    "numeros_templates": [3, 6, 9, 12 ],
+    "numeros_templates": [2, 6, 9, 12 ],
     "path_imagenes_candidaturas": "imagenes_candidaturas/",
     "interna": false,
     "mostrar_cursor": true,
@@ -76,9 +76,9 @@
     },
     "templates": ["candidato", "categoria", "lista", "partido", "candidato_hijo", "confirmacion", "consulta_popular", "candidatos_adicionales", "colores", "candidato_verificacion", "solapa", "confirmacion_tarjeta", "confirmacion_candidato_blanco", "confirmacion_consulta_popular", "confirmacion_candidato_elegido"],
     "encabezado": {
-        "subtitulo": "Elecciones UNComa - 23 y 24 de mayo de 2022",
-        "fecha": "23 y 24 de mayo de 2022",
-        "titulo": "UNComa FAIF Docentes",
+        "subtitulo": "Elecciones UNComa - 13 y 14 de Junio de 2022",
+        "fecha": "13 y 14 de junio de 2022",
+        "titulo": "UNComa 2da Vuelta",
         "entidad": "No oficial - Actividad Académica"
     },
     "cod_datos": "NE",

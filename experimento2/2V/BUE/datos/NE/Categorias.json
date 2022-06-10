@@ -1,0 +1,46 @@
+[
+ {
+  "adhiere": null,
+  "asistida": "Rector/a y Vice Rector/a",
+  "cargo_ejecutivo": false,
+  "codigo": "REC",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Rector/a y Vice Rector/a",
+  "posicion": 1
+ },
+ {
+  "adhiere": null,
+  "asistida": "Consejerxs Superiores Docentes",
+  "cargo_ejecutivo": false,
+  "codigo": "CSD",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Consejerxs Superiores Docentes",
+  "posicion": 2
+ },
+  {
+  "adhiere": null,
+  "asistida": "Decano/a y Vice Decano/a",
+  "cargo_ejecutivo": false,
+  "codigo": "DEC",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Decano/a y Vice Decano/a",
+  "posicion": 3
+ },
+ {
+  "adhiere": null,
+  "asistida": "Consejerxs Directivos Docentes",
+  "cargo_ejecutivo": false,
+  "codigo": "CDD",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Consejerxs Directivos Docentes",
+  "posicion": 4
+ }
+]
