@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+<head>
+    <title>Escrutinio mesa voto electrónico</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1>Escrutinio mesa voto electrónico</h1>
+    <div style='width:300px; float: left' id="tablero">
+        <h3 id='total'>Boletas leidas:0</h3>
+        <hr/>
+        <h3>Última boleta</h3>
+        <h2 id='ultima'></h2>
+        <hr/>
+        <b>Logs boletas</b>
+        <p id='logs'></p>
+    </div>
+    <div id="qr-reader" style="width:200px;float: right"></div>
+    <div style='width:300px; float: right' id="acta"></div>
+    
+    <div id="qr-reader-results"></div>
+    
+</body>
+<script src="js/html5-qrcode.min.js"></script>
+<script>
+    var mesa=null;
+    var leidos=Array();
+    var categorias=Array();
+    
+    function docReady(fn) {
+        // see if DOM is already available
+        if (document.readyState === "complete"
+            || document.readyState === "interactive") {
+            // call on next available tick
+            setTimeout(fn, 1);
+        } else {
+            document.addEventListener("DOMContentLoaded", fn);
+        }
+    }
+    function actualizarActa(){
+        var actaContainer = document.getElementById('acta');
+        actaContainer.innerHTML='<h3>Acta mesa '+mesa+'</h3>';
+        for (var cat in categorias) {
+          
+                actaContainer.innerHTML+='<hr/><b>'+cat+'</b><br/>';
+            for (var lista in categorias[cat]) {
+                if(lista=='B'){
+                    textolista='Blancos';
+                }else{
+                    textolista='Lista '+lista;
+                }
+                actaContainer.innerHTML+=textolista+': '+categorias[cat][lista]+ '<br/>';
+            }
+        }
+    }
+    function addLog($text){
+        var logContainer = document.getElementById('logs');
+        logContainer.innerHTML=$text+'<br/>'+logContainer.innerHTML;
+       
+    }
+
+    docReady(function () {
+        var resultContainer = document.getElementById('qr-reader-results');
+        var lastResult, countResults = 0;
+        function onScanSuccess(decodedText, decodedResult) {
+            if (decodedText !== lastResult) {
+                ++countResults;
+                lastResult = decodedText;
+                // Handle on success condition with the decoded message.
+                console.log(decodedText);
+                var json=JSON.parse(decodedText);
+                console.log('test');
+                console.log(json);
+                //console.log('Scan ${decodedText}', decodedResult);
+                
+                if(mesa==null){
+                    mesa=json[0].u;
+                }else{
+                    if(mesa!=json[0].u){
+                        alert('Mesa diferente');
+                        addLog('Error: Mesa diferente.'+decodedText);
+                        return;
+                    }
+                }
+                if(leidos.includes(json[0].t)){
+                        alert('Boleta ya leida');
+                        addLog('Error: Boleta ya leida.'+decodedText);
+                        return;
+                }else{
+                    leidos.push(json[0].t);
+                }
+                
+                if(mesa!=null){
+                    ultima='';
+                    for (var item in json[0].votos) {
+                        console.log(json[0].votos[item]);
+                        voto=json[0].votos[item];
+                        if(categorias[voto.c]==null){
+                            categorias[voto.c]=Array();
+                        }
+                        if(categorias[voto.c][voto.n]==null){
+                            categorias[voto.c][voto.n]=0;
+                        }
+                        categorias[voto.c][voto.n]++;
+                        ultima+='Categoría: '+voto.c +' Lista: '+voto.n+'<br/>';
+                    }
+                }
+            document.getElementById('ultima').innerHTML=ultima;
+            document.getElementById('total').innerHTML='Boletas leidas: '+leidos.length;
+            addLog('Boleta ok.'+decodedText);
+            actualizarActa();       
+            }
+        }
+
+        var html5QrcodeScanner = new Html5QrcodeScanner(
+            "qr-reader", { fps: 10, qrbox: 250 });
+        html5QrcodeScanner.render(onScanSuccess);
+    });
+</script>
+
+</html>
