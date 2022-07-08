@@ -260,14 +260,15 @@ function click_si_simulador() {
         lugar.innerHTML = '<br/><br/>';
         var qrcode = new QRCode(lugar, {
             width: 150,
-            height: 150
+            height: 150,
+            correctLevel : QRCode.CorrectLevel.L
         });
         
 
 
         salida = '[{"t":' + new Date().getTime() + ',"u":"' + ubic_preseteada + '"';
         //salida+=',"loc":"'+window.location.search+'"';
-        salida += ',"votos":['
+        salida += ',"v":"'
         primero = true;
         for (var cat in _seleccion) {
             lista = local_data.agrupaciones.one({id_candidatura: _seleccion[cat]});
@@ -276,29 +277,29 @@ function click_si_simulador() {
             } else {
                 salida += ",";
             }
-            salida += '{"c":"' + cat+ '"'; // +',"id":' + _seleccion[cat];
+            salida +=  cat+ ':'; // +',"id":' + _seleccion[cat];
             if (lista == undefined) {
-                salida += ',"n":"B"';
+                salida += 'B';
             } else {
-                salida += ',"n":' + lista.numero;
+                salida += + lista.numero;
             }
             //salida+= ',"nombre":"'+lista.nombre+'"}\n';
-            salida += '}';
+            //salida += '}';
         }
-        salida += ']}]';
+        salida += '"}]';
         console.log(salida);
         qrcode.makeCode(salida);
-        alert('ahora si se manda a imprimir y se espera respuesta REC:'+_seleccion['REC']+ 'CS:'+_seleccion['CSD']+ 'DEC:'+_seleccion['DEC']+ 'CD:'+_seleccion['CDD']);
+        //alert('ahora si se manda a imprimir y se espera respuesta REC:'+_seleccion['REC']+ 'CS:'+_seleccion['CSD']+ 'DEC:'+_seleccion['DEC']+ 'CD:'+_seleccion['CDD']);
         window.print();
         //alert('ahora si se manda a imprimir y se espera respuesta REC:'+_seleccion['REC']+ 'CS:'+_seleccion['CSD']+ 'DEC:'+_seleccion['DEC']+ 'CD:'+_seleccion['CDD']);
     //}
-    /*
+    
     var ubic_preseteada = getUrlVar('ubicacion');
     if (typeof (ubic_preseteada) != "undefined") {
         window.location = "index_" + ubicacion + ".html#paso-3";
     } else {
         history.go(0);
-    }*/
+    }
 }
 function run_op(operacion, data) {
     // Misma implementacion que zaguan.js

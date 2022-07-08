@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+<head>
+    <title>Generador de voto</title>
+    <meta charset="UTF-8">
+    <style>
+    image{
+        text-align: center;
+    }
+</style>
+</head>
+
+<body style="text-align: center">
+
+    
+    <div id="lugar" style="text-align:center;margin:auto;width:50%"></div>
+    
+</body>
+<script src="js/qrcode.min.js"></script>
+<script>
+    function getRandomInt(max) {
+  return Math.floor(Math.random() * max)+1;
+}
+    lugar = document.getElementById("lugar");
+
+        
+        lugar.innerHTML = '<br/><br/>';
+
+        
+        ubic_preseteada="FAIFD";
+
+        salida = '[{"t":' + new Date().getTime() + ',"u":"' + ubic_preseteada + '"';
+        //salida+=',"loc":"'+window.location.search+'"';
+        salida += ',"v":"REC:'+getRandomInt(3)+',CSD:'+getRandomInt(6)+',DEC:5,CDD:8"}]';
+        console.log(salida);
+        lugar.innerHTML+= salida+'<br/><br/><br/><br/><br/><br/>';
+        var qrcode = new QRCode(lugar, {
+            width: 450,
+            height: 450,
+            correctLevel : QRCode.CorrectLevel.L
+        });
+        qrcode.makeCode(salida);
+
+        
+</script>
+
+</html>
