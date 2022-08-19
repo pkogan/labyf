@@ -1,0 +1,24 @@
+[
+ {
+  "adhiere": null,
+  "asistida": "Presidente/a y Vice Presidente/a",
+  "cargo_ejecutivo": false,
+  "codigo": "PRE",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Presidente/a y Vice Presidente/a",
+  "posicion": 1
+ },
+ {
+    "adhiere": null,
+    "asistida": "Gobernador/a y Vice Gobernador/a",
+    "cargo_ejecutivo": false,
+    "codigo": "GOB",
+    "consulta_popular": false,
+    "id_grupo": 1,
+    "max_selecciones": 1,
+    "nombre": "Gobernador/a y Vice Gobernador/a",
+    "posicion": 2
+   }
+]

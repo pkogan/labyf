@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<!-- saved from url=(0045)http://neuquen.votar.com.ar/index.html#paso-2 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <title>Simulador de Voto Electrónico Elecciones UNComa 2022</title>
+        <link rel="manifest" href="./manifest.json">
+        <!-- <script src="/js/pwa.js"></script> -->
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="shortcut icon" href="./img/favicon.ico">
+        <link rel="stylesheet" href="libindex//bootstrap.min.css">
+        <link rel="stylesheet" href="libindex/boot.css">
+
+        <link rel="stylesheet" href="libindex/reset.css">
+        <link rel="stylesheet" href="libindex/instructivo.css">
+
+        <script src="libindex/instructivo.js"></script>
+<!--        <link href="http://neuquen.votar.com.ar/img/favicon.png" rel="shortcut icon" type="image/png">-->
+    </head>
+    <body class="vanilla">
+        <div id="contenedor">
+            <div id="ayuda">
+                <div id="contenedor-ayuda" class="container">
+                   <header>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-6 col-md-12 col-xs-12" id="superior">
+                                    <a class="navbar-brand" href="#">No oficial - EXPERIMENTO 
+                                        <span><br>Elecciones en la Escuela
+                                            <br>Simulador del Sistema de Voto Electrónico</span></a>
+                                </div>
+                                
+                            </div>
+                    </div></header>
+
+                    <div id="bienvenido" style="display:none;">
+                        
+                        <h1>Simulador del Sistema de Voto Electrónico basado en sistema de Boleta Única Electrónica</h1>
+                        <button id="empezar" class="btn btn-success btn-lg">Comenzar</button><br>
+                        <!-- <a href=""><button class="btn btn-primary btn-lg">Descargar versión<br> Offline (Windows)</button></a> 
+                        <a href="https://play.google.com/store/apps/details?id=ar.com.votar.simulador.neuquen"><button class="btn btn-primary btn-lg">Descargar desde <br>Google Play Store</button></a>
+                        <!-- <a href="javascript:installPWA();"><button class="btn btn-primary btn-lg">Instalar aplicación</button></a> -->
+                        <br/>
+                        <br/>
+                        <a href="Modelos BUE EXPERIMENTO UNCo dorso.pdf">Dorso de dos Boletas Electrónicas</a> 
+                        <a href="escrutinio.html">Escrutinio Mesa
+                        </a> 
+
+                    </div>
+
+                    <div id="paso-1" class="paso" style="display:none;">
+                        <img class="grafico" src="libindex/boleta-troquel.png">
+                        <h1>La Autoridad de Mesa le entregará una boleta en blanco y retirará ante Usted el primer troquel.</h1>
+                        <button class="next btn btn-primary btn-lg">Continuar</button>
+                    </div>
+
+                    <div id="paso-2" class="paso" style="display:none;">
+                        <img height="100px" class="grafico" src="libindex/maquina-boletaUNCo.png" id="maquina-boleta">
+                        <h1>La Autoridad de Mesa le entregará una boleta en blanco.
+                            Luego coloque la boleta en la ranura en el sentido que indica la flecha.</h1>
+                                            <button class="btn btn-primary btn-lg ubicacion-destino" id="LINC">Continuar</button>
+<!--                        <button class="btn btn-primary btn-lg ubicacion-destino" id="FAIFE">Estudiantes</button>
+                        <button class="btn btn-primary btn-lg ubicacion-destino" id="FAIFN">No Docentes</button>
+                        <button class="btn btn-primary btn-lg ubicacion-destino" id="FAIFG">Graduadxs</button>-->
+                        </div>
+                    
+
+                    <div id="paso-3" class="paso" style="display:none;">
+                        <img class="grafico" src="libindex/maquina-verificacionUNCo.png" id="maquina-verificacion">
+                        <img class="grafico" src="libindex/urnaUNCo.png" id="maquina-verificacion">
+                        <h1>La máquina imprimirá su elección. Luego pliegue y coloque la boleta impresa en la urna.<br>
+                        Gracias por participar</h1>
+                                                <button id="reset" class="btn btn-primary btn-lg">Reiniciar</button>
+
+<!--                        <button class="next btn btn-primary btn-lg">Continuar</button> -->
+                    </div>
+
+                    <div id="paso-4" class="paso" style="display:none;">
+                        <img class="grafico" src="libindex/plegada-multiple.png" id="maquina-verificacion">
+                        <h1>Regrese a la mesa con la boleta plegada por la línea de puntos para preservar el secreto de su selección.</h1>
+                        <button class="next btn btn-primary btn-lg">Continuar</button>
+                    </div>
+
+                    <div id="paso-5" class="paso" style="display:none;">
+                        <img class="grafico" src="libindex/urna.png" id="maquina-verificacion">
+                        <h1>Frente a la Autoridad de Mesa corte el segundo troquel y entréguelo. Por último, introduzca la boleta en la urna para emitir su voto.</h1>
+                        <button class="next btn btn-primary btn-lg">Continuar</button>
+                    </div>
+
+                    <div id="agradecimiento" style="display:none;">
+                        <h1>Gracias por utilizar el simulador del Sistema de Boleta Única Electrónica (BUE)</h1>
+                        <button id="reset" class="btn btn-primary btn-lg">Reiniciar</button>
+                    </div>
+
+                    <div id="seleccionar_ubicaciones" style="display:none;">
+                        <h1 class="ubicacion">Para iniciar el simulador seleccione el departamento en la que vota:</h1>
+                        <div class="container">
+                            <ul class="departamentos col-md-12">
+                                
+                                <li class="btn btn-default btn-lg"><input name="NE" type="checkbox">&nbsp;&nbsp;&nbsp;Neuquén</li>
+                                
+                            </ul> 
+                            <div style="text-align: center;">
+                                <button id="btn-continuar-loading" class="btn btn-primary btn-lg">
+                                    <div class="lds-ring"><div></div><div></div><div></div><div></div></div>
+                                </button>
+                                <button id="btn-continuar" class="btn btn-primary btn-lg" onclick="comenzar_cache_offline()">Continuar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+</body></html>
