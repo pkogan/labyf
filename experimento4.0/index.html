@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Instructivo para el uso del Sistema de Boleta Única Electrónica</title>
+        <link rel="manifest" href="manifest.json">
+        <!-- <script src="/js/pwa.js"></script> -->
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="shortcut icon" href="https://neuquen-2023.votar.com.ar/img/favicon.ico">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/boot.css">
+
+        <link rel="stylesheet" href="css/reset.css">
+        <link rel="stylesheet" href="css/instructivo.css">
+
+        <script src="js/instructivo.js"></script>
+        <link href="img/favicon.png" rel="shortcut icon" type="image/png">
+    </head>
+    <body class="vanilla">
+        <div id="contenedor">
+            <div id="ayuda">
+                <div id="contenedor-ayuda" class="container">
+                    <header>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-6 col-md-12 col-xs-12" id="superior">
+                                    <a class="navbar-brand" href="index.html#">
+                                        Elecciones Provinciales - Neuquén 2023
+                                        <span><br />Provincia del Neuquén</span>
+                                        <span><br />16 de abril de 2023</span>
+                                    </a>
+                                </div>
+                                <div class="col-md-6 texto-tribunal col-xs-12">
+                                    <p class="tribunal">&nbsp;</p>
+                                    <p class="simulador">Instructivo para el uso del Sistema de Boleta Única Electrónica (BUE)</p>
+                                </div>
+                            </div>
+                    </header>
+
+                    <div id="bienvenido" style="display:none;">
+                        <h1>Simulador del Sistema de Boleta Única Electrónica (BUE)</h1>                        
+                        <button id="empezar" class="btn btn-success btn-lg">Comenzar</button><br>
+                        <!-- <a href=""><button class="btn btn-primary btn-lg">Descargar versión<br> Offline (Windows)</button></a>
+                        <a href=""><button class="btn btn-primary btn-lg">Descargar desde <br>Google Play Store</button></a>
+                        <a href="javascript:installPWA();"><button class="btn btn-primary btn-lg">Instalar aplicación</button></a> -->
+                    </div>
+
+                    <div id="paso-1" class="paso" style="display:none;">
+                        <img class="grafico" src="img/boleta-troquel.png">
+                        <h1>La Autoridad de Mesa le entregará una boleta en blanco y retirará ante Usted el primer troquel.</h1>
+                        <button class="next btn btn-primary btn-lg">Continuar</button>
+                    </div>
+
+                    <div id="paso-2" class="paso" style="display:none;">
+                        <img class="grafico" src="img/maquina-boleta.png" id="maquina-boleta">
+                        <h1>Coloque la boleta en la ranura en el sentido que indica la flecha.</h1>
+                    
+                        <button class="next btn btn-primary btn-lg">Continuar</button>
+                    </div>
+                        <div id="ubicaciones" class="paso" style="display:none;">
+                            <h1 class="ubicacion">Para iniciar el simulador seleccione <span id="tipo-ubicacion">el departamento en el</span> que vota:</h1>
+                            <div id="ubicaciones" class="container">
+                                <ul class="departamentos col-md-12">
+                                    
+                                    <li id="NE.10" data-tipo="departamento" class="btn btn-default btn-lg ubicacion-destino">Alumine</li>
+                                    
+                                    <li id="NE.3" data-tipo="departamento" class="btn btn-default btn-lg ubicacion-destino">Añelo</li>
+                                    
+                                    <li id="NE.11" data-tipo="departamento" class="btn btn-default btn-lg ubicacion-destino">Catan Lil</li>
+                                    
+                                    <li id="NE.5" data-tipo="departamento" class="btn btn-default btn-lg ubicacion-destino">Chos Malal</li>
+                                    
+                                    <li id="NE.13" data-tipo="departamento" class="btn btn-default btn-lg ubicacion-destino">Collon Cura</li>
+                                    
+                                    <li id="NE.1" data-tipo="departamento" class="btn btn-default btn-lg ubicacion-destino">Confluencia</li>
+                                    
+                                    <li id="NE.14" data-tipo="departamento" class="btn btn-default btn-lg ubicacion-destino">Huiliches</li>
+                                    
+                                    <li id="NE.15" data-tipo="departamento" class="btn btn-default btn-lg ubicacion-destino">Lacar</li>
+                                    
+                                    <li id="NE.8" data-tipo="departamento" class="btn btn-default btn-lg ubicacion-destino">Loncopue</li>
+                                    
+                                    <li id="NE.16" data-tipo="departamento" class="btn btn-default btn-lg ubicacion-destino">Los Lagos</li>
+                                    
+                                    <li id="NE.6" data-tipo="departamento" class="btn btn-default btn-lg ubicacion-destino">Minas</li>
+                                    
+                                    <li id="NE.4" data-tipo="departamento" class="btn btn-default btn-lg ubicacion-destino">Pehuenches</li>
+                                    
+                                    <li id="NE.12" data-tipo="departamento" class="btn btn-default btn-lg ubicacion-destino">Picun Leufu</li>
+                                    
+                                    <li id="NE.9" data-tipo="departamento" class="btn btn-default btn-lg ubicacion-destino">Picunches</li>
+                                    
+                                    <li id="NE.2" data-tipo="departamento" class="btn btn-default btn-lg ubicacion-destino">Zapala</li>
+                                    
+                                    <li id="NE.7" data-tipo="departamento" class="btn btn-default btn-lg ubicacion-destino">Ñorquin</li>
+                                    
+                                </ul>
+                                
+                                <ul class="localidades col-md-12" data-departamento="NE.10" style="display: none;">
+                                    
+                                        <li id="NE.10.1" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Alumine</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Kilca</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Lonco Luan</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Pulmari</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Quillen</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Ruca Choroy</li>
+                                    
+                                        <li id="NE.10.34" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Villa Pehuenia</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Ñorquinco</li>
+                                    
+                                </ul> 
+                                
+                                <ul class="localidades col-md-12" data-departamento="NE.3" style="display: none;">
+                                    
+                                        <li id="NE.3.38" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Aguada San Roque</li>
+                                    
+                                        <li id="NE.3.3" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Añelo</li>
+                                    
+                                        <li id="NE.3.39" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Los Chihuidos</li>
+                                    
+                                        <li id="NE.3.29" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">San Patricio Del Chañar</li>
+                                    
+                                </ul> 
+                                
+                                <ul class="localidades col-md-12" data-departamento="NE.11" style="display: none;">
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Caichihue</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Chacaico Sur</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">El Salitral</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">La Picaza</li>
+                                    
+                                        <li id="NE.11.16" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Las Coloradas</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Las Cortaderas</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Media Luna</li>
+                                    
+                                        <li id="NE.11.44" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Pilo Lil</li>
+                                    
+                                        <li id="NE.11.49" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Villa Del Puente Picun Leufu</li>
+                                    
+                                </ul> 
+                                
+                                <ul class="localidades col-md-12" data-departamento="NE.5" style="display: none;">
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Cajon Del Curi Leuvu</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Chapua</li>
+                                    
+                                        <li id="NE.5.9.1" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Chos Malal</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Chos Malal - Fuera De Radio</li>
+                                    
+                                        <li id="NE.5.53" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Coyuco-Cochico</li>
+                                    
+                                        <li id="NE.5.32.1" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Tricao Malal</li>
+                                    
+                                        <li id="NE.5.52" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Villa Curi Leuvu</li>
+                                    
+                                </ul> 
+                                
+                                <ul class="localidades col-md-12" data-departamento="NE.13" style="display: none;">
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Carran Cura</li>
+                                    
+                                        <li id="NE.13.24" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Piedra Del Aguila</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">San Ignacio</li>
+                                    
+                                        <li id="NE.13.43" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Santo Tomas</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Sañico</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Zaina Yegua</li>
+                                    
+                                </ul> 
+                                
+                                <ul class="localidades col-md-12" data-departamento="NE.1" style="display: none;">
+                                    
+                                        <li id="NE.1.8" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Centenario</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Challaco</li>
+                                    
+                                        <li id="NE.1.10" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Cutral Co</li>
+                                    
+                                        <li id="NE.1.22.69" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Neuquén, Distrito Escolar 1</li>
+                                    
+                                        <li id="NE.1.22.51" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Neuquén, Distrito Escolar 8</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Planicie Banderita</li>
+                                    
+                                        <li id="NE.1.25" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Plaza Huincul</li>
+                                    
+                                        <li id="NE.1.26" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Plottier</li>
+                                    
+                                        <li id="NE.1.37" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Sauzal Bonito</li>
+                                    
+                                        <li id="NE.1.30" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Senillosa</li>
+                                    
+                                        <li id="NE.1.11" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Villa El Chocon</li>
+                                    
+                                        <li id="NE.1.35" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Vista Alegre</li>
+                                    
+                                </ul> 
+                                
+                                <ul class="localidades col-md-12" data-departamento="NE.14" style="display: none;">
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Atreuco</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Aucapan</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Chiuquilihuin</li>
+                                    
+                                        <li id="NE.14.1410C" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Huechulafquen</li>
+                                    
+                                        <li id="NE.14.15" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Junin De Los Andes</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Pampa Del Malleo</li>
+                                    
+                                </ul> 
+                                
+                                <ul class="localidades col-md-12" data-departamento="NE.15" style="display: none;">
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Chapelco Grande</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Hua Hum</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Lago Hermoso</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Lago Meliquina</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Pil Pil</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Quila Quina</li>
+                                    
+                                        <li id="NE.15.28" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">San Martin De Los Andes</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Trompul</li>
+                                    
+                                </ul> 
+                                
+                                <ul class="localidades col-md-12" data-departamento="NE.8" style="display: none;">
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Cajon De Almaza</li>
+                                    
+                                        <li id="NE.8.51" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Chorriaca</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Huarenchenque</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Huncal</li>
+                                    
+                                        <li id="NE.8.19" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Loncopue</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Quintuco</li>
+                                    
+                                </ul> 
+                                
+                                <ul class="localidades col-md-12" data-departamento="NE.16" style="display: none;">
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">La Lipela</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Paso Coihue</li>
+                                    
+                                        <li id="NE.16.33" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Villa La Angostura</li>
+                                    
+                                        <li id="NE.16.45" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Villa Traful</li>
+                                    
+                                </ul> 
+                                
+                                <ul class="localidades col-md-12" data-departamento="NE.6" style="display: none;">
+                                    
+                                        <li id="NE.6.2.1" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Andacollo</li>
+                                    
+                                        <li id="NE.6.54" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Guañacos</li>
+                                    
+                                        <li id="NE.6.14.1" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Huinganco</li>
+                                    
+                                        <li id="NE.6.18.1" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Las Ovejas</li>
+                                    
+                                        <li id="NE.6.20.1" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Los Miches</li>
+                                    
+                                        <li id="NE.6.57.1" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Manzano Amargo</li>
+                                    
+                                        <li id="NE.6.56.1" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Varvarco-Invernada Vieja</li>
+                                    
+                                        <li id="NE.6.55.1" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Villa Del Nahueve</li>
+                                    
+                                </ul> 
+                                
+                                <ul class="localidades col-md-12" data-departamento="NE.4" style="display: none;">
+                                    
+                                        <li id="NE.4.5.1" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Barrancas</li>
+                                    
+                                        <li id="NE.4.6.1" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Buta Ranquil</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Huantraico</li>
+                                    
+                                        <li id="NE.4.40" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Octavio Pico</li>
+                                    
+                                        <li id="NE.4.27" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Rincon De Los Sauces</li>
+                                    
+                                </ul> 
+                                
+                                <ul class="localidades col-md-12" data-departamento="NE.12" style="display: none;">
+                                    
+                                        <li id="NE.12.41" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">El Sauce</li>
+                                    
+                                        <li id="NE.12.42" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Paso Aguerre</li>
+                                    
+                                        <li id="NE.12.23" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Picun Leufu</li>
+                                    
+                                </ul> 
+                                
+                                <ul class="localidades col-md-12" data-departamento="NE.9" style="display: none;">
+                                    
+                                        <li id="NE.9.4" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Bajada Del Agrio</li>
+                                    
+                                        <li id="NE.9.17" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Las Lajas</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Las Lajas - Fuera De Radio</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Los Alazanes</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Mallin De Los Caballos</li>
+                                    
+                                        <li id="NE.9.50" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Quili Malal</li>
+                                    
+                                </ul> 
+                                
+                                <ul class="localidades col-md-12" data-departamento="NE.2" style="display: none;">
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Barda Negra</li>
+                                    
+                                        <li id="NE.2.47" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Covunco Abajo</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Laguna Blanca</li>
+                                    
+                                        <li id="NE.2.46" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Los Catutos</li>
+                                    
+                                        <li id="NE.2.21" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Mariano Moreno</li>
+                                    
+                                        <li id="NE.2.48" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Ramon Castro</li>
+                                    
+                                        <li id="NE.2.36" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Zapala</li>
+                                    
+                                </ul> 
+                                
+                                <ul class="localidades col-md-12" data-departamento="NE.7" style="display: none;">
+                                    
+                                        <li id="NE.7.7" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Caviahue-Copahue</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Colipilli</li>
+                                    
+                                        <li id="NE.7.12.1" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">El Cholar</li>
+                                    
+                                        <li id="NE.7.13" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">El Huecu</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Naunauco</li>
+                                    
+                                        <li id="NE.7.31.1" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Taquimilan</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Tralaitue</li>
+                                    
+                                        <li id="NE" data-tipo="localidad" class="btn btn-default btn-lg ubicacion-destino">Tres Chorros</li>
+                                    
+                                </ul> 
+                                
+                            </div>
+                        </div>
+                    
+
+                    <div id="paso-3" class="paso" style="display:none;">
+                        <img class="grafico" src="img/maquina-verificacion.png" id="maquina-verificacion">
+                        <h1>La máquina imprimirá su elección. Compruebe que el texto es correcto acercando la boleta al verificador.</h1>
+                        <button class="next btn btn-primary btn-lg">Continuar</button>
+                    </div>
+
+                    <div id="paso-4" class="paso" style="display:none;">
+                        <img class="grafico" src="img/plegada-multiple.png" id="maquina-verificacion">
+                        <h1>Regrese a la mesa con la boleta plegada por la línea de puntos para preservar el secreto de su selección.</h1>
+                        <button class="next btn btn-primary btn-lg">Continuar</button>
+                    </div>
+
+                    <div id="paso-5" class="paso" style="display:none;">
+                        <img class="grafico" src="img/urna.png" id="maquina-verificacion">
+                        <h1>Frente a la Autoridad de Mesa corte el segundo troquel y entréguelo. Por último, introduzca la boleta en la urna para emitir su voto.</h1>
+                        <button class="next btn btn-primary btn-lg">Continuar</button>
+                    </div>
+
+                    <div id="agradecimiento" style="display:none;">
+                        <h1>Gracias por utilizar el simulador del Sistema de Boleta Única Electrónica (BUE)</h1>
+                        <button id="reset" class="btn btn-primary btn-lg">Reiniciar</button>
+                    </div>
+
+                    <div id="seleccionar_ubicaciones" style="display:none;">
+                        <h1 class="ubicacion">Para iniciar el simulador seleccione el municipio en la que vota:</h1>
+                        <div class="container">
+                            <ul class="departamentos col-md-12">
+                                
+                                <li class="btn btn-default btn-lg"><input name="Alumine" type="checkbox" />&nbsp;&nbsp;&nbsp;NE.10</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="Añelo" type="checkbox" />&nbsp;&nbsp;&nbsp;NE.3</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="Catan Lil" type="checkbox" />&nbsp;&nbsp;&nbsp;NE.11</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="Chos Malal" type="checkbox" />&nbsp;&nbsp;&nbsp;NE.5</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="Collon Cura" type="checkbox" />&nbsp;&nbsp;&nbsp;NE.13</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="Confluencia" type="checkbox" />&nbsp;&nbsp;&nbsp;NE.1</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="Huiliches" type="checkbox" />&nbsp;&nbsp;&nbsp;NE.14</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="Lacar" type="checkbox" />&nbsp;&nbsp;&nbsp;NE.15</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="Loncopue" type="checkbox" />&nbsp;&nbsp;&nbsp;NE.8</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="Los Lagos" type="checkbox" />&nbsp;&nbsp;&nbsp;NE.16</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="Minas" type="checkbox" />&nbsp;&nbsp;&nbsp;NE.6</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="Pehuenches" type="checkbox" />&nbsp;&nbsp;&nbsp;NE.4</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="Picun Leufu" type="checkbox" />&nbsp;&nbsp;&nbsp;NE.12</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="Picunches" type="checkbox" />&nbsp;&nbsp;&nbsp;NE.9</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="Zapala" type="checkbox" />&nbsp;&nbsp;&nbsp;NE.2</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="Ñorquin" type="checkbox" />&nbsp;&nbsp;&nbsp;NE.7</li>
+                                
+                            </ul> 
+                            <div style="text-align: center;">
+                                <button id="btn-continuar-loading" class="btn btn-primary btn-lg">
+                                    <div class="lds-ring"><div></div><div></div><div></div><div></div></div>
+                                </button>
+                                <button id="btn-continuar" class="btn btn-primary btn-lg" onclick="comenzar_cache_offline()">Continuar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

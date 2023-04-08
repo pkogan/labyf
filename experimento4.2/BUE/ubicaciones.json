@@ -1,0 +1,537 @@
+[
+ [
+  "Alumine",
+  "Alumine",
+  "NE.10.1"
+ ],
+ [
+  "Alumine",
+  "Kilca",
+  "NE"
+ ],
+ [
+  "Alumine",
+  "Lonco Luan",
+  "NE"
+ ],
+ [
+  "Alumine",
+  "Pulmari",
+  "NE"
+ ],
+ [
+  "Alumine",
+  "Quillen",
+  "NE"
+ ],
+ [
+  "Alumine",
+  "Ruca Choroy",
+  "NE"
+ ],
+ [
+  "Alumine",
+  "Villa Pehuenia",
+  "NE.10.34"
+ ],
+ [
+  "Alumine",
+  "\u00d1orquinco",
+  "NE"
+ ],
+ [
+  "A\u00f1elo",
+  "Aguada San Roque",
+  "NE.3.38"
+ ],
+ [
+  "A\u00f1elo",
+  "A\u00f1elo",
+  "NE.3.3"
+ ],
+ [
+  "A\u00f1elo",
+  "Los Chihuidos",
+  "NE.3.39"
+ ],
+ [
+  "A\u00f1elo",
+  "San Patricio Del Cha\u00f1ar",
+  "NE.3.29"
+ ],
+ [
+  "Catan Lil",
+  "Caichihue",
+  "NE"
+ ],
+ [
+  "Catan Lil",
+  "Chacaico Sur",
+  "NE"
+ ],
+ [
+  "Catan Lil",
+  "El Salitral",
+  "NE"
+ ],
+ [
+  "Catan Lil",
+  "La Picaza",
+  "NE"
+ ],
+ [
+  "Catan Lil",
+  "Las Coloradas",
+  "NE.11.16"
+ ],
+ [
+  "Catan Lil",
+  "Las Cortaderas",
+  "NE"
+ ],
+ [
+  "Catan Lil",
+  "Media Luna",
+  "NE"
+ ],
+ [
+  "Catan Lil",
+  "Pilo Lil",
+  "NE.11.44"
+ ],
+ [
+  "Catan Lil",
+  "Villa Del Puente Picun Leufu",
+  "NE.11.49"
+ ],
+ [
+  "Chos Malal",
+  "Cajon Del Curi Leuvu",
+  "NE"
+ ],
+ [
+  "Chos Malal",
+  "Chapua",
+  "NE"
+ ],
+ [
+  "Chos Malal",
+  "Chos Malal",
+  "NE.5.9.1"
+ ],
+ [
+  "Chos Malal",
+  "Chos Malal - Fuera de Radio",
+  "NE"
+ ],
+ [
+  "Chos Malal",
+  "Coyuco-Cochico",
+  "NE.5.53"
+ ],
+ [
+  "Chos Malal",
+  "Tricao Malal",
+  "NE.5.32.1"
+ ],
+ [
+  "Chos Malal",
+  "Villa Curi Leuvu",
+  "NE.5.52"
+ ],
+ [
+  "Collon Cura",
+  "Carran Cura",
+  "NE"
+ ],
+ [
+  "Collon Cura",
+  "Piedra Del Aguila",
+  "NE.13.24"
+ ],
+ [
+  "Collon Cura",
+  "San Ignacio",
+  "NE"
+ ],
+ [
+  "Collon Cura",
+  "Santo Tomas",
+  "NE.13.43"
+ ],
+ [
+  "Collon Cura",
+  "Sa\u00f1ico",
+  "NE"
+ ],
+ [
+  "Collon Cura",
+  "Zaina Yegua",
+  "NE"
+ ],
+ [
+  "Confluencia",
+  "Centenario",
+  "NE.1.8"
+ ],
+ [
+  "Confluencia",
+  "Challaco",
+  "NE"
+ ],
+ [
+  "Confluencia",
+  "Cutral Co",
+  "NE.1.10"
+ ],
+ [
+  "Confluencia",
+  "Neuqu\u00e9n, Distrito Escolar 1",
+  "NE.1.22.69"
+ ],
+ [
+  "Confluencia",
+  "Neuqu\u00e9n, Distrito Escolar 8",
+  "NE.1.22.51"
+ ],
+ [
+  "Confluencia",
+  "Planicie Banderita",
+  "NE"
+ ],
+ [
+  "Confluencia",
+  "Plaza Huincul",
+  "NE.1.25"
+ ],
+ [
+  "Confluencia",
+  "Plottier",
+  "NE.1.26"
+ ],
+ [
+  "Confluencia",
+  "Sauzal Bonito",
+  "NE.1.37"
+ ],
+ [
+  "Confluencia",
+  "Senillosa",
+  "NE.1.30"
+ ],
+ [
+  "Confluencia",
+  "Villa El Chocon",
+  "NE.1.11"
+ ],
+ [
+  "Confluencia",
+  "Vista Alegre",
+  "NE.1.35"
+ ],
+ [
+  "Huiliches",
+  "Atreuco",
+  "NE"
+ ],
+ [
+  "Huiliches",
+  "Aucapan",
+  "NE"
+ ],
+ [
+  "Huiliches",
+  "Chiuquilihuin",
+  "NE"
+ ],
+ [
+  "Huiliches",
+  "Huechulafquen",
+  "NE.14.1410C"
+ ],
+ [
+  "Huiliches",
+  "Junin De Los Andes",
+  "NE.14.15"
+ ],
+ [
+  "Huiliches",
+  "Pampa Del Malleo",
+  "NE"
+ ],
+ [
+  "Lacar",
+  "Chapelco Grande",
+  "NE"
+ ],
+ [
+  "Lacar",
+  "Hua Hum",
+  "NE"
+ ],
+ [
+  "Lacar",
+  "Lago Hermoso",
+  "NE"
+ ],
+ [
+  "Lacar",
+  "Lago Meliquina",
+  "NE"
+ ],
+ [
+  "Lacar",
+  "Pil Pil",
+  "NE"
+ ],
+ [
+  "Lacar",
+  "Quila Quina",
+  "NE"
+ ],
+ [
+  "Lacar",
+  "San Martin De Los Andes",
+  "NE.15.28"
+ ],
+ [
+  "Lacar",
+  "Trompul",
+  "NE"
+ ],
+ [
+  "Loncopue",
+  "Cajon De Almaza",
+  "NE"
+ ],
+ [
+  "Loncopue",
+  "Chorriaca",
+  "NE.8.51"
+ ],
+ [
+  "Loncopue",
+  "Huarenchenque",
+  "NE"
+ ],
+ [
+  "Loncopue",
+  "Huncal",
+  "NE"
+ ],
+ [
+  "Loncopue",
+  "Loncopue",
+  "NE.8.19"
+ ],
+ [
+  "Loncopue",
+  "Quintuco",
+  "NE"
+ ],
+ [
+  "Los Lagos",
+  "La Lipela",
+  "NE"
+ ],
+ [
+  "Los Lagos",
+  "Paso Coihue",
+  "NE"
+ ],
+ [
+  "Los Lagos",
+  "Villa La Angostura",
+  "NE.16.33"
+ ],
+ [
+  "Los Lagos",
+  "Villa Traful",
+  "NE.16.45"
+ ],
+ [
+  "Minas",
+  "Andacollo",
+  "NE.6.2.1"
+ ],
+ [
+  "Minas",
+  "Gua\u00f1acos",
+  "NE.6.54"
+ ],
+ [
+  "Minas",
+  "Huinganco",
+  "NE.6.14.1"
+ ],
+ [
+  "Minas",
+  "Las Ovejas",
+  "NE.6.18.1"
+ ],
+ [
+  "Minas",
+  "Los Miches",
+  "NE.6.20.1"
+ ],
+ [
+  "Minas",
+  "Manzano Amargo",
+  "NE.6.57.1"
+ ],
+ [
+  "Minas",
+  "Varvarco-Invernada Vieja",
+  "NE.6.56.1"
+ ],
+ [
+  "Minas",
+  "Villa Del Nahueve",
+  "NE.6.55.1"
+ ],
+ [
+  "Pehuenches",
+  "Barrancas",
+  "NE.4.5.1"
+ ],
+ [
+  "Pehuenches",
+  "Buta Ranquil",
+  "NE.4.6.1"
+ ],
+ [
+  "Pehuenches",
+  "Huantraico",
+  "NE"
+ ],
+ [
+  "Pehuenches",
+  "Octavio Pico",
+  "NE.4.40"
+ ],
+ [
+  "Pehuenches",
+  "Rincon De Los Sauces",
+  "NE.4.27"
+ ],
+ [
+  "Picun Leufu",
+  "El Sauce",
+  "NE.12.41"
+ ],
+ [
+  "Picun Leufu",
+  "Paso Aguerre",
+  "NE.12.42"
+ ],
+ [
+  "Picun Leufu",
+  "Picun Leufu",
+  "NE.12.23"
+ ],
+ [
+  "Picunches",
+  "Bajada Del Agrio",
+  "NE.9.4"
+ ],
+ [
+  "Picunches",
+  "Las Lajas",
+  "NE.9.17"
+ ],
+ [
+  "Picunches",
+  "Las Lajas - Fuera de Radio",
+  "NE"
+ ],
+ [
+  "Picunches",
+  "Los Alazanes",
+  "NE"
+ ],
+ [
+  "Picunches",
+  "Mallin De Los Caballos",
+  "NE"
+ ],
+ [
+  "Picunches",
+  "Quili Malal",
+  "NE.9.50"
+ ],
+ [
+  "Zapala",
+  "Barda Negra",
+  "NE"
+ ],
+ [
+  "Zapala",
+  "Covunco Abajo",
+  "NE.2.47"
+ ],
+ [
+  "Zapala",
+  "Laguna Blanca",
+  "NE"
+ ],
+ [
+  "Zapala",
+  "Los Catutos",
+  "NE.2.46"
+ ],
+ [
+  "Zapala",
+  "Mariano Moreno",
+  "NE.2.21"
+ ],
+ [
+  "Zapala",
+  "Ramon Castro",
+  "NE.2.48"
+ ],
+ [
+  "Zapala",
+  "Zapala",
+  "NE.2.36"
+ ],
+ [
+  "\u00d1orquin",
+  "Caviahue-Copahue",
+  "NE.7.7"
+ ],
+ [
+  "\u00d1orquin",
+  "Colipilli",
+  "NE"
+ ],
+ [
+  "\u00d1orquin",
+  "El Cholar",
+  "NE.7.12.1"
+ ],
+ [
+  "\u00d1orquin",
+  "El Huecu",
+  "NE.7.13"
+ ],
+ [
+  "\u00d1orquin",
+  "Naunauco",
+  "NE"
+ ],
+ [
+  "\u00d1orquin",
+  "Taquimilan",
+  "NE.7.31.1"
+ ],
+ [
+  "\u00d1orquin",
+  "Tralaitue",
+  "NE"
+ ],
+ [
+  "\u00d1orquin",
+  "Tres Chorros",
+  "NE"
+ ]
+]
