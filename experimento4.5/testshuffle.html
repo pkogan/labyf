@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Test shuffle</title>
+        <script src="js/helpers.js">
+
+        </script>
+
+  
+    </head>
+    <body >
+        <script>
+            function test(){
+               ejectuar_test(document.getElementById('n').value,document.getElementById('cant').value)
+           }
+           function ejectuar_test(n,cant){
+               //se crea un array de n
+               listas=new Array();
+               for(i=0;i<n;i++){
+                   listas[i]=i;
+               }
+
+               matrix=new Array();
+               for(i=0;i<n;i++){
+                   matrix[i]=new Array();
+                   for(j=0;j<n;j++) matrix[i][j]=0;
+               }
+
+               
+               for(i=0;i<cant;i++){
+                    salida=shuffle(listas);
+                    //console.log(salida.toString());
+                    for (const pos in salida) {
+                        lista=salida[pos];
+                        matrix[lista][pos]++;
+                     }
+               }
+               //se llama a shuffle cant veces
+               //armando un array para ver la disperción
+               console.log("-----------------------------------------------");
+               for(i=0;i<n;i++){
+                   console.log(matrix[i].toString())
+               }
+
+           }
+       </script>
+        Cantidad de listas <input id="n" value="27">
+        Padrón <input id="cant" value="27">
+        <button onclick="test()">test</button>
+       
+    </body>
+</html>

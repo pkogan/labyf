@@ -2,14 +2,10 @@
 #cargo paquetes
 #instalar antes pacman
 
-pacman::p_load(tidyverse, googledrive, readxl)
+pacman::p_load(tidyverse,  skimr, readxl)
 
-
-#Para bajarla del drive
-#drive_download("https://docs.google.com/spreadsheets/d/18ngZ9EVLfF0n3fRAtxllCoK311AH9HrKOlGJu4-ee-Q/edit#gid=0",       
-drive_download("https://docs.google.com/spreadsheets/d/18ngZ9EVLfF0n3fRAtxllCoK311AH9HrKOlGJu4-ee-Q/edit?usp=sharing",
-               path="encuesta_experimento.xlsx", overwrite = TRUE)
-
+download.file(ur= "https://incuba.fi.uncoma.edu.ar/labyf/experimento2/R/encuesta_experimento.xlsx",
+              destfile="encuesta_experimento.xlsx")
 datos<- read_xlsx("encuesta_experimento.xlsx",
                   sheet=1, 
                   skip = 7, 
@@ -39,6 +35,9 @@ datos<- read_xlsx("encuesta_experimento.xlsx",
   borrar <- c("unidad_academica","claustro","edad")
   datos2 <- datos[ , !(names(datos) %in% borrar)]
   summary(datos2)
+  
+  skim(datos2)
+  skim(datos)
   boxplot(datos2)
   ggplot(datos2,aes( y=value)) +
     geom_boxplot(position='dodge', stat='identity') +
