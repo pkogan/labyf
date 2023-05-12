@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Instructivo para el uso del Sistema de Boleta Única Electrónica</title>
+        <link rel="manifest" href="manifest.json">
+        <!-- <script src="/js/pwa.js"></script> -->
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="shortcut icon" href="https://simulador.electoralsalta.gob.ar/img/favicon.ico">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/boot.css">
+
+        <link rel="stylesheet" href="css/reset.css">
+        <link rel="stylesheet" href="css/instructivo.css">
+
+        <script src="js/instructivo.js"></script>
+        <link href="img/favicon.png" rel="shortcut icon" type="image/png">
+    </head>
+    <body class="vanilla">
+        <div id="contenedor">
+            <div id="ayuda">
+                <div id="contenedor-ayuda" class="container">
+                    <header>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-6 col-md-12 col-xs-12" id="superior">
+                                    <a class="navbar-brand" href="index.html#">Elecciones Generales de la Provincia de Salta 2023<span><br /></span></a>
+                                </div>
+                                <div class="col-md-6 texto-tribunal col-xs-12">
+                                    <p class="tribunal">&nbsp;</p>
+                                    <p class="simulador">Instructivo para el uso del Sistema de Boleta Única Electrónica (BUE)</p>
+                                </div>
+                            </div>
+                    </header>
+
+                    <div id="bienvenido" style="display:none;">
+                        <h1>Simulador del Sistema de Boleta Única Electrónica (BUE)</h1>
+                        <button id="empezar" class="btn btn-success btn-lg">Comenzar</button><br>
+                        <a href="simulador_offline-win32-ia32.zip"><button class="btn btn-primary btn-lg">Descargar versión<br> Offline (Windows)</button></a>
+                        <a href="https://play.google.com/store/apps/details?id=ar.com.votar.simulador.saltagenerales2023&pli=1"><button class="btn btn-primary btn-lg">Descargar desde <br>Google Play Store</button></a>
+                        <!-- <a href=""><button class="btn btn-primary btn-lg">Instalar aplicación</button></a> -->
+                    </div>
+
+                    <div id="paso-1" class="paso" style="display:none;">
+                        <img class="grafico" src="img/boleta-troquel.png">
+                        <h1>La Autoridad de Mesa le entregará una boleta en blanco y retirará ante Usted el primer troquel.</h1>
+                        <button class="next btn btn-primary btn-lg">Continuar</button>
+                    </div>
+
+                    <div id="paso-2" class="paso" style="display:none;">
+                        <img class="grafico" src="img/maquina-boleta.png" id="maquina-boleta">
+                        <h1>Coloque la boleta en la ranura en el sentido que indica la flecha.</h1>
+                    
+                        <button class="next btn btn-primary btn-lg">Continuar</button>
+                    </div>
+                        <div id="ubicaciones" class="paso" style="display:none;">
+                            <h1 class="ubicacion">Para iniciar el simulador seleccione el municipio en el que vota:</h1>
+                            <div id="ubicaciones" class="container">
+                                <ul class="departamentos col-md-12">
+                                    
+                                    <li id="SA.8.28" class="btn btn-default btn-lg ubicacion-destino">AGUARAY</li>
+                                    
+                                    <li id="SA.8.28.9.EXT" class="btn btn-default btn-lg ubicacion-destino">AGUARAY (extranjera)</li>
+                                    
+                                    <li id="SA.7.60" class="btn btn-default btn-lg ubicacion-destino">AGUAS BLANCAS</li>
+                                    
+                                    <li id="SA.7.60.2.EXT" class="btn btn-default btn-lg ubicacion-destino">AGUAS BLANCAS (extranjera)</li>
+                                    
+                                    <li id="SA.18.50" class="btn btn-default btn-lg ubicacion-destino">ANGASTACO</li>
+                                    
+                                    <li id="SA.18.49" class="btn btn-default btn-lg ubicacion-destino">ANIMANA</li>
+                                    
+                                    <li id="SA.5.12" class="btn btn-default btn-lg ubicacion-destino">APOLINARIO SARAVIA</li>
+                                    
+                                    <li id="SA.5.12.2.EXT" class="btn btn-default btn-lg ubicacion-destino">APOLINARIO SARAVIA (extranjera)</li>
+                                    
+                                    <li id="SA.20.53" class="btn btn-default btn-lg ubicacion-destino">CACHI</li>
+                                    
+                                    <li id="SA.17.47" class="btn btn-default btn-lg ubicacion-destino">CAFAYATE</li>
+                                    
+                                    <li id="SA.21.56" class="btn btn-default btn-lg ubicacion-destino">CAMPO QUIJANO</li>
+                                    
+                                    <li id="SA.21.56.2.EXT" class="btn btn-default btn-lg ubicacion-destino">CAMPO QUIJANO (extranjera)</li>
+                                    
+                                    <li id="SA.3.6" class="btn btn-default btn-lg ubicacion-destino">CAMPO SANTO</li>
+                                    
+                                    <li id="SA.3.6.2.EXT" class="btn btn-default btn-lg ubicacion-destino">CAMPO SANTO (extranjera)</li>
+                                    
+                                    <li id="SA.11.35" class="btn btn-default btn-lg ubicacion-destino">CERRILLOS</li>
+                                    
+                                    <li id="SA.11.35.7.EXT" class="btn btn-default btn-lg ubicacion-destino">CERRILLOS (extranjera)</li>
+                                    
+                                    <li id="SA.12.37" class="btn btn-default btn-lg ubicacion-destino">CHICOANA</li>
+                                    
+                                    <li id="SA.7.21" class="btn btn-default btn-lg ubicacion-destino">COLONIA SANTA ROSA</li>
+                                    
+                                    <li id="SA.7.21.2.EXT" class="btn btn-default btn-lg ubicacion-destino">COLONIA SANTA ROSA (extranjera)</li>
+                                    
+                                    <li id="SA.13.40" class="btn btn-default btn-lg ubicacion-destino">CORONEL MOLDES</li>
+                                    
+                                    <li id="SA.3.5" class="btn btn-default btn-lg ubicacion-destino">EL BORDO</li>
+                                    
+                                    <li id="SA.3.5.1.EXT" class="btn btn-default btn-lg ubicacion-destino">EL BORDO (extranjera)</li>
+                                    
+                                    <li id="SA.12.38" class="btn btn-default btn-lg ubicacion-destino">EL CARRIL</li>
+                                    
+                                    <li id="SA.4.10" class="btn btn-default btn-lg ubicacion-destino">EL GALPON</li>
+                                    
+                                    <li id="SA.16.46" class="btn btn-default btn-lg ubicacion-destino">EL JARDIN</li>
+                                    
+                                    <li id="SA.15.43" class="btn btn-default btn-lg ubicacion-destino">EL POTRERO</li>
+                                    
+                                    <li id="SA.5.15" class="btn btn-default btn-lg ubicacion-destino">EL QUEBRACHAL</li>
+                                    
+                                    <li id="SA.16.45" class="btn btn-default btn-lg ubicacion-destino">EL TALA</li>
+                                    
+                                    <li id="SA.8.24" class="btn btn-default btn-lg ubicacion-destino">EMBARCACION</li>
+                                    
+                                    <li id="SA.8.24.10.EXT" class="btn btn-default btn-lg ubicacion-destino">EMBARCACION (extranjera)</li>
+                                    
+                                    <li id="SA.8.25" class="btn btn-default btn-lg ubicacion-destino">GENERAL BALLIVIAN</li>
+                                    
+                                    <li id="SA.3.7" class="btn btn-default btn-lg ubicacion-destino">GENERAL GÜEMES</li>
+                                    
+                                    <li id="SA.3.7.4.EXT" class="btn btn-default btn-lg ubicacion-destino">GENERAL GÜEMES (extranjera)</li>
+                                    
+                                    <li id="SA.8.26" class="btn btn-default btn-lg ubicacion-destino">GENERAL MOSCONI</li>
+                                    
+                                    <li id="SA.5.13" class="btn btn-default btn-lg ubicacion-destino">GENERAL PIZARRO</li>
+                                    
+                                    <li id="SA.5.13.1.EXT" class="btn btn-default btn-lg ubicacion-destino">GENERAL PIZARRO (extranjera)</li>
+                                    
+                                    <li id="SA.14.41" class="btn btn-default btn-lg ubicacion-destino">GUACHIPAS</li>
+                                    
+                                    <li id="SA.7.20" class="btn btn-default btn-lg ubicacion-destino">HIPOLITO YRIGOYEN</li>
+                                    
+                                    <li id="SA.7.20.4.EXT" class="btn btn-default btn-lg ubicacion-destino">HIPOLITO YRIGOYEN (extranjera)</li>
+                                    
+                                    <li id="SA.9.30" class="btn btn-default btn-lg ubicacion-destino">IRUYA</li>
+                                    
+                                    <li id="SA.9.31" class="btn btn-default btn-lg ubicacion-destino">ISLA DE CAÑAS</li>
+                                    
+                                    <li id="SA.5.14" class="btn btn-default btn-lg ubicacion-destino">JOAQUIN V. GONZALEZ</li>
+                                    
+                                    <li id="SA.2.3" class="btn btn-default btn-lg ubicacion-destino">LA CALDERA</li>
+                                    
+                                    <li id="SA.16.44" class="btn btn-default btn-lg ubicacion-destino">LA CANDELARIA</li>
+                                    
+                                    <li id="SA.11.36" class="btn btn-default btn-lg ubicacion-destino">LA MERCED</li>
+                                    
+                                    <li id="SA.11.36.2.EXT" class="btn btn-default btn-lg ubicacion-destino">LA MERCED (extranjera)</li>
+                                    
+                                    <li id="SA.22.57" class="btn btn-default btn-lg ubicacion-destino">LA POMA</li>
+                                    
+                                    <li id="SA.13.39" class="btn btn-default btn-lg ubicacion-destino">LA VIÑA</li>
+                                    
+                                    <li id="SA.5.11" class="btn btn-default btn-lg ubicacion-destino">LAS LAJITAS</li>
+                                    
+                                    <li id="SA.10.33" class="btn btn-default btn-lg ubicacion-destino">LOS TOLDOS</li>
+                                    
+                                    <li id="SA.10.33.3.EXT" class="btn btn-default btn-lg ubicacion-destino">LOS TOLDOS (extranjera)</li>
+                                    
+                                    <li id="SA.19.51" class="btn btn-default btn-lg ubicacion-destino">MOLINOS</li>
+                                    
+                                    <li id="SA.10.34" class="btn btn-default btn-lg ubicacion-destino">NAZARENO</li>
+                                    
+                                    <li id="SA.20.54" class="btn btn-default btn-lg ubicacion-destino">PAYOGASTA</li>
+                                    
+                                    <li id="SA.7.23" class="btn btn-default btn-lg ubicacion-destino">PICHANAL</li>
+                                    
+                                    <li id="SA.7.23.5.EXT" class="btn btn-default btn-lg ubicacion-destino">PICHANAL (extranjera)</li>
+                                    
+                                    <li id="SA.8.29" class="btn btn-default btn-lg ubicacion-destino">PROF. SALVADOR MAZZA</li>
+                                    
+                                    <li id="SA.8.29.3.EXT" class="btn btn-default btn-lg ubicacion-destino">PROF. SALVADOR MAZZA (extranjera)</li>
+                                    
+                                    <li id="SA.4.9" class="btn btn-default btn-lg ubicacion-destino">RIO PIEDRAS</li>
+                                    
+                                    <li id="SA.6.17" class="btn btn-default btn-lg ubicacion-destino">RIVADAVIA BANDA NORTE</li>
+                                    
+                                    <li id="SA.6.16" class="btn btn-default btn-lg ubicacion-destino">RIVADAVIA BANDA SUR</li>
+                                    
+                                    <li id="SA.15.42" class="btn btn-default btn-lg ubicacion-destino">ROSARIO DE LA FRONTERA</li>
+                                    
+                                    <li id="SA.21.55" class="btn btn-default btn-lg ubicacion-destino">ROSARIO DE LERMA</li>
+                                    
+                                    <li id="SA.21.55.5.EXT" class="btn btn-default btn-lg ubicacion-destino">ROSARIO DE LERMA (extranjera)</li>
+                                    
+                                    <li id="SA.23.58" class="btn btn-default btn-lg ubicacion-destino">S. ANTONIO DE LOS COBRES</li>
+                                    
+                                    <li id="SA.7.19" class="btn btn-default btn-lg ubicacion-destino">S. RAMON DE LA NUEVA ORAN</li>
+                                    
+                                    <li id="SA.7.19.3.EXT" class="btn btn-default btn-lg ubicacion-destino">S. RAMON DE LA NUEVA ORAN (extranjera)</li>
+                                    
+                                    <li id="SA.1.1" class="btn btn-default btn-lg ubicacion-destino">SALTA</li>
+                                    
+                                    <li id="SA.1.1.13.EXT" class="btn btn-default btn-lg ubicacion-destino">SALTA (extranjera)</li>
+                                    
+                                    <li id="SA.18.48" class="btn btn-default btn-lg ubicacion-destino">SAN CARLOS</li>
+                                    
+                                    <li id="SA.4.8" class="btn btn-default btn-lg ubicacion-destino">SAN JOSE DE METAN</li>
+                                    
+                                    <li id="SA.1.2" class="btn btn-default btn-lg ubicacion-destino">SAN LORENZO</li>
+                                    
+                                    <li id="SA.1.2.5.EXT" class="btn btn-default btn-lg ubicacion-destino">SAN LORENZO (extranjera)</li>
+                                    
+                                    <li id="SA.6.18" class="btn btn-default btn-lg ubicacion-destino">SANTA VICTORIA ESTE</li>
+                                    
+                                    <li id="SA.10.32" class="btn btn-default btn-lg ubicacion-destino">SANTA VICTORIA OESTE</li>
+                                    
+                                    <li id="SA.19.52" class="btn btn-default btn-lg ubicacion-destino">SECLANTAS</li>
+                                    
+                                    <li id="SA.8.27" class="btn btn-default btn-lg ubicacion-destino">TARTAGAL</li>
+                                    
+                                    <li id="SA.8.27.11.EXT" class="btn btn-default btn-lg ubicacion-destino">TARTAGAL (extranjera)</li>
+                                    
+                                    <li id="SA.23.59" class="btn btn-default btn-lg ubicacion-destino">TOLAR GRANDE</li>
+                                    
+                                    <li id="SA.7.22" class="btn btn-default btn-lg ubicacion-destino">URUNDEL</li>
+                                    
+                                    <li id="SA.7.22.1.EXT" class="btn btn-default btn-lg ubicacion-destino">URUNDEL (extranjera)</li>
+                                    
+                                    <li id="SA.2.4" class="btn btn-default btn-lg ubicacion-destino">VAQUEROS</li>
+                                    
+                                    <li id="SA.2.4.5.EXT" class="btn btn-default btn-lg ubicacion-destino">VAQUEROS (extranjera)</li>
+                                    
+                                </ul>
+
+                            </div>
+                        </div>
+                    
+
+                    <div id="paso-3" class="paso" style="display:none;">
+                        <img class="grafico" src="img/maquina-verificacion.png" id="maquina-verificacion">
+                        <h1>La máquina imprimirá su elección. Compruebe que el texto es correcto acercando la boleta al verificador.</h1>
+                        <button class="next btn btn-primary btn-lg">Continuar</button>
+                    </div>
+
+                    <div id="paso-4" class="paso" style="display:none;">
+                        <img class="grafico" src="img/plegada-multiple.png" id="maquina-verificacion">
+                        <h1>Regrese a la mesa con la boleta plegada por la línea de puntos para preservar el secreto de su selección.</h1>
+                        <button class="next btn btn-primary btn-lg">Continuar</button>
+                    </div>
+
+                    <div id="paso-5" class="paso" style="display:none;">
+                        <img class="grafico" src="img/urna.png" id="maquina-verificacion">
+                        <h1>Frente a la Autoridad de Mesa corte el segundo troquel y entréguelo. Por último, introduzca la boleta en la urna para emitir su voto.</h1>
+                        <button class="next btn btn-primary btn-lg">Continuar</button>
+                    </div>
+
+                    <div id="agradecimiento" style="display:none;">
+                        <h1>Gracias por utilizar el simulador del Sistema de Boleta Única Electrónica (BUE)</h1>
+                        <button id="reset" class="btn btn-primary btn-lg">Reiniciar</button>
+                    </div>
+
+                    <div id="seleccionar_ubicaciones" style="display:none;">
+                        <h1 class="ubicacion">Para iniciar el simulador seleccione el municipio en el que vota:</h1>
+                        <div class="container">
+                            <ul class="departamentos col-md-12">
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.8.28" type="checkbox" />&nbsp;&nbsp;&nbsp;AGUARAY</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.8.28.9.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;AGUARAY (extranjera)</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.7.60" type="checkbox" />&nbsp;&nbsp;&nbsp;AGUAS BLANCAS</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.7.60.2.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;AGUAS BLANCAS (extranjera)</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.18.50" type="checkbox" />&nbsp;&nbsp;&nbsp;ANGASTACO</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.18.49" type="checkbox" />&nbsp;&nbsp;&nbsp;ANIMANA</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.5.12" type="checkbox" />&nbsp;&nbsp;&nbsp;APOLINARIO SARAVIA</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.5.12.2.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;APOLINARIO SARAVIA (extranjera)</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.20.53" type="checkbox" />&nbsp;&nbsp;&nbsp;CACHI</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.17.47" type="checkbox" />&nbsp;&nbsp;&nbsp;CAFAYATE</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.21.56" type="checkbox" />&nbsp;&nbsp;&nbsp;CAMPO QUIJANO</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.21.56.2.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;CAMPO QUIJANO (extranjera)</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.3.6" type="checkbox" />&nbsp;&nbsp;&nbsp;CAMPO SANTO</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.3.6.2.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;CAMPO SANTO (extranjera)</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.11.35" type="checkbox" />&nbsp;&nbsp;&nbsp;CERRILLOS</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.11.35.7.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;CERRILLOS (extranjera)</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.12.37" type="checkbox" />&nbsp;&nbsp;&nbsp;CHICOANA</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.7.21" type="checkbox" />&nbsp;&nbsp;&nbsp;COLONIA SANTA ROSA</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.7.21.2.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;COLONIA SANTA ROSA (extranjera)</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.13.40" type="checkbox" />&nbsp;&nbsp;&nbsp;CORONEL MOLDES</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.3.5" type="checkbox" />&nbsp;&nbsp;&nbsp;EL BORDO</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.3.5.1.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;EL BORDO (extranjera)</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.12.38" type="checkbox" />&nbsp;&nbsp;&nbsp;EL CARRIL</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.4.10" type="checkbox" />&nbsp;&nbsp;&nbsp;EL GALPON</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.16.46" type="checkbox" />&nbsp;&nbsp;&nbsp;EL JARDIN</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.15.43" type="checkbox" />&nbsp;&nbsp;&nbsp;EL POTRERO</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.5.15" type="checkbox" />&nbsp;&nbsp;&nbsp;EL QUEBRACHAL</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.16.45" type="checkbox" />&nbsp;&nbsp;&nbsp;EL TALA</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.8.24" type="checkbox" />&nbsp;&nbsp;&nbsp;EMBARCACION</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.8.24.10.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;EMBARCACION (extranjera)</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.8.25" type="checkbox" />&nbsp;&nbsp;&nbsp;GENERAL BALLIVIAN</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.3.7" type="checkbox" />&nbsp;&nbsp;&nbsp;GENERAL GÜEMES</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.3.7.4.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;GENERAL GÜEMES (extranjera)</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.8.26" type="checkbox" />&nbsp;&nbsp;&nbsp;GENERAL MOSCONI</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.5.13" type="checkbox" />&nbsp;&nbsp;&nbsp;GENERAL PIZARRO</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.5.13.1.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;GENERAL PIZARRO (extranjera)</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.14.41" type="checkbox" />&nbsp;&nbsp;&nbsp;GUACHIPAS</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.7.20" type="checkbox" />&nbsp;&nbsp;&nbsp;HIPOLITO YRIGOYEN</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.7.20.4.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;HIPOLITO YRIGOYEN (extranjera)</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.9.30" type="checkbox" />&nbsp;&nbsp;&nbsp;IRUYA</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.9.31" type="checkbox" />&nbsp;&nbsp;&nbsp;ISLA DE CAÑAS</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.5.14" type="checkbox" />&nbsp;&nbsp;&nbsp;JOAQUIN V. GONZALEZ</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.2.3" type="checkbox" />&nbsp;&nbsp;&nbsp;LA CALDERA</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.16.44" type="checkbox" />&nbsp;&nbsp;&nbsp;LA CANDELARIA</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.11.36" type="checkbox" />&nbsp;&nbsp;&nbsp;LA MERCED</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.11.36.2.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;LA MERCED (extranjera)</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.22.57" type="checkbox" />&nbsp;&nbsp;&nbsp;LA POMA</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.13.39" type="checkbox" />&nbsp;&nbsp;&nbsp;LA VIÑA</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.5.11" type="checkbox" />&nbsp;&nbsp;&nbsp;LAS LAJITAS</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.10.33" type="checkbox" />&nbsp;&nbsp;&nbsp;LOS TOLDOS</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.10.33.3.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;LOS TOLDOS (extranjera)</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.19.51" type="checkbox" />&nbsp;&nbsp;&nbsp;MOLINOS</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.10.34" type="checkbox" />&nbsp;&nbsp;&nbsp;NAZARENO</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.20.54" type="checkbox" />&nbsp;&nbsp;&nbsp;PAYOGASTA</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.7.23" type="checkbox" />&nbsp;&nbsp;&nbsp;PICHANAL</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.7.23.5.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;PICHANAL (extranjera)</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.8.29" type="checkbox" />&nbsp;&nbsp;&nbsp;PROF. SALVADOR MAZZA</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.8.29.3.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;PROF. SALVADOR MAZZA (extranjera)</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.4.9" type="checkbox" />&nbsp;&nbsp;&nbsp;RIO PIEDRAS</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.6.17" type="checkbox" />&nbsp;&nbsp;&nbsp;RIVADAVIA BANDA NORTE</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.6.16" type="checkbox" />&nbsp;&nbsp;&nbsp;RIVADAVIA BANDA SUR</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.15.42" type="checkbox" />&nbsp;&nbsp;&nbsp;ROSARIO DE LA FRONTERA</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.21.55" type="checkbox" />&nbsp;&nbsp;&nbsp;ROSARIO DE LERMA</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.21.55.5.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;ROSARIO DE LERMA (extranjera)</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.23.58" type="checkbox" />&nbsp;&nbsp;&nbsp;S. ANTONIO DE LOS COBRES</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.7.19" type="checkbox" />&nbsp;&nbsp;&nbsp;S. RAMON DE LA NUEVA ORAN</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.7.19.3.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;S. RAMON DE LA NUEVA ORAN (extranjera)</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.1.1" type="checkbox" />&nbsp;&nbsp;&nbsp;SALTA</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.1.1.13.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;SALTA (extranjera)</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.18.48" type="checkbox" />&nbsp;&nbsp;&nbsp;SAN CARLOS</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.4.8" type="checkbox" />&nbsp;&nbsp;&nbsp;SAN JOSE DE METAN</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.1.2" type="checkbox" />&nbsp;&nbsp;&nbsp;SAN LORENZO</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.1.2.5.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;SAN LORENZO (extranjera)</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.6.18" type="checkbox" />&nbsp;&nbsp;&nbsp;SANTA VICTORIA ESTE</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.10.32" type="checkbox" />&nbsp;&nbsp;&nbsp;SANTA VICTORIA OESTE</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.19.52" type="checkbox" />&nbsp;&nbsp;&nbsp;SECLANTAS</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.8.27" type="checkbox" />&nbsp;&nbsp;&nbsp;TARTAGAL</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.8.27.11.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;TARTAGAL (extranjera)</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.23.59" type="checkbox" />&nbsp;&nbsp;&nbsp;TOLAR GRANDE</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.7.22" type="checkbox" />&nbsp;&nbsp;&nbsp;URUNDEL</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.7.22.1.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;URUNDEL (extranjera)</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.2.4" type="checkbox" />&nbsp;&nbsp;&nbsp;VAQUEROS</li>
+                                
+                                <li class="btn btn-default btn-lg"><input name="SA.2.4.5.EXT" type="checkbox" />&nbsp;&nbsp;&nbsp;VAQUEROS (extranjera)</li>
+                                
+                            </ul> 
+                            <div style="text-align: center;">
+                                <button id="btn-continuar-loading" class="btn btn-primary btn-lg">
+                                    <div class="lds-ring"><div></div><div></div><div></div><div></div></div>
+                                </button>
+                                <button id="btn-continuar" class="btn btn-primary btn-lg" onclick="comenzar_cache_offline()">Continuar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

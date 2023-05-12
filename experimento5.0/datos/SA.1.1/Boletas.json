@@ -1,0 +1,313 @@
+[
+ {
+  "CNJ": 2,
+  "DIP": 1030,
+  "GOB": 1197,
+  "INT": 1213,
+  "agrupacion_municipal": false,
+  "codigo": "1863.1863.1863",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 3,
+  "DIP": 1031,
+  "GOB": 1198,
+  "INT": 1214,
+  "agrupacion_municipal": false,
+  "codigo": "22.22.22",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 12,
+  "INT": 1223,
+  "agrupacion_municipal": true,
+  "codigo": "2572.2572.2572",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 13,
+  "DIP": 1035,
+  "GOB": 1199,
+  "INT": 1224,
+  "agrupacion_municipal": false,
+  "codigo": "3625.3625.3625",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 14,
+  "INT": 1225,
+  "agrupacion_municipal": true,
+  "codigo": "3647.3647.3647",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 20,
+  "DIP": 1036,
+  "GOB": 1200,
+  "INT": 1241,
+  "agrupacion_municipal": false,
+  "codigo": "3717.13.13",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 49,
+  "DIP": 1038,
+  "GOB": 1200,
+  "INT": 1241,
+  "agrupacion_municipal": false,
+  "codigo": "3717.2543.2543",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 74,
+  "DIP": 1039,
+  "GOB": 1200,
+  "INT": 1241,
+  "agrupacion_municipal": false,
+  "codigo": "3717.2626.2626",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 90,
+  "DIP": 1040,
+  "GOB": 1200,
+  "INT": 1241,
+  "agrupacion_municipal": false,
+  "codigo": "3717.3739.3739",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 189,
+  "DIP": 1053,
+  "GOB": 1201,
+  "INT": 1292,
+  "agrupacion_municipal": false,
+  "codigo": "3723.3741.3741",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 233,
+  "DIP": 1065,
+  "GOB": 1202,
+  "INT": 1334,
+  "agrupacion_municipal": false,
+  "codigo": "3728.3742.3742",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 242,
+  "DIP": 1065,
+  "GOB": 1202,
+  "INT": 1334,
+  "agrupacion_municipal": false,
+  "codigo": "3728.3748.3748",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 266,
+  "DIP": 1073,
+  "GOB": 1203,
+  "INT": 1356,
+  "agrupacion_municipal": false,
+  "codigo": "3729.3747.3747",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 299,
+  "DIP": 1081,
+  "GOB": 1204,
+  "INT": 1386,
+  "agrupacion_municipal": false,
+  "codigo": "3730.3746.3746",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 356,
+  "DIP": 1094,
+  "GOB": 1205,
+  "INT": 1422,
+  "agrupacion_municipal": false,
+  "codigo": "3731.3743.3743",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 381,
+  "DIP": 1102,
+  "GOB": 1206,
+  "INT": 1446,
+  "agrupacion_municipal": false,
+  "codigo": "3732.3740.3740",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 410,
+  "DIP": 1108,
+  "GOB": 1207,
+  "INT": 1488,
+  "agrupacion_municipal": false,
+  "codigo": "3733.10.10",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 414,
+  "DIP": 1110,
+  "GOB": 1207,
+  "INT": 1488,
+  "agrupacion_municipal": false,
+  "codigo": "3733.1861.1861",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 432,
+  "DIP": 1110,
+  "GOB": 1207,
+  "INT": 1488,
+  "agrupacion_municipal": false,
+  "codigo": "3733.1862.1862",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 468,
+  "DIP": 1113,
+  "GOB": 1207,
+  "INT": 1488,
+  "agrupacion_municipal": false,
+  "codigo": "3733.1869.1869",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 497,
+  "DIP": 1114,
+  "GOB": 1207,
+  "INT": 1488,
+  "agrupacion_municipal": false,
+  "codigo": "3733.2625.2625",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 514,
+  "DIP": 1113,
+  "GOB": 1207,
+  "INT": 1488,
+  "agrupacion_municipal": false,
+  "codigo": "3733.2627.2627",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 538,
+  "DIP": 1114,
+  "GOB": 1207,
+  "INT": 1488,
+  "agrupacion_municipal": false,
+  "codigo": "3733.3653.3653",
+  "lista_completa": true
+ },
+ {
+  "GOB": 1207,
+  "INT": 1488,
+  "agrupacion_municipal": false,
+  "codigo": "3733.3744.3744",
+  "lista_completa": false
+ },
+ {
+  "CNJ": 558,
+  "DIP": 1108,
+  "GOB": 1207,
+  "INT": 1488,
+  "agrupacion_municipal": false,
+  "codigo": "3733.38.38",
+  "lista_completa": true
+ },
+ {
+  "GOB": 1207,
+  "agrupacion_municipal": false,
+  "codigo": "3734.3737.3737",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 592,
+  "DIP": 1125,
+  "GOB": 1207,
+  "INT": 1546,
+  "agrupacion_municipal": false,
+  "codigo": "3735.15.15",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 603,
+  "DIP": 1145,
+  "GOB": 1207,
+  "INT": 1546,
+  "agrupacion_municipal": false,
+  "codigo": "3735.1873.1873",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 673,
+  "DIP": 1129,
+  "GOB": 1207,
+  "INT": 1546,
+  "agrupacion_municipal": false,
+  "codigo": "3735.32.32",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 705,
+  "DIP": 1129,
+  "GOB": 1207,
+  "INT": 1546,
+  "agrupacion_municipal": false,
+  "codigo": "3735.3650.3650",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 744,
+  "DIP": 1145,
+  "GOB": 1207,
+  "INT": 1546,
+  "agrupacion_municipal": false,
+  "codigo": "3735.3710.3710",
+  "lista_completa": true
+ },
+ {
+  "GOB": 1207,
+  "INT": 1546,
+  "agrupacion_municipal": false,
+  "codigo": "3735.3745.3745",
+  "lista_completa": false
+ },
+ {
+  "DIP": 1145,
+  "GOB": 1207,
+  "agrupacion_municipal": false,
+  "codigo": "3735.4.4",
+  "lista_completa": false
+ },
+ {
+  "CNJ": 801,
+  "DIP": 1146,
+  "GOB": 1207,
+  "INT": 1546,
+  "agrupacion_municipal": false,
+  "codigo": "3735.460.460",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 841,
+  "DIP": 1149,
+  "GOB": 1208,
+  "INT": 1615,
+  "agrupacion_municipal": false,
+  "codigo": "685.685.685",
+  "lista_completa": true
+ },
+ {
+  "CNJ": 850,
+  "DIP": 1152,
+  "GOB": 1209,
+  "INT": 1624,
+  "agrupacion_municipal": false,
+  "codigo": "BLC",
+  "lista_completa": true
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "adhiere": null,
+  "asistida": "Concejal",
+  "cargo_ejecutivo": false,
+  "codigo": "CNJ",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Concejal",
+  "posicion": 5,
+  "preferente": false
+ },
+ {
+  "adhiere": null,
+  "asistida": "Diputado",
+  "cargo_ejecutivo": false,
+  "codigo": "DIP",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Diputado",
+  "posicion": 3,
+  "preferente": false
+ },
+ {
+  "adhiere": null,
+  "asistida": "Gobernador y Vice",
+  "cargo_ejecutivo": true,
+  "codigo": "GOB",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Gobernador y Vice",
+  "posicion": 1,
+  "preferente": false
+ },
+ {
+  "adhiere": null,
+  "asistida": "Intendente",
+  "cargo_ejecutivo": true,
+  "codigo": "INT",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Intendente",
+  "posicion": 4,
+  "preferente": false
+ }
+]

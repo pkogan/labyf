@@ -1,0 +1,417 @@
+[
+ [
+  "ANTA",
+  "APOLINARIO SARAVIA",
+  "SA.5.12"
+ ],
+ [
+  "ANTA",
+  "EL QUEBRACHAL",
+  "SA.5.15"
+ ],
+ [
+  "ANTA",
+  "GENERAL PIZARRO",
+  "SA.5.13"
+ ],
+ [
+  "ANTA",
+  "JOAQUIN V. GONZALEZ",
+  "SA.5.14"
+ ],
+ [
+  "ANTA",
+  "LAS LAJITAS",
+  "SA.5.11"
+ ],
+ [
+  "ANTA (extranjera)",
+  "APOLINARIO SARAVIA (extranjera)",
+  "SA.5.12.2.EXT"
+ ],
+ [
+  "ANTA (extranjera)",
+  "GENERAL PIZARRO (extranjera)",
+  "SA.5.13.1.EXT"
+ ],
+ [
+  "CACHI",
+  "CACHI",
+  "SA.20.53"
+ ],
+ [
+  "CACHI",
+  "PAYOGASTA",
+  "SA.20.54"
+ ],
+ [
+  "CAFAYATE",
+  "CAFAYATE",
+  "SA.17.47"
+ ],
+ [
+  "CAPITAL",
+  "SALTA",
+  "SA.1.1"
+ ],
+ [
+  "CAPITAL",
+  "SAN LORENZO",
+  "SA.1.2"
+ ],
+ [
+  "CAPITAL (extranjera)",
+  "SALTA (extranjera)",
+  "SA.1.1.13.EXT"
+ ],
+ [
+  "CAPITAL (extranjera)",
+  "SAN LORENZO (extranjera)",
+  "SA.1.2.5.EXT"
+ ],
+ [
+  "CERRILLOS",
+  "CERRILLOS",
+  "SA.11.35"
+ ],
+ [
+  "CERRILLOS",
+  "LA MERCED",
+  "SA.11.36"
+ ],
+ [
+  "CERRILLOS (extranjera)",
+  "CERRILLOS (extranjera)",
+  "SA.11.35.7.EXT"
+ ],
+ [
+  "CERRILLOS (extranjera)",
+  "LA MERCED (extranjera)",
+  "SA.11.36.2.EXT"
+ ],
+ [
+  "CHICOANA",
+  "CHICOANA",
+  "SA.12.37"
+ ],
+ [
+  "CHICOANA",
+  "EL CARRIL",
+  "SA.12.38"
+ ],
+ [
+  "GENERAL G\u00dcEMES",
+  "CAMPO SANTO",
+  "SA.3.6"
+ ],
+ [
+  "GENERAL G\u00dcEMES",
+  "EL BORDO",
+  "SA.3.5"
+ ],
+ [
+  "GENERAL G\u00dcEMES",
+  "GENERAL G\u00dcEMES",
+  "SA.3.7"
+ ],
+ [
+  "GENERAL G\u00dcEMES (extranjera)",
+  "CAMPO SANTO (extranjera)",
+  "SA.3.6.2.EXT"
+ ],
+ [
+  "GENERAL G\u00dcEMES (extranjera)",
+  "EL BORDO (extranjera)",
+  "SA.3.5.1.EXT"
+ ],
+ [
+  "GENERAL G\u00dcEMES (extranjera)",
+  "GENERAL G\u00dcEMES (extranjera)",
+  "SA.3.7.4.EXT"
+ ],
+ [
+  "GUACHIPAS",
+  "GUACHIPAS",
+  "SA.14.41"
+ ],
+ [
+  "IRUYA",
+  "IRUYA",
+  "SA.9.30"
+ ],
+ [
+  "IRUYA",
+  "ISLA DE CA\u00d1AS",
+  "SA.9.31"
+ ],
+ [
+  "LA CALDERA",
+  "LA CALDERA",
+  "SA.2.3"
+ ],
+ [
+  "LA CALDERA",
+  "VAQUEROS",
+  "SA.2.4"
+ ],
+ [
+  "LA CALDERA (extranjera)",
+  "VAQUEROS (extranjera)",
+  "SA.2.4.5.EXT"
+ ],
+ [
+  "LA CANDELARIA",
+  "EL JARDIN",
+  "SA.16.46"
+ ],
+ [
+  "LA CANDELARIA",
+  "EL TALA",
+  "SA.16.45"
+ ],
+ [
+  "LA CANDELARIA",
+  "LA CANDELARIA",
+  "SA.16.44"
+ ],
+ [
+  "LA POMA",
+  "LA POMA",
+  "SA.22.57"
+ ],
+ [
+  "LA VI\u00d1A",
+  "CORONEL MOLDES",
+  "SA.13.40"
+ ],
+ [
+  "LA VI\u00d1A",
+  "LA VI\u00d1A",
+  "SA.13.39"
+ ],
+ [
+  "LOS ANDES",
+  "S. ANTONIO DE LOS COBRES",
+  "SA.23.58"
+ ],
+ [
+  "LOS ANDES",
+  "TOLAR GRANDE",
+  "SA.23.59"
+ ],
+ [
+  "METAN",
+  "EL GALPON",
+  "SA.4.10"
+ ],
+ [
+  "METAN",
+  "RIO PIEDRAS",
+  "SA.4.9"
+ ],
+ [
+  "METAN",
+  "SAN JOSE DE METAN",
+  "SA.4.8"
+ ],
+ [
+  "MOLINOS",
+  "MOLINOS",
+  "SA.19.51"
+ ],
+ [
+  "MOLINOS",
+  "SECLANTAS",
+  "SA.19.52"
+ ],
+ [
+  "ORAN",
+  "AGUAS BLANCAS",
+  "SA.7.60"
+ ],
+ [
+  "ORAN",
+  "COLONIA SANTA ROSA",
+  "SA.7.21"
+ ],
+ [
+  "ORAN",
+  "HIPOLITO YRIGOYEN",
+  "SA.7.20"
+ ],
+ [
+  "ORAN",
+  "PICHANAL",
+  "SA.7.23"
+ ],
+ [
+  "ORAN",
+  "S. RAMON DE LA NUEVA ORAN",
+  "SA.7.19"
+ ],
+ [
+  "ORAN",
+  "URUNDEL",
+  "SA.7.22"
+ ],
+ [
+  "ORAN (extranjera)",
+  "AGUAS BLANCAS (extranjera)",
+  "SA.7.60.2.EXT"
+ ],
+ [
+  "ORAN (extranjera)",
+  "COLONIA SANTA ROSA (extranjera)",
+  "SA.7.21.2.EXT"
+ ],
+ [
+  "ORAN (extranjera)",
+  "HIPOLITO YRIGOYEN (extranjera)",
+  "SA.7.20.4.EXT"
+ ],
+ [
+  "ORAN (extranjera)",
+  "PICHANAL (extranjera)",
+  "SA.7.23.5.EXT"
+ ],
+ [
+  "ORAN (extranjera)",
+  "S. RAMON DE LA NUEVA ORAN (extranjera)",
+  "SA.7.19.3.EXT"
+ ],
+ [
+  "ORAN (extranjera)",
+  "URUNDEL (extranjera)",
+  "SA.7.22.1.EXT"
+ ],
+ [
+  "RIVADAVIA",
+  "RIVADAVIA BANDA NORTE",
+  "SA.6.17"
+ ],
+ [
+  "RIVADAVIA",
+  "RIVADAVIA BANDA SUR",
+  "SA.6.16"
+ ],
+ [
+  "RIVADAVIA",
+  "SANTA VICTORIA ESTE",
+  "SA.6.18"
+ ],
+ [
+  "ROS. DE LA FRONTERA",
+  "EL POTRERO",
+  "SA.15.43"
+ ],
+ [
+  "ROS. DE LA FRONTERA",
+  "ROSARIO DE LA FRONTERA",
+  "SA.15.42"
+ ],
+ [
+  "ROSARIO DE LERMA",
+  "CAMPO QUIJANO",
+  "SA.21.56"
+ ],
+ [
+  "ROSARIO DE LERMA",
+  "ROSARIO DE LERMA",
+  "SA.21.55"
+ ],
+ [
+  "ROSARIO DE LERMA (extranjera)",
+  "CAMPO QUIJANO (extranjera)",
+  "SA.21.56.2.EXT"
+ ],
+ [
+  "ROSARIO DE LERMA (extranjera)",
+  "ROSARIO DE LERMA (extranjera)",
+  "SA.21.55.5.EXT"
+ ],
+ [
+  "SAN CARLOS",
+  "ANGASTACO",
+  "SA.18.50"
+ ],
+ [
+  "SAN CARLOS",
+  "ANIMANA",
+  "SA.18.49"
+ ],
+ [
+  "SAN CARLOS",
+  "SAN CARLOS",
+  "SA.18.48"
+ ],
+ [
+  "SAN MARTIN",
+  "AGUARAY",
+  "SA.8.28"
+ ],
+ [
+  "SAN MARTIN",
+  "EMBARCACION",
+  "SA.8.24"
+ ],
+ [
+  "SAN MARTIN",
+  "GENERAL BALLIVIAN",
+  "SA.8.25"
+ ],
+ [
+  "SAN MARTIN",
+  "GENERAL MOSCONI",
+  "SA.8.26"
+ ],
+ [
+  "SAN MARTIN",
+  "PROF. SALVADOR MAZZA",
+  "SA.8.29"
+ ],
+ [
+  "SAN MARTIN",
+  "TARTAGAL",
+  "SA.8.27"
+ ],
+ [
+  "SAN MARTIN (extranjera)",
+  "AGUARAY (extranjera)",
+  "SA.8.28.9.EXT"
+ ],
+ [
+  "SAN MARTIN (extranjera)",
+  "EMBARCACION (extranjera)",
+  "SA.8.24.10.EXT"
+ ],
+ [
+  "SAN MARTIN (extranjera)",
+  "PROF. SALVADOR MAZZA (extranjera)",
+  "SA.8.29.3.EXT"
+ ],
+ [
+  "SAN MARTIN (extranjera)",
+  "TARTAGAL (extranjera)",
+  "SA.8.27.11.EXT"
+ ],
+ [
+  "SANTA VICTORIA",
+  "LOS TOLDOS",
+  "SA.10.33"
+ ],
+ [
+  "SANTA VICTORIA",
+  "NAZARENO",
+  "SA.10.34"
+ ],
+ [
+  "SANTA VICTORIA",
+  "SANTA VICTORIA OESTE",
+  "SA.10.32"
+ ],
+ [
+  "SANTA VICTORIA (extranjera)",
+  "LOS TOLDOS (extranjera)",
+  "SA.10.33.3.EXT"
+ ]
+]
