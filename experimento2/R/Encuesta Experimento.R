@@ -4,7 +4,7 @@
 
 pacman::p_load(tidyverse,  skimr, readxl)
 
-download.file(ur= "https://incuba.fi.uncoma.edu.ar/labyf/experimento2/R/encuesta_experimento.xlsx",
+download.file(url= "https://incuba.fi.uncoma.edu.ar/labyf/experimento2/R/encuesta_experimento.xlsx",
               destfile="encuesta_experimento.xlsx")
 datos<- read_xlsx("encuesta_experimento.xlsx",
                   sheet=1, 
@@ -39,12 +39,6 @@ datos<- read_xlsx("encuesta_experimento.xlsx",
   skim(datos2)
   skim(datos)
   boxplot(datos2)
-  ggplot(datos2,aes( y=value)) +
-    geom_boxplot(position='dodge', stat='identity') +
-    ggtitle('Facilidad de Uso') +
-    xlab('Tipo de sistema') +
-    ylab('Valor') +
-    labs(fill='Edades')
   
   
 #recodificación edad  

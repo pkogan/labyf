@@ -26,22 +26,31 @@
                    matrix[i]=new Array();
                    for(j=0;j<n;j++) matrix[i][j]=0;
                }
-
-               
-               for(i=0;i<cant;i++){
+               let csvContent = "data:text/csv;charset=utf-8,";
+                for(i=0;i<cant;i++){
                     salida=shuffle(listas);
                     //console.log(salida.toString());
+                    csvContent +=salida.toString()+"\n";
                     for (const pos in salida) {
                         lista=salida[pos];
                         matrix[lista][pos]++;
                      }
                }
+               var encodedUri = encodeURI(csvContent);
+               window.open(encodedUri);
                //se llama a shuffle cant veces
                //armando un array para ver la disperción
                console.log("-----------------------------------------------");
+               
+               csvContent = "data:text/csv;charset=utf-8,";
                for(i=0;i<n;i++){
-                   console.log(matrix[i].toString())
+                   console.log(matrix[i].toString());
+                   csvContent +=matrix[i].toString()+"\n";
                }
+
+
+                var encodedUri = encodeURI(csvContent);
+                window.open(encodedUri);
 
            }
        </script>
