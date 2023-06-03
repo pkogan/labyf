@@ -14,4 +14,5 @@ Elecciones 2023 Provinciales y Municipales (solo se descargan Neuquen y Centenar
 4.3 utilizado para generar BUP y BP
 4.4 descargado sin lista 47 5/4/2023
 4.5 última versión NQN para análisis de random no uniforme
+5.0 Elecciones Salta 20234.5 última versión NQN para análisis de random no uniforme
 

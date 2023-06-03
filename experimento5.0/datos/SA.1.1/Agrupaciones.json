@@ -1,0 +1,1915 @@
+[
+ {
+  "asistida": "PARTIDO DE TRABAJADORES POR EL SOCIALISMO",
+  "clase": "Alianza",
+  "codigo": "1863",
+  "color": [
+   "#FFFFFF",
+   "#000000",
+   "#F15060"
+  ],
+  "id_candidatura": "1863",
+  "imagenes": [
+   "default_lista"
+  ],
+  "nombre": "PARTIDO DE TRABAJADORES POR EL SOCIALISMO",
+  "nombre_corto": "PART.TRAB.SOCIALISMO",
+  "orden_absoluto": [
+   22
+  ]
+ },
+ {
+  "asistida": "PARTIDO DE TRABAJADORES POR EL SOCIALISMO",
+  "clase": "Partido",
+  "cod_alianza": "1863",
+  "codigo": "1863.1863",
+  "color": [
+   "#FFFFFF",
+   "#000000",
+   "#F15060"
+  ],
+  "id_candidatura": "1863.1863",
+  "imagenes": [
+   "1863.1863"
+  ],
+  "nombre": "PARTIDO DE TRABAJADORES POR EL SOCIALISMO",
+  "nombre_corto": "PART.TRAB.SOCIALISMO",
+  "orden_absoluto": [
+   22,
+   53
+  ]
+ },
+ {
+  "asistida": "222 PARTIDO DE TRABAJADORES POR EL SOCIALISMO",
+  "clase": "Lista",
+  "cod_alianza": "1863",
+  "cod_partido": "1863.1863",
+  "codigo": "1863.1863.1863",
+  "color": [
+   "#FFFFFF",
+   "#000000",
+   "#F15060"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "1863.1863.1863",
+  "imagenes": [
+   "1863.1863.1863"
+  ],
+  "nombre": "PARTIDO DE TRABAJADORES POR EL SOCIALISMO",
+  "nombre_corto": "PART.TRAB.SOCIALISMO",
+  "numero": "222",
+  "orden_absoluto": [
+   22,
+   53,
+   12
+  ]
+ },
+ {
+  "asistida": "POLITICA OBRERA",
+  "clase": "Alianza",
+  "codigo": "22",
+  "color": [
+   "#FFFFFF",
+   "#E70808"
+  ],
+  "id_candidatura": "22",
+  "imagenes": [
+   "default_lista"
+  ],
+  "nombre": "POLITICA OBRERA",
+  "nombre_corto": "POLITICA OBRERA",
+  "orden_absoluto": [
+   23
+  ]
+ },
+ {
+  "asistida": "POLITICA OBRERA",
+  "clase": "Partido",
+  "cod_alianza": "22",
+  "codigo": "22.22",
+  "color": [
+   "#FFFFFF",
+   "#E70808"
+  ],
+  "id_candidatura": "22.22",
+  "imagenes": [
+   "22.22"
+  ],
+  "nombre": "POLITICA OBRERA",
+  "nombre_corto": "POLITICA OBRERA",
+  "orden_absoluto": [
+   23,
+   62
+  ]
+ },
+ {
+  "asistida": "189 POLITICA OBRERA",
+  "clase": "Lista",
+  "cod_alianza": "22",
+  "cod_partido": "22.22",
+  "codigo": "22.22.22",
+  "color": [
+   "#FFFFFF",
+   "#E70808"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "22.22.22",
+  "imagenes": [
+   "22.22.22"
+  ],
+  "nombre": "POLITICA OBRERA",
+  "nombre_corto": "POLITICA OBRERA",
+  "numero": "189",
+  "orden_absoluto": [
+   23,
+   62,
+   3
+  ]
+ },
+ {
+  "asistida": "DIGNIDAD Y JUSTICIA",
+  "clase": "Alianza",
+  "codigo": "2572",
+  "color": [
+   "#75AADB",
+   "#FFFFFF",
+   "#B25252"
+  ],
+  "id_candidatura": "2572",
+  "imagenes": [
+   "default_lista"
+  ],
+  "nombre": "DIGNIDAD Y JUSTICIA",
+  "nombre_corto": "DIGNIDAD Y JUSTICIA",
+  "orden_absoluto": [
+   4
+  ]
+ },
+ {
+  "asistida": "DIGNIDAD Y JUSTICIA",
+  "clase": "Partido",
+  "cod_alianza": "2572",
+  "codigo": "2572.2572",
+  "color": [
+   "#75AADB",
+   "#FFFFFF",
+   "#B25252"
+  ],
+  "id_candidatura": "2572.2572",
+  "imagenes": [
+   "2572.2572"
+  ],
+  "nombre": "DIGNIDAD Y JUSTICIA",
+  "nombre_corto": "DIGNIDAD Y JUSTICIA",
+  "orden_absoluto": [
+   4,
+   11
+  ]
+ },
+ {
+  "asistida": "304 DIGNIDAD Y JUSTICIA",
+  "clase": "Lista",
+  "cod_alianza": "2572",
+  "cod_partido": "2572.2572",
+  "codigo": "2572.2572.2572",
+  "color": [
+   "#75AADB",
+   "#FFFFFF",
+   "#B25252"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "2572.2572.2572",
+  "imagenes": [
+   "2572.2572.2572"
+  ],
+  "nombre": "DIGNIDAD Y JUSTICIA",
+  "nombre_corto": "DIGNIDAD Y JUSTICIA",
+  "numero": "304",
+  "orden_absoluto": [
+   4,
+   11,
+   29
+  ]
+ },
+ {
+  "asistida": "MOVIMIENTO AL SOCIALISMO",
+  "clase": "Alianza",
+  "codigo": "3625",
+  "color": [
+   "#FF0000"
+  ],
+  "id_candidatura": "3625",
+  "imagenes": [
+   "default_lista"
+  ],
+  "nombre": "MOVIMIENTO AL SOCIALISMO",
+  "nombre_corto": "MOVIM.AL SOCIALISMO",
+  "orden_absoluto": [
+   21
+  ]
+ },
+ {
+  "asistida": "MOVIMIENTO AL SOCIALISMO",
+  "clase": "Partido",
+  "cod_alianza": "3625",
+  "codigo": "3625.3625",
+  "color": [
+   "#FF0000"
+  ],
+  "id_candidatura": "3625.3625",
+  "imagenes": [
+   "3625.3625"
+  ],
+  "nombre": "MOVIMIENTO AL SOCIALISMO",
+  "nombre_corto": "MOVIM.AL SOCIALISMO",
+  "orden_absoluto": [
+   21,
+   43
+  ]
+ },
+ {
+  "asistida": "234 MOVIMIENTO AL SOCIALISMO",
+  "clase": "Lista",
+  "cod_alianza": "3625",
+  "cod_partido": "3625.3625",
+  "codigo": "3625.3625.3625",
+  "color": [
+   "#FF0000"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3625.3625.3625",
+  "imagenes": [
+   "3625.3625.3625"
+  ],
+  "nombre": "MOVIMIENTO AL SOCIALISMO",
+  "nombre_corto": "MOVIM.AL SOCIALISMO",
+  "numero": "234",
+  "orden_absoluto": [
+   21,
+   43,
+   21
+  ]
+ },
+ {
+  "asistida": "LIBERAL SALTA",
+  "clase": "Alianza",
+  "codigo": "3647",
+  "color": [
+   "#FDD118",
+   "#000000",
+   "#424242"
+  ],
+  "id_candidatura": "3647",
+  "imagenes": [
+   "default_lista"
+  ],
+  "nombre": "LIBERAL SALTA",
+  "nombre_corto": "LIBERAL SALTA",
+  "orden_absoluto": [
+   17
+  ]
+ },
+ {
+  "asistida": "LIBERAL SALTA",
+  "clase": "Partido",
+  "cod_alianza": "3647",
+  "codigo": "3647.3647",
+  "color": [
+   "#FDD118",
+   "#000000",
+   "#424242"
+  ],
+  "id_candidatura": "3647.3647",
+  "imagenes": [
+   "3647.3647"
+  ],
+  "nombre": "LIBERAL SALTA",
+  "nombre_corto": "LIBERAL SALTA",
+  "orden_absoluto": [
+   17,
+   37
+  ]
+ },
+ {
+  "asistida": "306 LIBERAL SALTA",
+  "clase": "Lista",
+  "cod_alianza": "3647",
+  "cod_partido": "3647.3647",
+  "codigo": "3647.3647.3647",
+  "color": [
+   "#FDD118",
+   "#000000",
+   "#424242"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3647.3647.3647",
+  "imagenes": [
+   "3647.3647.3647"
+  ],
+  "nombre": "LIBERAL SALTA",
+  "nombre_corto": "LIBERAL SALTA",
+  "numero": "306",
+  "orden_absoluto": [
+   17,
+   37,
+   31
+  ]
+ },
+ {
+  "asistida": "FRENTE AVANCEMOS",
+  "clase": "Alianza",
+  "codigo": "3717",
+  "color": [
+   "#3F0077",
+   "#F1C400",
+   "#C8102E"
+  ],
+  "id_candidatura": "3717",
+  "imagenes": [
+   "3717"
+  ],
+  "nombre": "FRENTE AVANCEMOS",
+  "nombre_corto": "FRENTE AVANCEMOS",
+  "orden_absoluto": [
+   6
+  ]
+ },
+ {
+  "asistida": "PARTIDO DE LA VICTORIA",
+  "clase": "Partido",
+  "cod_alianza": "3717",
+  "codigo": "3717.13",
+  "color": [
+   "#009CDE",
+   "#FFFFFF",
+   "#009CDE"
+  ],
+  "id_candidatura": "3717.13",
+  "imagenes": [
+   "3717.13"
+  ],
+  "nombre": "PARTIDO DE LA VICTORIA",
+  "nombre_corto": "PART. DE LA VICTORIA",
+  "orden_absoluto": [
+   6,
+   52
+  ]
+ },
+ {
+  "asistida": "54 PARTIDO DE LA VICTORIA",
+  "clase": "Lista",
+  "cod_alianza": "3717",
+  "cod_partido": "3717.13",
+  "codigo": "3717.13.13",
+  "color": [
+   "#009CDE",
+   "#FFFFFF",
+   "#009CDE"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3717.13.13",
+  "imagenes": [
+   "3717.13.13"
+  ],
+  "nombre": "PARTIDO DE LA VICTORIA",
+  "nombre_corto": "PART. DE LA VICTORIA",
+  "numero": "54",
+  "orden_absoluto": [
+   6,
+   52,
+   75
+  ]
+ },
+ {
+  "asistida": "SI - SALTA INDEPENDIENTE",
+  "clase": "Partido",
+  "cod_alianza": "3717",
+  "codigo": "3717.2543",
+  "color": [
+   "#250E62",
+   "#F2CD00"
+  ],
+  "id_candidatura": "3717.2543",
+  "imagenes": [
+   "3717.2543"
+  ],
+  "nombre": "SI - SALTA INDEPENDIENTE",
+  "nombre_corto": "SALTA INDEPENDIENTE",
+  "orden_absoluto": [
+   6,
+   71
+  ]
+ },
+ {
+  "asistida": "229 SI - SALTA INDEPENDIENTE",
+  "clase": "Lista",
+  "cod_alianza": "3717",
+  "cod_partido": "3717.2543",
+  "codigo": "3717.2543.2543",
+  "color": [
+   "#250E62",
+   "#F2CD00"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3717.2543.2543",
+  "imagenes": [
+   "3717.2543.2543"
+  ],
+  "nombre": "SI - SALTA INDEPENDIENTE",
+  "nombre_corto": "SALTA INDEPENDIENTE",
+  "numero": "229",
+  "orden_absoluto": [
+   6,
+   71,
+   17
+  ]
+ },
+ {
+  "asistida": "AHORA PATRIA",
+  "clase": "Partido",
+  "cod_alianza": "3717",
+  "codigo": "3717.2626",
+  "color": [
+   "#FFFF00"
+  ],
+  "id_candidatura": "3717.2626",
+  "imagenes": [
+   "3717.2626"
+  ],
+  "nombre": "AHORA PATRIA",
+  "nombre_corto": "AHORA PATRIA",
+  "orden_absoluto": [
+   6,
+   4
+  ]
+ },
+ {
+  "asistida": "231 AHORA PATRIA",
+  "clase": "Lista",
+  "cod_alianza": "3717",
+  "cod_partido": "3717.2626",
+  "codigo": "3717.2626.2626",
+  "color": [
+   "#FFFF00"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3717.2626.2626",
+  "imagenes": [
+   "3717.2626.2626"
+  ],
+  "nombre": "AHORA PATRIA",
+  "nombre_corto": "AHORA PATRIA",
+  "numero": "231",
+  "orden_absoluto": [
+   6,
+   4,
+   19
+  ]
+ },
+ {
+  "asistida": "FRENTE AVANCEMOS",
+  "clase": "Partido",
+  "cod_alianza": "3717",
+  "codigo": "3717.3739",
+  "color": [
+   "#3F0077",
+   "#F1C400",
+   "#C8102E"
+  ],
+  "id_candidatura": "3717.3739",
+  "imagenes": [
+   "3717.3739"
+  ],
+  "nombre": "FRENTE AVANCEMOS",
+  "nombre_corto": "FRENTE AVANCEMOS",
+  "orden_absoluto": [
+   6,
+   17
+  ]
+ },
+ {
+  "asistida": "401 FRENTE AVANCEMOS",
+  "clase": "Lista",
+  "cod_alianza": "3717",
+  "cod_partido": "3717.3739",
+  "codigo": "3717.3739.3739",
+  "color": [
+   "#3F0077",
+   "#F1C400",
+   "#C8102E"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3717.3739.3739",
+  "imagenes": [
+   "3717.3739.3739"
+  ],
+  "nombre": "FRENTE AVANCEMOS",
+  "nombre_corto": "FRENTE AVANCEMOS",
+  "numero": "401",
+  "orden_absoluto": [
+   6,
+   17,
+   64
+  ]
+ },
+ {
+  "asistida": "ENTRE TODOS",
+  "clase": "Alianza",
+  "codigo": "3723",
+  "color": [
+   "#00A7E6"
+  ],
+  "id_candidatura": "3723",
+  "imagenes": [
+   "3723"
+  ],
+  "nombre": "ENTRE TODOS",
+  "nombre_corto": "ENTRE TODOS",
+  "orden_absoluto": [
+   5
+  ]
+ },
+ {
+  "asistida": "ENTRE TODOS",
+  "clase": "Partido",
+  "cod_alianza": "3723",
+  "codigo": "3723.3741",
+  "color": [
+   "#00A7E6"
+  ],
+  "id_candidatura": "3723.3741",
+  "imagenes": [
+   "3723.3741"
+  ],
+  "nombre": "ENTRE TODOS",
+  "nombre_corto": "ENTRE TODOS",
+  "orden_absoluto": [
+   5,
+   14
+  ]
+ },
+ {
+  "asistida": "402 ENTRE TODOS",
+  "clase": "Lista",
+  "cod_alianza": "3723",
+  "cod_partido": "3723.3741",
+  "codigo": "3723.3741.3741",
+  "color": [
+   "#00A7E6"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3723.3741.3741",
+  "imagenes": [
+   "3723.3741.3741"
+  ],
+  "nombre": "ENTRE TODOS",
+  "nombre_corto": "ENTRE TODOS",
+  "numero": "402",
+  "orden_absoluto": [
+   5,
+   14,
+   65
+  ]
+ },
+ {
+  "asistida": "FRENTE SALTA AVANZA CON VOS",
+  "clase": "Alianza",
+  "codigo": "3728",
+  "color": [
+   "#35637B",
+   "#D98264"
+  ],
+  "id_candidatura": "3728",
+  "imagenes": [
+   "3728"
+  ],
+  "nombre": "FRENTE SALTA AVANZA CON VOS",
+  "nombre_corto": "SALTA AVANZA CON VOS",
+  "orden_absoluto": [
+   9
+  ]
+ },
+ {
+  "asistida": "FRENTE SALTA AVANZA CON VOS",
+  "clase": "Partido",
+  "cod_alianza": "3728",
+  "codigo": "3728.3742",
+  "color": [
+   "#35637B",
+   "#D98264"
+  ],
+  "id_candidatura": "3728.3742",
+  "imagenes": [
+   "3728.3742"
+  ],
+  "nombre": "FRENTE SALTA AVANZA CON VOS",
+  "nombre_corto": "SALTA AVANZA CON VOS",
+  "orden_absoluto": [
+   9,
+   21
+  ]
+ },
+ {
+  "asistida": "403 FRENTE SALTA AVANZA CON VOS",
+  "clase": "Lista",
+  "cod_alianza": "3728",
+  "cod_partido": "3728.3742",
+  "codigo": "3728.3742.3742",
+  "color": [
+   "#35637B",
+   "#D98264"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3728.3742.3742",
+  "imagenes": [
+   "3728.3742.3742"
+  ],
+  "nombre": "FRENTE SALTA AVANZA CON VOS",
+  "nombre_corto": "SALTA AVANZA CON VOS",
+  "numero": "403",
+  "orden_absoluto": [
+   9,
+   21,
+   66
+  ]
+ },
+ {
+  "asistida": "FEDERAL ALTERNATIVO REGIONAL ORGANIZ\u00c1DO -FARO",
+  "clase": "Partido",
+  "cod_alianza": "3728",
+  "codigo": "3728.3748",
+  "color": [
+   "#007F00",
+   "#FF0000"
+  ],
+  "id_candidatura": "3728.3748",
+  "imagenes": [
+   "3728.3748"
+  ],
+  "nombre": "FEDERAL ALTERNATIVO REGIONAL ORGANIZADO-FARO",
+  "nombre_corto": "FED.ALT.REG.ORGANIZ.",
+  "orden_absoluto": [
+   9,
+   15
+  ]
+ },
+ {
+  "asistida": "238 FEDERAL ALTERNATIVO REGIONAL ORGANIZ\u00c1DO -FARO",
+  "clase": "Lista",
+  "cod_alianza": "3728",
+  "cod_partido": "3728.3748",
+  "codigo": "3728.3748.3748",
+  "color": [
+   "#007F00",
+   "#FF0000"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3728.3748.3748",
+  "imagenes": [
+   "3728.3748.3748"
+  ],
+  "nombre": "FEDERAL ALTERNATIVO REGIONAL ORGANIZADO-FARO",
+  "nombre_corto": "FED.ALT.REG.ORGANIZ.",
+  "numero": "238",
+  "orden_absoluto": [
+   9,
+   15,
+   24
+  ]
+ },
+ {
+  "asistida": "SALTA PARA TODOS - CALIVA GOBERNADORA",
+  "clase": "Alianza",
+  "codigo": "3729",
+  "color": [
+   "#FFFFFF",
+   "#1389DC",
+   "#FFBD59"
+  ],
+  "id_candidatura": "3729",
+  "imagenes": [
+   "3729"
+  ],
+  "nombre": "SALTA PARA TODOS - CALIVA GOBERNADORA",
+  "nombre_corto": "SALTA PARA TODOS-CG",
+  "orden_absoluto": [
+   24
+  ]
+ },
+ {
+  "asistida": "SALTA PARA TODOS - CAL\u00cdVA GOBERNADORA",
+  "clase": "Partido",
+  "cod_alianza": "3729",
+  "codigo": "3729.3747",
+  "color": [
+   "#FFFFFF",
+   "#1389DC",
+   "#FFBD59"
+  ],
+  "id_candidatura": "3729.3747",
+  "imagenes": [
+   "3729.3747"
+  ],
+  "nombre": "SALTA PARA TODOS - CALIVA GOBERNADORA",
+  "nombre_corto": "SALTA PARA TODOS-CG",
+  "orden_absoluto": [
+   24,
+   68
+  ]
+ },
+ {
+  "asistida": "404 SALTA PARA TODOS - CAL\u00cdVA GOBERNADORA",
+  "clase": "Lista",
+  "cod_alianza": "3729",
+  "cod_partido": "3729.3747",
+  "codigo": "3729.3747.3747",
+  "color": [
+   "#FFFFFF",
+   "#1389DC",
+   "#FFBD59"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3729.3747.3747",
+  "imagenes": [
+   "3729.3747.3747"
+  ],
+  "nombre": "SALTA PARA TODOS - CALIVA GOBERNADORA",
+  "nombre_corto": "SALTA PARA TODOS-CG",
+  "numero": "404",
+  "orden_absoluto": [
+   24,
+   68,
+   67
+  ]
+ },
+ {
+  "asistida": "JUNTOS POR EL CAMBIO",
+  "clase": "Alianza",
+  "codigo": "3730",
+  "color": [
+   "#FFB300"
+  ],
+  "id_candidatura": "3730",
+  "imagenes": [
+   "3730"
+  ],
+  "nombre": "JUNTOS POR EL CAMBIO",
+  "nombre_corto": "JUNTOS POR EL CAMBIO",
+  "orden_absoluto": [
+   15
+  ]
+ },
+ {
+  "asistida": "JUNTOS POR EL CAMBIO",
+  "clase": "Partido",
+  "cod_alianza": "3730",
+  "codigo": "3730.3746",
+  "color": [
+   "#FFB300"
+  ],
+  "id_candidatura": "3730.3746",
+  "imagenes": [
+   "3730.3746"
+  ],
+  "nombre": "JUNTOS POR EL CAMBIO",
+  "nombre_corto": "JUNTOS POR EL CAMBIO",
+  "orden_absoluto": [
+   15,
+   32
+  ]
+ },
+ {
+  "asistida": "411 JUNTOS POR EL CAMBIO",
+  "clase": "Lista",
+  "cod_alianza": "3730",
+  "cod_partido": "3730.3746",
+  "codigo": "3730.3746.3746",
+  "color": [
+   "#FFB300"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3730.3746.3746",
+  "imagenes": [
+   "3730.3746.3746"
+  ],
+  "nombre": "JUNTOS POR EL CAMBIO",
+  "nombre_corto": "JUNTOS POR EL CAMBIO",
+  "numero": "411",
+  "orden_absoluto": [
+   15,
+   32,
+   74
+  ]
+ },
+ {
+  "asistida": "FRENTE SALTA VA CON FELICIDAD",
+  "clase": "Alianza",
+  "codigo": "3731",
+  "color": [
+   "#9D2642",
+   "#040205",
+   "#E95B19"
+  ],
+  "id_candidatura": "3731",
+  "imagenes": [
+   "3731"
+  ],
+  "nombre": "FRENTE SALTA VA CON FELICIDAD",
+  "nombre_corto": "SALTA VA C\/FELICIDAD",
+  "orden_absoluto": [
+   10
+  ]
+ },
+ {
+  "asistida": "FRENTE SALTA VA CON FELICIDAD",
+  "clase": "Partido",
+  "cod_alianza": "3731",
+  "codigo": "3731.3743",
+  "color": [
+   "#9D2642",
+   "#040205",
+   "#E95B19"
+  ],
+  "id_candidatura": "3731.3743",
+  "imagenes": [
+   "3731.3743"
+  ],
+  "nombre": "FRENTE SALTA VA CON FELICIDAD",
+  "nombre_corto": "SALTA VA C\/FELICIDAD",
+  "orden_absoluto": [
+   10,
+   22
+  ]
+ },
+ {
+  "asistida": "405 FRENTE SALTA VA CON FELICIDAD",
+  "clase": "Lista",
+  "cod_alianza": "3731",
+  "cod_partido": "3731.3743",
+  "codigo": "3731.3743.3743",
+  "color": [
+   "#9D2642",
+   "#040205",
+   "#E95B19"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3731.3743.3743",
+  "imagenes": [
+   "3731.3743.3743"
+  ],
+  "nombre": "FRENTE SALTA VA CON FELICIDAD",
+  "nombre_corto": "SALTA VA C\/FELICIDAD",
+  "numero": "405",
+  "orden_absoluto": [
+   10,
+   22,
+   68
+  ]
+ },
+ {
+  "asistida": "FRENTE DE IZQUIERDA MST - PARTIDO OBRERO",
+  "clase": "Alianza",
+  "codigo": "3732",
+  "color": [
+   "#F65058"
+  ],
+  "id_candidatura": "3732",
+  "imagenes": [
+   "3732"
+  ],
+  "nombre": "FRENTE DE IZQUIERDA MST - PARTIDO OBRERO",
+  "nombre_corto": "MST - PARTIDO OBRERO",
+  "orden_absoluto": [
+   7
+  ]
+ },
+ {
+  "asistida": "FRENTE DE IZQUIERDA MST - PART\u00cdDO OBRERO",
+  "clase": "Partido",
+  "cod_alianza": "3732",
+  "codigo": "3732.3740",
+  "color": [
+   "#F65058"
+  ],
+  "id_candidatura": "3732.3740",
+  "imagenes": [
+   "3732.3740"
+  ],
+  "nombre": "FRENTE DE IZQUIERDA MST - PARTIDO OBRERO",
+  "nombre_corto": "MST - PARTIDO OBRERO",
+  "orden_absoluto": [
+   7,
+   18
+  ]
+ },
+ {
+  "asistida": "410 FRENTE DE IZQUIERDA MST - PART\u00cdDO OBRERO",
+  "clase": "Lista",
+  "cod_alianza": "3732",
+  "cod_partido": "3732.3740",
+  "codigo": "3732.3740.3740",
+  "color": [
+   "#F65058"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3732.3740.3740",
+  "imagenes": [
+   "3732.3740.3740"
+  ],
+  "nombre": "FRENTE DE IZQUIERDA MST - PARTIDO OBRERO",
+  "nombre_corto": "MST - PARTIDO OBRERO",
+  "numero": "410",
+  "orden_absoluto": [
+   7,
+   18,
+   73
+  ]
+ },
+ {
+  "asistida": "FRENTE UNIDOS POR SALTA",
+  "clase": "Alianza",
+  "codigo": "3733",
+  "color": [
+   "#E74C3C",
+   "#FF0000"
+  ],
+  "id_candidatura": "3733",
+  "imagenes": [
+   "3733"
+  ],
+  "nombre": "FRENTE UNIDOS POR SALTA",
+  "nombre_corto": "FTE.UNIDOS POR SALTA",
+  "orden_absoluto": [
+   11
+  ]
+ },
+ {
+  "asistida": "PARTIDO CONSERVADOR POPULAR",
+  "clase": "Partido",
+  "cod_alianza": "3733",
+  "codigo": "3733.10",
+  "color": [
+   "#FF9D00",
+   "#56AAFF",
+   "#FFFFFF"
+  ],
+  "id_candidatura": "3733.10",
+  "imagenes": [
+   "3733.10"
+  ],
+  "nombre": "PARTIDO CONSERVADOR POPULAR",
+  "nombre_corto": "CONSERVADOR POPULAR",
+  "orden_absoluto": [
+   11,
+   51
+  ]
+ },
+ {
+  "asistida": "19 PARTIDO CONSERVADOR POPULAR",
+  "clase": "Lista",
+  "cod_alianza": "3733",
+  "cod_partido": "3733.10",
+  "codigo": "3733.10.10",
+  "color": [
+   "#FF9D00",
+   "#56AAFF",
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3733.10.10",
+  "imagenes": [
+   "3733.10.10"
+  ],
+  "nombre": "PARTIDO CONSERVADOR POPULAR",
+  "nombre_corto": "CONSERVADOR POPULAR",
+  "numero": "19",
+  "orden_absoluto": [
+   11,
+   51,
+   4
+  ]
+ },
+ {
+  "asistida": "PARTIDO DEL TRABAJO Y LA EQUIDAD",
+  "clase": "Partido",
+  "cod_alianza": "3733",
+  "codigo": "3733.1861",
+  "color": [
+   "#2680FF",
+   "#FFD100"
+  ],
+  "id_candidatura": "3733.1861",
+  "imagenes": [
+   "3733.1861"
+  ],
+  "nombre": "PARTIDO DEL TRABAJO Y LA EQUIDAD",
+  "nombre_corto": "TRABAJO Y LA EQUIDAD",
+  "orden_absoluto": [
+   11,
+   55
+  ]
+ },
+ {
+  "asistida": "223 PARTIDO DEL TRABAJO Y LA EQUIDAD",
+  "clase": "Lista",
+  "cod_alianza": "3733",
+  "cod_partido": "3733.1861",
+  "codigo": "3733.1861.1861",
+  "color": [
+   "#2680FF",
+   "#FFD100"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3733.1861.1861",
+  "imagenes": [
+   "3733.1861.1861"
+  ],
+  "nombre": "PARTIDO DEL TRABAJO Y LA EQUIDAD",
+  "nombre_corto": "TRABAJO Y LA EQUIDAD",
+  "numero": "223",
+  "orden_absoluto": [
+   11,
+   55,
+   13
+  ]
+ },
+ {
+  "asistida": "PRIMERO SALTA",
+  "clase": "Partido",
+  "cod_alianza": "3733",
+  "codigo": "3733.1862",
+  "color": [
+   "#BF0000",
+   "#000000"
+  ],
+  "id_candidatura": "3733.1862",
+  "imagenes": [
+   "3733.1862"
+  ],
+  "nombre": "PRIMERO SALTA",
+  "nombre_corto": "PRIMERO SALTA",
+  "orden_absoluto": [
+   11,
+   63
+  ]
+ },
+ {
+  "asistida": "224 PRIMERO SALTA",
+  "clase": "Lista",
+  "cod_alianza": "3733",
+  "cod_partido": "3733.1862",
+  "codigo": "3733.1862.1862",
+  "color": [
+   "#BF0000",
+   "#000000"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3733.1862.1862",
+  "imagenes": [
+   "3733.1862.1862"
+  ],
+  "nombre": "PRIMERO SALTA",
+  "nombre_corto": "PRIMERO SALTA",
+  "numero": "224",
+  "orden_absoluto": [
+   11,
+   63,
+   14
+  ]
+ },
+ {
+  "asistida": "SALTA NOS UNE",
+  "clase": "Partido",
+  "cod_alianza": "3733",
+  "codigo": "3733.1869",
+  "color": [
+   "#D8282F",
+   "#701D45",
+   "#101820"
+  ],
+  "id_candidatura": "3733.1869",
+  "imagenes": [
+   "3733.1869"
+  ],
+  "nombre": "SALTA NOS UNE",
+  "nombre_corto": "SALTA NOS UNE",
+  "orden_absoluto": [
+   11,
+   67
+  ]
+ },
+ {
+  "asistida": "225 SALTA NOS UNE",
+  "clase": "Lista",
+  "cod_alianza": "3733",
+  "cod_partido": "3733.1869",
+  "codigo": "3733.1869.1869",
+  "color": [
+   "#D8282F",
+   "#701D45",
+   "#101820"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3733.1869.1869",
+  "imagenes": [
+   "3733.1869.1869"
+  ],
+  "nombre": "SALTA NOS UNE",
+  "nombre_corto": "SALTA NOS UNE",
+  "numero": "225",
+  "orden_absoluto": [
+   11,
+   67,
+   15
+  ]
+ },
+ {
+  "asistida": "PARTIDO AUTONOMISTA",
+  "clase": "Partido",
+  "cod_alianza": "3733",
+  "codigo": "3733.2625",
+  "color": [
+   "#FFFFFF",
+   "#54ACDE",
+   "#DF1448"
+  ],
+  "id_candidatura": "3733.2625",
+  "imagenes": [
+   "3733.2625"
+  ],
+  "nombre": "PARTIDO AUTONOMISTA",
+  "nombre_corto": "PARTIDO AUTONOMISTA",
+  "orden_absoluto": [
+   11,
+   50
+  ]
+ },
+ {
+  "asistida": "36 PARTIDO AUTONOMISTA",
+  "clase": "Lista",
+  "cod_alianza": "3733",
+  "cod_partido": "3733.2625",
+  "codigo": "3733.2625.2625",
+  "color": [
+   "#FFFFFF",
+   "#54ACDE",
+   "#DF1448"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3733.2625.2625",
+  "imagenes": [
+   "3733.2625.2625"
+  ],
+  "nombre": "PARTIDO AUTONOMISTA",
+  "nombre_corto": "PARTIDO AUTONOMISTA",
+  "numero": "36",
+  "orden_absoluto": [
+   11,
+   50,
+   62
+  ]
+ },
+ {
+  "asistida": "TODOS POR SALTA",
+  "clase": "Partido",
+  "cod_alianza": "3733",
+  "codigo": "3733.2627",
+  "color": [
+   "#FFFFFF",
+   "#E51414"
+  ],
+  "id_candidatura": "3733.2627",
+  "imagenes": [
+   "3733.2627"
+  ],
+  "nombre": "TODOS POR SALTA",
+  "nombre_corto": "TODOS POR SALTA",
+  "orden_absoluto": [
+   11,
+   72
+  ]
+ },
+ {
+  "asistida": "233 TODOS POR SALTA",
+  "clase": "Lista",
+  "cod_alianza": "3733",
+  "cod_partido": "3733.2627",
+  "codigo": "3733.2627.2627",
+  "color": [
+   "#FFFFFF",
+   "#E51414"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3733.2627.2627",
+  "imagenes": [
+   "3733.2627.2627"
+  ],
+  "nombre": "TODOS POR SALTA",
+  "nombre_corto": "TODOS POR SALTA",
+  "numero": "233",
+  "orden_absoluto": [
+   11,
+   72,
+   20
+  ]
+ },
+ {
+  "asistida": "MOVIMIENTO DE INTEGRACI\u00d3N SOCIAL",
+  "clase": "Partido",
+  "cod_alianza": "3733",
+  "codigo": "3733.3653",
+  "color": [
+   "#6CAB4E",
+   "#0E8BA6"
+  ],
+  "id_candidatura": "3733.3653",
+  "imagenes": [
+   "3733.3653"
+  ],
+  "nombre": "MOVIMIENTO DE INTEGRACI\u00d3N SOCIAL",
+  "nombre_corto": "MOV.DE INTEGR.SOCIAL",
+  "orden_absoluto": [
+   11,
+   45
+  ]
+ },
+ {
+  "asistida": "307 MOVIMIENTO DE INTEGRACI\u00d3N SOCIAL",
+  "clase": "Lista",
+  "cod_alianza": "3733",
+  "cod_partido": "3733.3653",
+  "codigo": "3733.3653.3653",
+  "color": [
+   "#6CAB4E",
+   "#0E8BA6"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3733.3653.3653",
+  "imagenes": [
+   "3733.3653.3653"
+  ],
+  "nombre": "MOVIMIENTO DE INTEGRACI\u00d3N SOCIAL",
+  "nombre_corto": "MOV.DE INTEGR.SOCIAL",
+  "numero": "307",
+  "orden_absoluto": [
+   11,
+   45,
+   32
+  ]
+ },
+ {
+  "asistida": "FRENTE UNIDOS POR SALTA",
+  "clase": "Partido",
+  "cod_alianza": "3733",
+  "codigo": "3733.3744",
+  "color": [
+   "#000000",
+   "#FF0000"
+  ],
+  "id_candidatura": "3733.3744",
+  "imagenes": [
+   "3733.3744"
+  ],
+  "nombre": "FRENTE UNIDOS POR SALTA",
+  "nombre_corto": "FTE.UNIDOS POR SALTA",
+  "orden_absoluto": [
+   11,
+   24
+  ]
+ },
+ {
+  "asistida": "408 FRENTE UNIDOS POR SALTA",
+  "clase": "Lista",
+  "cod_alianza": "3733",
+  "cod_partido": "3733.3744",
+  "codigo": "3733.3744.3744",
+  "color": [
+   "#000000",
+   "#FF0000"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3733.3744.3744",
+  "imagenes": [
+   "3733.3744.3744"
+  ],
+  "nombre": "FRENTE UNIDOS POR SALTA",
+  "nombre_corto": "FTE.UNIDOS POR SALTA",
+  "numero": "408",
+  "orden_absoluto": [
+   11,
+   24,
+   71
+  ]
+ },
+ {
+  "asistida": "PROPUESTA SALTE\u00d1A",
+  "clase": "Partido",
+  "cod_alianza": "3733",
+  "codigo": "3733.38",
+  "color": [
+   "#005FBF",
+   "#FF7F00",
+   "#FFFFFF"
+  ],
+  "id_candidatura": "3733.38",
+  "imagenes": [
+   "3733.38"
+  ],
+  "nombre": "PROPUESTA SALTE\u00d1A",
+  "nombre_corto": "PROPUESTA SALTE\u00d1A",
+  "orden_absoluto": [
+   11,
+   65
+  ]
+ },
+ {
+  "asistida": "197 PROPUESTA SALTE\u00d1A",
+  "clase": "Lista",
+  "cod_alianza": "3733",
+  "cod_partido": "3733.38",
+  "codigo": "3733.38.38",
+  "color": [
+   "#005FBF",
+   "#FF7F00",
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3733.38.38",
+  "imagenes": [
+   "3733.38.38"
+  ],
+  "nombre": "PROPUESTA SALTE\u00d1A",
+  "nombre_corto": "PROPUESTA SALTE\u00d1A",
+  "numero": "197",
+  "orden_absoluto": [
+   11,
+   65,
+   5
+  ]
+ },
+ {
+  "asistida": "ALIANZA GUSTAVO GOBERNADOR",
+  "clase": "Alianza",
+  "codigo": "3734",
+  "color": [
+   "#1D1F1A",
+   "#C31718"
+  ],
+  "id_candidatura": "3734",
+  "imagenes": [
+   "3734"
+  ],
+  "nombre": "ALIANZA GUSTAVO GOBERNADOR",
+  "nombre_corto": "GUSTAVO GOBERNADOR",
+  "orden_absoluto": [
+   1
+  ]
+ },
+ {
+  "asistida": "ALIANZA GUSTAVO GOBERNADOR",
+  "clase": "Partido",
+  "cod_alianza": "3734",
+  "codigo": "3734.3737",
+  "color": [
+   "#1D1F1A",
+   "#C31718"
+  ],
+  "id_candidatura": "3734.3737",
+  "imagenes": [
+   "3734.3737"
+  ],
+  "nombre": "ALIANZA GUSTAVO GOBERNADOR",
+  "nombre_corto": "GUSTAVO GOBERNADOR",
+  "orden_absoluto": [
+   1,
+   5
+  ]
+ },
+ {
+  "asistida": "406 ALIANZA GUSTAVO GOBERNADOR",
+  "clase": "Lista",
+  "cod_alianza": "3734",
+  "cod_partido": "3734.3737",
+  "codigo": "3734.3737.3737",
+  "color": [
+   "#1D1F1A",
+   "#C31718"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3734.3737.3737",
+  "imagenes": [
+   "3734.3737.3737"
+  ],
+  "nombre": "ALIANZA GUSTAVO GOBERNADOR",
+  "nombre_corto": "GUSTAVO GOBERNADOR",
+  "numero": "406",
+  "orden_absoluto": [
+   1,
+   5,
+   69
+  ]
+ },
+ {
+  "asistida": "FRENTE VAMOS SALTA",
+  "clase": "Alianza",
+  "codigo": "3735",
+  "color": [
+   "#2C4B92"
+  ],
+  "id_candidatura": "3735",
+  "imagenes": [
+   "3735"
+  ],
+  "nombre": "FRENTE VAMOS SALTA",
+  "nombre_corto": "FRENTE VAMOS SALTA",
+  "orden_absoluto": [
+   12
+  ]
+ },
+ {
+  "asistida": "PARTIDO RENOVADOR DE SALTA",
+  "clase": "Partido",
+  "cod_alianza": "3735",
+  "codigo": "3735.15",
+  "color": [
+   "#FFFFFF",
+   "#007FFF",
+   "#000000"
+  ],
+  "id_candidatura": "3735.15",
+  "imagenes": [
+   "3735.15"
+  ],
+  "nombre": "PARTIDO RENOVADOR DE SALTA",
+  "nombre_corto": "PART.RENOV.DE SALTA",
+  "orden_absoluto": [
+   12,
+   59
+  ]
+ },
+ {
+  "asistida": "152 PARTIDO RENOVADOR DE SALTA",
+  "clase": "Lista",
+  "cod_alianza": "3735",
+  "cod_partido": "3735.15",
+  "codigo": "3735.15.15",
+  "color": [
+   "#FFFFFF",
+   "#007FFF",
+   "#000000"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3735.15.15",
+  "imagenes": [
+   "3735.15.15"
+  ],
+  "nombre": "PARTIDO RENOVADOR DE SALTA",
+  "nombre_corto": "PART.RENOV.DE SALTA",
+  "numero": "152",
+  "orden_absoluto": [
+   12,
+   59,
+   1
+  ]
+ },
+ {
+  "asistida": "PARTIDO FE",
+  "clase": "Partido",
+  "cod_alianza": "3735",
+  "codigo": "3735.1873",
+  "color": [
+   "#00BF00",
+   "#007FFF",
+   "#ED8B00"
+  ],
+  "id_candidatura": "3735.1873",
+  "imagenes": [
+   "3735.1873"
+  ],
+  "nombre": "PARTIDO FE",
+  "nombre_corto": "PARTIDO FE",
+  "orden_absoluto": [
+   12,
+   56
+  ]
+ },
+ {
+  "asistida": "77 PARTIDO FE",
+  "clase": "Lista",
+  "cod_alianza": "3735",
+  "cod_partido": "3735.1873",
+  "codigo": "3735.1873.1873",
+  "color": [
+   "#00BF00",
+   "#007FFF",
+   "#ED8B00"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3735.1873.1873",
+  "imagenes": [
+   "3735.1873.1873"
+  ],
+  "nombre": "PARTIDO FE",
+  "nombre_corto": "PARTIDO FE",
+  "numero": "77",
+  "orden_absoluto": [
+   12,
+   56,
+   80
+  ]
+ },
+ {
+  "asistida": "MOVIMIENTO LIBRES DEL SUR",
+  "clase": "Partido",
+  "cod_alianza": "3735",
+  "codigo": "3735.32",
+  "color": [
+   "#1E4A7B",
+   "#A71D2F"
+  ],
+  "id_candidatura": "3735.32",
+  "imagenes": [
+   "3735.32"
+  ],
+  "nombre": "MOVIMIENTO LIBRES DEL SUR",
+  "nombre_corto": "MOVIM.LIBRES DEL SUR",
+  "orden_absoluto": [
+   12,
+   46
+  ]
+ },
+ {
+  "asistida": "40 MOVIMIENTO LIBRES DEL SUR",
+  "clase": "Lista",
+  "cod_alianza": "3735",
+  "cod_partido": "3735.32",
+  "codigo": "3735.32.32",
+  "color": [
+   "#1E4A7B",
+   "#A71D2F"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3735.32.32",
+  "imagenes": [
+   "3735.32.32"
+  ],
+  "nombre": "MOVIMIENTO LIBRES DEL SUR",
+  "nombre_corto": "MOVIM.LIBRES DEL SUR",
+  "numero": "40",
+  "orden_absoluto": [
+   12,
+   46,
+   63
+  ]
+ },
+ {
+  "asistida": "REPRESENTAR",
+  "clase": "Partido",
+  "cod_alianza": "3735",
+  "codigo": "3735.3650",
+  "color": [
+   "#E6007E",
+   "#2D2E83"
+  ],
+  "id_candidatura": "3735.3650",
+  "imagenes": [
+   "3735.3650"
+  ],
+  "nombre": "REPRESENTAR",
+  "nombre_corto": "REPRESENTAR",
+  "orden_absoluto": [
+   12,
+   66
+  ]
+ },
+ {
+  "asistida": "237 REPRESENTAR",
+  "clase": "Lista",
+  "cod_alianza": "3735",
+  "cod_partido": "3735.3650",
+  "codigo": "3735.3650.3650",
+  "color": [
+   "#E6007E",
+   "#2D2E83"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3735.3650.3650",
+  "imagenes": [
+   "3735.3650.3650"
+  ],
+  "nombre": "REPRESENTAR",
+  "nombre_corto": "REPRESENTAR",
+  "numero": "237",
+  "orden_absoluto": [
+   12,
+   66,
+   23
+  ]
+ },
+ {
+  "asistida": "ELIGE POR SALTA",
+  "clase": "Partido",
+  "cod_alianza": "3735",
+  "codigo": "3735.3710",
+  "color": [
+   "#7123C4",
+   "#EF40AC"
+  ],
+  "id_candidatura": "3735.3710",
+  "imagenes": [
+   "3735.3710"
+  ],
+  "nombre": "ELIGE POR SALTA",
+  "nombre_corto": "ELIGE POR SALTA",
+  "orden_absoluto": [
+   12,
+   12
+  ]
+ },
+ {
+  "asistida": "305 ELIGE POR SALTA",
+  "clase": "Lista",
+  "cod_alianza": "3735",
+  "cod_partido": "3735.3710",
+  "codigo": "3735.3710.3710",
+  "color": [
+   "#7123C4",
+   "#EF40AC"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3735.3710.3710",
+  "imagenes": [
+   "3735.3710.3710"
+  ],
+  "nombre": "ELIGE POR SALTA",
+  "nombre_corto": "ELIGE POR SALTA",
+  "numero": "305",
+  "orden_absoluto": [
+   12,
+   12,
+   30
+  ]
+ },
+ {
+  "asistida": "FRENTE VAMOS SALTA",
+  "clase": "Partido",
+  "cod_alianza": "3735",
+  "codigo": "3735.3745",
+  "color": [
+   "#2C4B92"
+  ],
+  "id_candidatura": "3735.3745",
+  "imagenes": [
+   "3735.3745"
+  ],
+  "nombre": "FRENTE VAMOS SALTA",
+  "nombre_corto": "FRENTE VAMOS SALTA",
+  "orden_absoluto": [
+   12,
+   25
+  ]
+ },
+ {
+  "asistida": "407 FRENTE VAMOS SALTA",
+  "clase": "Lista",
+  "cod_alianza": "3735",
+  "cod_partido": "3735.3745",
+  "codigo": "3735.3745.3745",
+  "color": [
+   "#2C4B92"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3735.3745.3745",
+  "imagenes": [
+   "3735.3745.3745"
+  ],
+  "nombre": "FRENTE VAMOS SALTA",
+  "nombre_corto": "FRENTE VAMOS SALTA",
+  "numero": "407",
+  "orden_absoluto": [
+   12,
+   25,
+   70
+  ]
+ },
+ {
+  "asistida": "PARTIDO JUSTICIALISTA",
+  "clase": "Partido",
+  "cod_alianza": "3735",
+  "codigo": "3735.4",
+  "color": [
+   "#1658F2"
+  ],
+  "id_candidatura": "3735.4",
+  "imagenes": [
+   "3735.4"
+  ],
+  "nombre": "PARTIDO JUSTICIALISTA",
+  "nombre_corto": "PART. JUSTICIALISTA",
+  "orden_absoluto": [
+   12,
+   58
+  ]
+ },
+ {
+  "asistida": "2 PARTIDO JUSTICIALISTA",
+  "clase": "Lista",
+  "cod_alianza": "3735",
+  "cod_partido": "3735.4",
+  "codigo": "3735.4.4",
+  "color": [
+   "#1658F2"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3735.4.4",
+  "imagenes": [
+   "3735.4.4"
+  ],
+  "nombre": "PARTIDO JUSTICIALISTA",
+  "nombre_corto": "PART. JUSTICIALISTA",
+  "numero": "2",
+  "orden_absoluto": [
+   12,
+   58,
+   6
+  ]
+ },
+ {
+  "asistida": "FRENTE SALTE\u00d1O",
+  "clase": "Partido",
+  "cod_alianza": "3735",
+  "codigo": "3735.460",
+  "color": [
+   "#DD2A2A",
+   "#1C0303",
+   "#E51010"
+  ],
+  "id_candidatura": "3735.460",
+  "imagenes": [
+   "3735.460"
+  ],
+  "nombre": "FRENTE SALTE\u00d1O",
+  "nombre_corto": "FRENTE SALTE\u00d1O",
+  "orden_absoluto": [
+   12,
+   23
+  ]
+ },
+ {
+  "asistida": "215 FRENTE SALTE\u00d1O",
+  "clase": "Lista",
+  "cod_alianza": "3735",
+  "cod_partido": "3735.460",
+  "codigo": "3735.460.460",
+  "color": [
+   "#DD2A2A",
+   "#1C0303",
+   "#E51010"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3735.460.460",
+  "imagenes": [
+   "3735.460.460"
+  ],
+  "nombre": "FRENTE SALTE\u00d1O",
+  "nombre_corto": "FRENTE SALTE\u00d1O",
+  "numero": "215",
+  "orden_absoluto": [
+   12,
+   23,
+   10
+  ]
+ },
+ {
+  "asistida": "INSTRUMENTO ELECTORAL POR LA UNIDAD POPULAR",
+  "clase": "Alianza",
+  "codigo": "685",
+  "color": [
+   "#0046AD",
+   "#56AAFF"
+  ],
+  "id_candidatura": "685",
+  "imagenes": [
+   "default_lista"
+  ],
+  "nombre": "INSTRUMENTO ELECTORAL POR LA UNIDAD POPULAR",
+  "nombre_corto": "INSTR.ELECT.UNID.POP",
+  "orden_absoluto": [
+   14
+  ]
+ },
+ {
+  "asistida": "INSTRUMENTO ELECTORAL POR LA UNIDAD POPULAR",
+  "clase": "Partido",
+  "cod_alianza": "685",
+  "codigo": "685.685",
+  "color": [
+   "#0046AD",
+   "#56AAFF"
+  ],
+  "id_candidatura": "685.685",
+  "imagenes": [
+   "685.685"
+  ],
+  "nombre": "INSTRUMENTO ELECTORAL POR LA UNIDAD POPULAR",
+  "nombre_corto": "INSTR.ELECT.UNID.POP",
+  "orden_absoluto": [
+   14,
+   30
+  ]
+ },
+ {
+  "asistida": "72 INSTRUMENTO ELECTORAL POR LA UNIDAD POPULAR",
+  "clase": "Lista",
+  "cod_alianza": "685",
+  "cod_partido": "685.685",
+  "codigo": "685.685.685",
+  "color": [
+   "#0046AD",
+   "#56AAFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "685.685.685",
+  "imagenes": [
+   "685.685.685"
+  ],
+  "nombre": "INSTRUMENTO ELECTORAL POR LA UNIDAD POPULAR",
+  "nombre_corto": "INSTR.ELECT.UNID.POP",
+  "numero": "72",
+  "orden_absoluto": [
+   14,
+   30,
+   78
+  ]
+ }
+]
