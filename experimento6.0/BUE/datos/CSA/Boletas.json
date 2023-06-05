@@ -1,0 +1,23 @@
+[
+ {
+  "TDC": 32,
+  "CNJ": 31,
+  "INT": 3,
+  "agrupacion_municipal": true,
+  "lista_completa":true,
+  "codigo": "3M",
+  "id_lista": "13"
+
+ },
+ 
+ {
+    "TDC": 502,
+    "CNJ": 501,
+    "INT": 50,
+    "agrupacion_municipal": true,
+    "lista_completa":true,
+    "codigo": "50M",
+    "id_lista": "2"
+   }
+
+]

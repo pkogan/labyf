@@ -1,0 +1,41 @@
+[
+    {
+        "adhiere": null,
+        "asistida": "Tribunal de Cuentas",
+        "cargo_ejecutivo": false,
+        "codigo": "TDC",
+        "consulta_popular": false,
+        "id_grupo": 1,
+        "max_selecciones": 1,
+        "nombre": "Tribunal de Cuentas",
+        "posicion": 3,
+        "preferente": false,
+        "segmento": "municipal"
+       },   
+ {
+  "adhiere": null,
+  "asistida": "Concejales",
+  "cargo_ejecutivo": false,
+  "codigo": "CNJ",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Concejales\/as",
+  "posicion": 2,
+  "preferente": false,
+  "segmento": "municipal"
+ },
+ {
+  "adhiere": null,
+  "asistida": "Intendente",
+  "cargo_ejecutivo": true,
+  "codigo": "INT",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Intendente\/a",
+  "posicion": 1,
+  "preferente": false,
+  "segmento": "municipal"
+ }
+]

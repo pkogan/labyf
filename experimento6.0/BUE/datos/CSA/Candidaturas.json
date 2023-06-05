@@ -1,0 +1,806 @@
+[
+
+  {
+    "asistida": null,
+    "cargo_ejecutivo": true,
+    "clase": "Candidato",
+    "cod_categoria": "INT",
+    "cod_lista": "3",
+    "codigo": "3",
+    "id_candidatura": "3",
+    "id_umv": 3,
+    "imagenes": ["default_mujer"
+    ],
+    "nombre": "NORBERTO  ANTONIO SOTO (CHURRO) ",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     1,
+     1
+    ],
+    "secundarios": [
+  
+    ],
+    "sexo": "X",
+    "suplentes": [
+  
+    ]
+   },
+   {
+    "asistida": null,
+    "cargo_ejecutivo": false,
+    "clase": "Candidato",
+    "cod_categoria": "CNJ",
+    "cod_lista": "3",
+    "codigo": "3.1",
+    "id_candidatura": "3.1",
+    "id_umv": 31,
+    "imagenes": ["default_mujer"],
+    "nombre": "PATRICIA CLAUDIA PEREZ",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     2,
+     1
+    ],
+    "secundarios": [
+    ],
+    "sexo": "X",
+    "suplentes": [
+    ]
+   },
+   {
+    "asistida": null,
+    "cargo_ejecutivo": false,
+    "clase": "Candidato",
+    "cod_categoria": "TDC",
+    "cod_lista": "3",
+    "codigo": "3",
+    "id_candidatura": "3.2",
+    "id_umv": 32,
+    "imagenes": [
+      "default_mujer"
+    ],
+    "nombre": "LORENA YANINA MUÑOZ",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     3,
+     1
+    ],
+    "secundarios": [
+    ],
+    "sexo": "X",
+    "suplentes": [
+    ]
+   },
+   
+
+
+   {
+    "asistida": null,
+    "cargo_ejecutivo": true,
+    "clase": "Candidato",
+    "cod_categoria": "INT",
+    "cod_lista": "50",
+    "codigo": "50",
+    "id_candidatura": "50",
+    "id_umv": 50,
+    "imagenes": ["default_mujer"
+    ],
+    "nombre": "MIGUEL ANGEL VIDAL",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     1,
+     1
+    ],
+    "secundarios": [
+  
+    ],
+    "sexo": "X",
+    "suplentes": [
+  
+    ]
+   },
+   {
+    "asistida": null,
+    "cargo_ejecutivo": false,
+    "clase": "Candidato",
+    "cod_categoria": "CNJ",
+    "cod_lista": "50",
+    "codigo": "50.1",
+    "id_candidatura": "50.1",
+    "id_umv": 501,
+    "imagenes": ["default_mujer"],
+    "nombre": "JORGE ANTONIO LOPEZ ( CUI) ",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     2,
+     1
+    ],
+    "secundarios": [
+    ],
+    "sexo": "X",
+    "suplentes": [
+    ]
+   },
+   {
+    "asistida": null,
+    "cargo_ejecutivo": false,
+    "clase": "Candidato",
+    "cod_categoria": "TDC",
+    "cod_lista": "50",
+    "codigo": "50",
+    "id_candidatura": "50.2",
+    "id_umv": 502,
+    "imagenes": [
+      "default_mujer"
+    ],
+    "nombre": "LAURA YANET ACUÑA",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     3,
+     1
+    ],
+    "secundarios": [
+    ],
+    "sexo": "X",
+    "suplentes": [
+    ]
+   },
+
+
+   {
+    "asistida": null,
+    "cargo_ejecutivo": true,
+    "clase": "Candidato",
+    "cod_categoria": "INT",
+    "cod_lista": "169",
+    "codigo": "169",
+    "id_candidatura": "169",
+    "id_umv": 169,
+    "imagenes": ["default_mujer"
+    ],
+    "nombre": "MARIA ELENA VOGEL",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     1,
+     1
+    ],
+    "secundarios": [
+  
+    ],
+    "sexo": "X",
+    "suplentes": [
+  
+    ]
+   },
+   {
+    "asistida": null,
+    "cargo_ejecutivo": false,
+    "clase": "Candidato",
+    "cod_categoria": "CNJ",
+    "cod_lista": "169",
+    "codigo": "169.1",
+    "id_candidatura": "169.1",
+    "id_umv": 1691,
+    "imagenes": ["default_mujer"],
+    "nombre": "MARIA CELESTE MAC AULIFFE",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     2,
+     1
+    ],
+    "secundarios": [
+    ],
+    "sexo": "X",
+    "suplentes": [
+    ]
+   },
+   {
+    "asistida": null,
+    "cargo_ejecutivo": false,
+    "clase": "Candidato",
+    "cod_categoria": "TDC",
+    "cod_lista": "169",
+    "codigo": "169",
+    "id_candidatura": "169.2",
+    "id_umv": 1692,
+    "imagenes": [
+      "default_mujer"
+    ],
+    "nombre": "MONICA BIBIANA VERBAUWEDE",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     3,
+     1
+    ],
+    "secundarios": [
+    ],
+    "sexo": "X",
+    "suplentes": [
+    ]
+   },
+   {
+    "asistida": null,
+    "cargo_ejecutivo": true,
+    "clase": "Candidato",
+    "cod_categoria": "INT",
+    "cod_lista": "206",
+    "codigo": "206",
+    "id_candidatura": "206",
+    "id_umv": 206,
+    "imagenes": ["default_mujer"
+    ],
+    "nombre": "LAURA XIMENA ITURBIDE",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     1,
+     1
+    ],
+    "secundarios": [
+  
+    ],
+    "sexo": "X",
+    "suplentes": [
+  
+    ]
+   },
+   {
+    "asistida": null,
+    "cargo_ejecutivo": false,
+    "clase": "Candidato",
+    "cod_categoria": "CNJ",
+    "cod_lista": "206",
+    "codigo": "206.1",
+    "id_candidatura": "206.1",
+    "id_umv": 2061,
+    "imagenes": ["default_mujer"],
+    "nombre": "EUGENIA MARIA NICOLA",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     2,
+     1
+    ],
+    "secundarios": [
+    ],
+    "sexo": "X",
+    "suplentes": [
+    ]
+   },
+   {
+    "asistida": null,
+    "cargo_ejecutivo": false,
+    "clase": "Candidato",
+    "cod_categoria": "TDC",
+    "cod_lista": "206",
+    "codigo": "206",
+    "id_candidatura": "206.2",
+    "id_umv": 2062,
+    "imagenes": [
+      "default_mujer"
+    ],
+    "nombre": "PEDRO ALEJANDRO  ARREDONDO",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     3,
+     1
+    ],
+    "secundarios": [
+    ],
+    "sexo": "X",
+    "suplentes": [
+    ]
+   },
+   {
+    "asistida": null,
+    "cargo_ejecutivo": true,
+    "clase": "Candidato",
+    "cod_categoria": "INT",
+    "cod_lista": "355",
+    "codigo": "355",
+    "id_candidatura": "355",
+    "id_umv": 355,
+    "imagenes": ["default_mujer"
+    ],
+    "nombre": "ENRIQUE EDUARDO ROSSI  (QUIQUE)",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     1,
+     1
+    ],
+    "secundarios": [
+  
+    ],
+    "sexo": "X",
+    "suplentes": [
+  
+    ]
+   },
+   {
+    "asistida": null,
+    "cargo_ejecutivo": false,
+    "clase": "Candidato",
+    "cod_categoria": "CNJ",
+    "cod_lista": "355",
+    "codigo": "355.1",
+    "id_candidatura": "355.1",
+    "id_umv": 3551,
+    "imagenes": ["default_mujer"],
+    "nombre": "MARIA PAZ GARCIA (PACHI)",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     2,
+     1
+    ],
+    "secundarios": [
+    ],
+    "sexo": "X",
+    "suplentes": [
+    ]
+   },
+   {
+    "asistida": null,
+    "cargo_ejecutivo": false,
+    "clase": "Candidato",
+    "cod_categoria": "TDC",
+    "cod_lista": "355",
+    "codigo": "355",
+    "id_candidatura": "355.2",
+    "id_umv": 3552,
+    "imagenes": [
+      "default_mujer"
+    ],
+    "nombre": "SEBASTIAN ANDRES CRESPO",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     3,
+     1
+    ],
+    "secundarios": [
+    ],
+    "sexo": "X",
+    "suplentes": [
+    ]
+   },
+   {
+    "asistida": null,
+    "cargo_ejecutivo": true,
+    "clase": "Candidato",
+    "cod_categoria": "INT",
+    "cod_lista": "377",
+    "codigo": "377",
+    "id_candidatura": "377",
+    "id_umv": 377,
+    "imagenes": ["default_mujer"
+    ],
+    "nombre": "SILVINA GABRIELA RUEDA GASTIAZORO",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     1,
+     1
+    ],
+    "secundarios": [
+  
+    ],
+    "sexo": "X",
+    "suplentes": [
+  
+    ]
+   },
+   {
+    "asistida": null,
+    "cargo_ejecutivo": false,
+    "clase": "Candidato",
+    "cod_categoria": "CNJ",
+    "cod_lista": "377",
+    "codigo": "377.1",
+    "id_candidatura": "377.1",
+    "id_umv": 3771,
+    "imagenes": ["default_mujer"],
+    "nombre": "LEONARDO RODOLFO ROMANIELLO  ( EL VECI) ",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     2,
+     1
+    ],
+    "secundarios": [
+    ],
+    "sexo": "X",
+    "suplentes": [
+    ]
+   },
+   
+   {
+    "asistida": null,
+    "cargo_ejecutivo": true,
+    "clase": "Candidato",
+    "cod_categoria": "INT",
+    "cod_lista": "427",
+    "codigo": "427",
+    "id_candidatura": "427",
+    "id_umv": 427,
+    "imagenes": ["default_mujer"
+    ],
+    "nombre": "LILIANA EDITH ALVARADO",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     1,
+     1
+    ],
+    "secundarios": [
+  
+    ],
+    "sexo": "X",
+    "suplentes": [
+  
+    ]
+   },
+   {
+    "asistida": null,
+    "cargo_ejecutivo": false,
+    "clase": "Candidato",
+    "cod_categoria": "CNJ",
+    "cod_lista": "427",
+    "codigo": "427.1",
+    "id_candidatura": "427.1",
+    "id_umv": 4271,
+    "imagenes": ["default_mujer"],
+    "nombre": "MIRTA BEATRIZ ALMANZA ",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     2,
+     1
+    ],
+    "secundarios": [
+    ],
+    "sexo": "X",
+    "suplentes": [
+    ]
+   },
+   {
+    "asistida": null,
+    "cargo_ejecutivo": false,
+    "clase": "Candidato",
+    "cod_categoria": "TDC",
+    "cod_lista": "427",
+    "codigo": "427",
+    "id_candidatura": "427.2",
+    "id_umv": 4272,
+    "imagenes": [
+      "default_mujer"
+    ],
+    "nombre": "JUAN OMAR TORRES",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     3,
+     1
+    ],
+    "secundarios": [
+    ],
+    "sexo": "X",
+    "suplentes": [
+    ]
+   },
+   {
+    "asistida": null,
+    "cargo_ejecutivo": true,
+    "clase": "Candidato",
+    "cod_categoria": "INT",
+    "cod_lista": "429",
+    "codigo": "429",
+    "id_candidatura": "429",
+    "id_umv": 429,
+    "imagenes": ["default_mujer"
+    ],
+    "nombre": "HERNÁN CACERES",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     1,
+     1
+    ],
+    "secundarios": [
+  
+    ],
+    "sexo": "X",
+    "suplentes": [
+  
+    ]
+   },
+   {
+    "asistida": null,
+    "cargo_ejecutivo": false,
+    "clase": "Candidato",
+    "cod_categoria": "CNJ",
+    "cod_lista": "429",
+    "codigo": "429.1",
+    "id_candidatura": "429.1",
+    "id_umv": 4291,
+    "imagenes": ["default_mujer"],
+    "nombre": "GRACIELA ISABEL MORENO",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     2,
+     1
+    ],
+    "secundarios": [
+    ],
+    "sexo": "X",
+    "suplentes": [
+    ]
+   },
+   {
+    "asistida": null,
+    "cargo_ejecutivo": false,
+    "clase": "Candidato",
+    "cod_categoria": "TDC",
+    "cod_lista": "429",
+    "codigo": "429",
+    "id_candidatura": "429.2",
+    "id_umv": 4292,
+    "imagenes": [
+      "default_mujer"
+    ],
+    "nombre": "GABRIELA CECILIA DERGO",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     3,
+     1
+    ],
+    "secundarios": [
+    ],
+    "sexo": "X",
+    "suplentes": [
+    ]
+   },
+   {
+    "asistida": null,
+    "cargo_ejecutivo": true,
+    "clase": "Candidato",
+    "cod_categoria": "INT",
+    "cod_lista": "430",
+    "codigo": "430",
+    "id_candidatura": "430",
+    "id_umv": 430,
+    "imagenes": ["default_mujer"
+    ],
+    "nombre": "JUAN MARTIN PALUMBO",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     1,
+     1
+    ],
+    "secundarios": [
+  
+    ],
+    "sexo": "X",
+    "suplentes": [
+  
+    ]
+   },
+   {
+    "asistida": null,
+    "cargo_ejecutivo": false,
+    "clase": "Candidato",
+    "cod_categoria": "CNJ",
+    "cod_lista": "430",
+    "codigo": "430.1",
+    "id_candidatura": "430.1",
+    "id_umv": 4301,
+    "imagenes": ["default_mujer"],
+    "nombre": "ROCIO ANAHI URIZ",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     2,
+     1
+    ],
+    "secundarios": [
+    ],
+    "sexo": "X",
+    "suplentes": [
+    ]
+   },
+   {
+    "asistida": null,
+    "cargo_ejecutivo": false,
+    "clase": "Candidato",
+    "cod_categoria": "TDC",
+    "cod_lista": "430",
+    "codigo": "430",
+    "id_candidatura": "430.2",
+    "id_umv": 4302,
+    "imagenes": [
+      "default_mujer"
+    ],
+    "nombre": "ANDREA BEATRIZ CONTRERAS MEDINA",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     1,
+     3,
+     1
+    ],
+    "secundarios": [
+    ],
+    "sexo": "X",
+    "suplentes": [
+    ]
+   },
+
+
+ {
+  "asistida": null,
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "359",
+  "codigo": "359",
+  "id_candidatura": "359",
+  "id_umv": 359,
+  "imagenes": ["default_mujer"
+  ],
+  "nombre": "JUAN HECTOR ZAPATA (COCO)",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   1,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "X",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": null,
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "359",
+  "codigo": "359.1",
+  "id_candidatura": "359.1",
+  "id_umv": 3591,
+  "imagenes": ["default_mujer"],
+  "nombre": "MIGUEL ANGEL OPASO (CACHO)",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   1,
+   2,
+   1
+  ],
+  "secundarios": [
+  ],
+  "sexo": "X",
+  "suplentes": [
+  ]
+ },
+ {
+  "asistida": null,
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "TDC",
+  "cod_lista": "359",
+  "codigo": "359",
+  "id_candidatura": "359",
+  "id_umv": 3592,
+  "imagenes": [
+    "default_mujer"
+  ],
+  "nombre": "MARIA NAZARENA CERDA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   1,
+   3,
+   1
+  ],
+  "secundarios": [
+  ],
+  "sexo": "X",
+  "suplentes": [
+  ]
+ },
+ 
+ {
+  "asistida": "Voto en BLANCO",
+  "cargo_ejecutivo": false,
+  "clase": "Blanco",
+  "cod_categoria": "CNJ",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 111,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "nro_orden": 4,
+  "orden_absoluto": [
+   994,
+   4
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Voto en BLANCO",
+  "cargo_ejecutivo": false,
+  "clase": "Blanco",
+  "cod_categoria": "TDC",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 211,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "nro_orden": 2,
+  "orden_absoluto": [
+   994,
+   2
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ 
+ {
+  "asistida": "Voto en BLANCO",
+  "cargo_ejecutivo": true,
+  "clase": "Blanco",
+  "cod_categoria": "INT",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 11,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "nro_orden": 3,
+  "orden_absoluto": [
+   994,
+   3
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ }
+]

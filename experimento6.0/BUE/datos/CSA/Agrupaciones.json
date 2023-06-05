@@ -1,0 +1,237 @@
+[
+    {
+        "asistida": "UNION CÍVICA RADICAL",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "3",
+        "color": [
+         "#FFFFFF"
+        ],
+        "color_tipografia": [
+         "#000000"
+        ],
+        "id_candidatura": "3",
+        "imagenes": ["default_lista"
+        ],
+        "nombre": "UNION CÍVICA RADICAL",
+        "nombre_corto": "UNION CÍVICA RADICAL",
+        "numero": "3",
+        "orden_absoluto": [
+         1
+        ]
+       },
+       {
+        "asistida": "PARTIDO SOCIALISTA",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "50",
+        "color": [
+         "#FFFFFF"
+        ],
+        "color_tipografia": [
+         "#000000"
+        ],
+        "id_candidatura": "50",
+        "imagenes": ["default_lista"
+        ],
+        "nombre": "PARTIDO SOCIALISTA",
+        "nombre_corto": "PARTIDO SOCIALISTA",
+        "numero": "50",
+        "orden_absoluto": [
+         2
+        ]
+       },
+       {
+        "asistida": "JUNTOS SOMOS RIO NEGRO",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "169",
+        "color": [
+         "#FFFFFF"
+        ],
+        "color_tipografia": [
+         "#000000"
+        ],
+        "id_candidatura": "169",
+        "imagenes": ["default_lista"
+        ],
+        "nombre": "JUNTOS SOMOS RIO NEGRO",
+        "nombre_corto": "JUNTOS SOMOS RIO NEGRO",
+        "numero": "169",
+        "orden_absoluto": [
+         3
+        ]
+       },
+       {
+        "asistida": "MOVIMIENTO DE APERTURA DEMOCRÁTICA",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "206",
+        "color": [
+         "#FFFFFF"
+        ],
+        "color_tipografia": [
+         "#000000"
+        ],
+        "id_candidatura": "206",
+        "imagenes": ["default_lista"
+        ],
+        "nombre": "MOVIMIENTO DE APERTURA DEMOCRÁTICA",
+        "nombre_corto": "MOVIMIENTO DE APERTURA DEMOCRÁTICA",
+        "numero": "206",
+        "orden_absoluto": [
+         4
+        ]
+       },
+       
+       {
+        "asistida": "AVANCEMOS CINCO SALTOS",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "355",
+        "color": [
+         "#FFFFFF"
+        ],
+        "color_tipografia": [
+         "#000000"
+        ],
+        "id_candidatura": "355",
+        "imagenes": [
+         "default_lista"
+        ],
+        "nombre": "AVANCEMOS CINCO SALTOS",
+        "nombre_corto": "AVANCEMOS CINCO SALTOS",
+        "numero": "355",
+        "orden_absoluto": [
+         5
+        ]
+       },
+
+
+       {
+        "asistida": "PARTIDO SOLIDARIO",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "359",
+        "color": [
+         "#FFFFFF"
+        ],
+        "color_tipografia": [
+         "#000000"
+        ],
+        "id_candidatura": "359",
+        "imagenes": ["default_lista"
+        ],
+        "nombre": "PARTIDO SOLIDARIO",
+        "nombre_corto": "PARTIDO SOLIDARIO",
+        "numero": "359",
+        "orden_absoluto": [
+         6
+        ]
+       },
+             
+
+       {
+        "asistida": "NUEVA GENERACION",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "377",
+        "color": [
+         "#FFFFFF"
+        ],
+        "color_tipografia": [
+         "#000000"
+        ],
+        "id_candidatura": "377",
+        "imagenes": ["default_lista"
+        ],
+        "nombre": "NUEVA GENERACION",
+        "nombre_corto": "NUEVA GENERACION",
+        "numero": "377",
+        "orden_absoluto": [
+         7
+        ]
+       },
+
+       {
+        "asistida": "NOS UNE RIO NEGRO",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "427",
+        "color": [
+         "#FFFFFF"
+        ],
+        "color_tipografia": [
+         "#000000"
+        ],
+        "id_candidatura": "427",
+        "imagenes": ["default_lista"
+        ],
+        "nombre": "NOS UNE RIO NEGRO",
+        "nombre_corto": "NOS UNE RIO NEGRO",
+        "numero": "427",
+        "orden_absoluto": [
+          8
+        ]
+       },
+       
+       {
+        "asistida": "CAMBIA CINCO SALTOS",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "429",
+        "color": [
+         "#FFFFFF"
+        ],
+        "color_tipografia": [
+         "#000000"
+        ],
+        "id_candidatura": "429",
+        "imagenes": ["default_lista"
+        ],
+        "nombre": "CAMBIA CINCO SALTOS",
+        "nombre_corto": "CAMBIA CINCO SALTOS",
+        "numero": "429",
+        "orden_absoluto": [
+         9
+        ]
+       }
+       ,
+       
+
+       
+       {
+        "asistida": "ALIANZA VAMOS CON TODOS",
+        "clase": "Lista",
+        "cod_alianza": null,
+        "cod_partido": null,
+        "codigo": "430",
+        "color": [
+         "#FFFFFF"
+        ],
+        "color_tipografia": [
+         "#000000"
+        ],
+        "id_candidatura": "430",
+        "imagenes": ["default_lista"
+        ],
+        "nombre": "ALIANZA VAMOS CON TODOS",
+        "nombre_corto": "ALIANZA VAMOS CON TODOS",
+        "numero": "430",
+        "orden_absoluto": [
+         10
+        ]
+       }
+ 
+
+ 
+]
