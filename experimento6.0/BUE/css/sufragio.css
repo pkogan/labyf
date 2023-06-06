@@ -3600,3 +3600,8 @@ body[data-state='alto-contraste'] #asistida_container #indicador_asistida {
   transform-origin: top left;
   transform: scale(0.7);
 }
+@media print{
+  .btn-modificar-voto-js, .confirmacion_tarjeta-footer__btn{
+    display: none !important;
+  }
+}
