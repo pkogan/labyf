@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Test shuffle</title>
+        <script src="js/helpers.js">
+
+        </script>
+
+  
+    </head>
+    <body >
+        <script>
+            function test(){
+               ejectuar_test(document.getElementById('n').value,document.getElementById('cant').value)
+           }
+           function ejectuar_test(n,cant){
+               //se crea un array de n
+               listas=new Array();
+               for(i=0;i<n;i++){
+                   listas[i]=i;
+               }
+
+               matrix=new Array();
+               for(i=0;i<n;i++){
+                   matrix[i]=new Array();
+                   for(j=0;j<n;j++) matrix[i][j]=0;
+               }
+               let csvContent = "";//"data:text/csv;charset=utf-8,";
+                for(i=0;i<cant;i++){
+                    salida=shuffle(listas);
+                    //console.log(salida.toString());
+                    csvContent +=salida.toString()+"\n";
+                    for (const pos in salida) {
+                        lista=salida[pos];
+                        matrix[lista][pos]++;
+                     }
+               }
+               //var encodedUri = encodeURI(csvContent);
+               //window.open(encodedUri);
+               document.getElementById("t1").innerHTML=csvContent;
+               //se llama a shuffle cant veces
+               //armando un array para ver la disperción
+               console.log("-----------------------------------------------");
+               
+               csvContent = "";//"data:text/csv;charset=utf-8,";
+               for(i=0;i<n;i++){
+                   console.log(matrix[i].toString());
+                   csvContent +=matrix[i].toString()+"\n";
+               }
+
+
+                //var encodedUri = encodeURI(csvContent);
+                //window.open(encodedUri);
+                document.getElementById("t2").innerHTML=csvContent;
+
+           }
+       </script>
+        Cantidad de listas <input id="n" value="27">
+        Padrón <input id="cant" value="27">
+        <button onclick="test()">test</button>
+        <hr/>
+        <t2>n corridas (n= Padron)</t2>
+        <textarea id="t1"></textarea>
+        <hr/>
+        <t2>Matriz de l x l (l = listas) donde m(x,y)= la cantidad de veces que la lista x se listó en la posición y</t2>
+        <textarea id="t2"></textarea>
+       
+    </body>
+</html>
