@@ -1,6 +1,8 @@
 from PyQt5.QtCore import QUrl
 from PyQt5.QtWidgets import QApplication
 from PyQt5.QtWebEngineWidgets import QWebEngineView
+# Para instalar librerías ejecutar
+# pip3 install PyQt5 PyQtWebEngine
 
 if __name__ == "__main__":
     app = QApplication([])
