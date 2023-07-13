@@ -1,0 +1,1701 @@
+[{
+  "asistida": "Rectora: Gentile",
+  "clase": "Candidato",
+  "cod_categoria": "REC",
+  "cod_lista": "1",
+  "codigo": "1.1",
+  "id_candidatura": "1.1",
+  "id_umv": 1,
+
+  "nombre": "Rectora: Gentile Beatriz",
+  "orden_absoluto": [
+   1,
+   1,
+   1
+  ],
+  "secundarios": [
+                "Vice Rector: Osovnikar Paul"
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Rector: Ponce de Leon",
+  "clase": "Candidato",
+  "cod_categoria": "REC",
+  "cod_lista": "3",
+  "codigo": "1.3",
+  "id_candidatura": "1.3",
+  "id_umv": 3,
+  "imagenes": [
+  ],
+  "nombre": "Rector: Ponce de Leon Andres",
+  "orden_absoluto": [
+   2,
+   1,
+   1
+  ],
+  "secundarios": [
+                "Vice-Rectora: Lopez Lidia"
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Rector: Jurgeit",
+  "clase": "Candidato",
+  "cod_categoria": "REC",
+  "cod_lista": "2",
+  "codigo": "1.2",
+  "id_candidatura": "1.2",
+  "id_umv": 2,
+  "imagenes": [
+  ],
+  "nombre": "Rector: Jurgeit Omar Ruben",
+  "orden_absoluto": [
+   3,
+   1,
+   1
+  ],
+  "secundarios": [
+                "Vice-Rectora: Malaspina María Laura"
+  ],
+  "sexo": "M",
+  "suplentes": []
+ },
+ {
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "REC",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 4,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ }, 
+    
+    
+  {"asistida": "Consejerxs Superiores",
+  "clase": "Candidato",
+  "cod_categoria": "CSD",
+  "cod_lista": "10",
+  "codigo": "10.1",
+  "id_candidatura": "10.1",
+  "id_umv": 10,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Superiores",
+  "orden_absoluto": [
+   10,
+   2
+  ],
+  "secundarios": [
+   "Titulares: Nataine Daniel","Bascur Silvia",
+   "Lineares Gabriel",
+   "Schierloh Melina",
+   "Kogan Pablo",
+   "Raggio Gustavo",
+   "Porrino Laura",
+   "Fantini Leonardo",
+   "Blanco Graciela",
+   "Ormeño Natalia"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Fernández Nestor",
+   "Sarricouet Ariel",
+   "Rafart Gabriel",
+   "Macchi Patricio",
+   "Firstater Fausto",
+   "Ferraro Carlos",
+   "Casabona Gustavo",
+   "Parra Emir",
+   "Guerrero Mirta",
+   "Curzel Hugo"
+  ]
+ },
+
+  {
+  "asistida": "Consejerxs Superiores",
+  "clase": "Candidato",
+  "cod_categoria": "CSD",
+  "cod_lista": "11",
+  "codigo": "10.2",
+  "id_candidatura": "10.2",
+  "id_umv": 11,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Superiores",
+  "orden_absoluto": [
+   11,
+   2
+  ],
+  "secundarios": [
+   "Titulares: Bramardi Sergio","Boccanera Daniel",
+   "Aisen Eduardo",
+   "Vilchez Silvia",
+   "Macedo Beatriz",
+   "Frugoni María",
+   "Zuñiga Graldys",
+   "Dabroswski Alejandro",
+   "Marenzana Gabriela",
+   "Fracchia Carina"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Ocampo María E.",
+   "Fava María P.",
+   "Balladini Javier",
+   "Celada Beatriz",
+   "Ferrero Roberto",
+   "Muldon Luis",
+   "Chiementon María E.",
+   "Lopez Marecich Oscar",
+   "Gerardin María E.",
+   "Colavita María G."
+  ]
+ },    
+ 
+ 
+  {
+  "asistida": "Consejerxs Superiores",
+  "clase": "Candidato",
+  "cod_categoria": "CSD",
+  "cod_lista": "12",
+  "codigo": "10.3",
+  "id_candidatura": "10.3",
+  "id_umv": 12,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Superiores",
+  "orden_absoluto": [
+   12,
+   2
+  ],
+  "secundarios": [
+   "Titulares: Lopez Christian","Aschkar Gabriela",
+   "Braicovich Teresa",
+   "Gonzalez Florencia",
+   "De Angelis Romina",
+   "Lopez Eduardo A.",
+   "Rubino Juan M.",
+   "Sbrancia Renato",
+   "Reggiani Luciana",
+   "Albrech Luis"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Caballero Adriana",
+   "Rodriguez María E.",
+   "Pose Susana B",
+   "Reynoso Luis",
+   "Saiz María Natalia",
+   "Origone Andrea",
+   "Lopez Resos María E.",
+   "Gonzalez Flores Melisa",
+   "Bravo Sebastian",
+   "Salvatori Daniela"
+  ]
+ },
+ 
+ 
+  {
+  "asistida": "Consejerxs Superiores",
+  "clase": "Candidato",
+  "cod_categoria": "CSD",
+  "cod_lista": "13",
+  "codigo": "10.4",
+  "id_candidatura": "10.4",
+  "id_umv": 13,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Superiores",
+  "orden_absoluto": [
+   13,
+   2
+  ],
+  "secundarios": [
+   "Titulares: Perez Daniel R","Oehrenskissner Erica",
+   "Zabert Gustavo",
+   "Sgrablsch Federico",
+   "Farias Rosana",
+   "Jara María de los A.",
+   "Nuñez Santiago A.",
+   "Vasquez Maximiliano",
+   "Villca Victor H.",
+   "Parra Gerardo"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Canzonieri Salvador",
+   "Debener Marcela",
+   "Argat Hector G.",
+   "Andres Juan Manuel",
+   "Novak Luis María"
+  ]
+ },
+
+  {
+  "asistida": "Consejerxs Superiores",
+  "clase": "Candidato",
+  "cod_categoria": "CSD",
+  "cod_lista": "14",
+  "codigo": "10.5",
+  "id_candidatura": "10.5",
+  "id_umv": 14,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Superiores",
+  "orden_absoluto": [
+   14,
+   2
+  ],
+  "secundarios": [
+   "Titulares: Ochoa Monica R.","Ambroggio Adrian",
+   "Chauchard Luis",
+   "Silva Graciela",
+   "Vera Berta",
+   "Dufilho Ana",
+   "Caliani Jorge",
+   "Paulino Carolina",
+   "Sanchez Estrella",
+   "Comolay Carlos"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Bianchini María G.",
+   "Andrade Norma B.",
+   "Ibañez Andres",
+   "Espinosa Luis",
+   "Lizola María",
+   "Valdebenito Graciela",
+   "Bravo Rosana",
+   "Simone Daniel",
+   "Dupen María",
+   "Muñoz Javier"
+]
+ },    
+  {
+  "asistida": "Consejerxs Superiores",
+  "clase": "Candidato",
+  "cod_categoria": "CSD",
+  "cod_lista": "15",
+  "codigo": "10.6",
+  "id_candidatura": "10.6",
+  "id_umv": 15,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Superiores",
+  "orden_absoluto": [
+   15,
+   2
+  ],
+  "secundarios": [
+   "Titulares: Trpin Ines, Alvarez Gerardo O",
+"Higuera Lorena A",
+"Martin Laura C.",
+"Ramos Juan M.",
+"Mendoza Patricia E",
+"Osses Benitez Nancy R.",
+"Vai Dora E.",
+"Lieza Solaro",
+"Kroeck Marina"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Maqueda Guillermo J.",
+"Sosa Daniel H.",
+"Cadiz Anabela I.",
+"Rodriguez María D.",
+"Garrido Makinistian F. M.",
+"Martins Fabian",
+"Fernandez Victor H.",
+"Fekete Estela Gladys",
+"Lavecchia Marina",
+"Costanzo Caso Carolina"
+]
+ }, 
+
+
+ {
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "CSD",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 18,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   2
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ 
+  {
+  "asistida": "Decano: Grosso Guillermo",
+  "clase": "Candidato",
+  "cod_categoria": "DEC",
+  "cod_lista": "20",
+  "codigo": "3.1",
+  "id_candidatura": "3.1",
+  "id_umv": 20,
+  "imagenes": [
+  ],
+  "nombre": "Decano: Grosso Guillermo",
+  "orden_absoluto": [
+   1,
+   3,
+   1
+  ],
+  "secundarios": [
+                "Vice-Decana: Amaro Silvia"
+  ],
+  "sexo": "M",
+  "suplentes": []
+ },
+
+ 
+ 
+ {
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "DEC",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 28,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   3
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ 
+ 
+ {
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "CDD",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 38,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   4
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },   
+
+
+   {
+  "asistida": "Consejerxs Directivxs",
+  "clase": "Candidato",
+  "cod_categoria": "CDD",
+  "cod_lista": "30",
+  "codigo": "4.1",
+  "id_candidatura": "4.1",
+  "id_umv": 30,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Directivxs",
+  "orden_absoluto": [
+   30,
+   4
+  ],
+  "secundarios": ["Titulares: Allan María Claudia",
+   "Mazalu Rafaela J.M.",
+   "Flores Andrés Pablo",
+   "Roger Sandra",
+   "Cecchi Laura Andrea",
+   "Martinez Carod Nadina",
+   "Zoratto Valeria",
+   "Morán Marina"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Fracchia Claudia Carina",
+   "Buccella Agustina",
+   "Martinez Rodolfo",
+   "Braun German Alejandro",
+   "Balladini Javier Aldo",
+   "Reynoso Luis Alberto",
+   "Baeza Natalia Elizabet",
+   "Cañibano Rodrigo S."
+  ]
+ },
+ 
+ {
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "CDD",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 38,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   4
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+   {
+  "asistida": "Consejerxs Directivxs",
+  "clase": "Candidato",
+  "cod_categoria": "CDE",
+  "cod_lista": "40",
+  "codigo": "5.1",
+  "id_candidatura": "5.1",
+  "id_umv": 40,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Directivxs",
+  "orden_absoluto": [
+   40,
+   4
+  ],
+  "secundarios": ["Titulares: Ojeda Zuñiga Franco",
+"Giuliano Dante R.",
+"Scantamburlo Santiago",
+"Keller Luis E."
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Sepulveda Mario C",
+"Becari Lautaro Sebastian",
+"Fuentes Santino"
+  ]
+ }
+ ,{
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "CDE",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 48,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   4
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+   {
+  "asistida": "Consejerxs Directivxs",
+  "clase": "Candidato",
+  "cod_categoria": "CDN",
+  "cod_lista": "50",
+  "codigo": "6.1",
+  "id_candidatura": "6.1",
+  "id_umv": 50,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Directivxs",
+  "orden_absoluto": [
+   50,
+   4
+  ],
+  "secundarios": ["Titulares: Tealdi Romina A.",
+"Del Balzo Walter",
+"Reuteman Inés V."
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Mora Alejandro",
+"Rotter Valeria",
+"Vortich María"
+  ]
+ }
+ ,{
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "CDN",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 58,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   4
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ }
+,
+   {
+  "asistida": "Consejerxs Directivxs",
+  "clase": "Candidato",
+  "cod_categoria": "CDG",
+  "cod_lista": "60",
+  "codigo": "7.1",
+  "id_candidatura": "7.1",
+  "id_umv": 60,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Directivxs",
+  "orden_absoluto": [
+   60,
+   4
+  ],
+  "secundarios": ["Titular: Cortez Marcos Manuel"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplente: Ramirez Ruben"
+
+  ]
+ }
+ ,{
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "CDG",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 68,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   4
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ }
+,
+   {
+  "asistida": "Consejerxs Superiores",
+  "clase": "Candidato",
+  "cod_categoria": "CSE",
+  "cod_lista": "70",
+  "codigo": "8.1",
+  "id_candidatura": "8.1",
+  "id_umv": 70,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Superiores",
+  "orden_absoluto": [
+   70,
+   4
+  ],
+  "secundarios": ["Titulares: Nudelman Agustin",
+"Bianchini Pirola",
+"Lefiu Araceli T.",
+"Villoldo María",
+"Garrido Walter R.",
+"Quintero María S.",
+"Aliaga Raúl Damián",
+"Chazarreta Karen B.",
+"Nuño Thomas",
+"De la Fuente Rivero C."
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Garraffa Mariano E.",
+"Artaza Gonzalo",
+"Kreber Micaela",
+"Drexler Ivan R.",
+"Sepulveda Joaquín"
+
+  ]
+ }
+ ,
+   {
+  "asistida": "Consejerxs Superiores",
+  "clase": "Candidato",
+  "cod_categoria": "CSE",
+  "cod_lista": "71",
+  "codigo": "8.2",
+  "id_candidatura": "8.2",
+  "id_umv": 71,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Superiores",
+  "orden_absoluto": [
+   71,
+   4
+  ],
+  "secundarios": ["Titulares: Preboste Karla",
+"Varas Giuliana N.",
+"Rivero Gastón",
+"Zambrano Leandro",
+"Candia Ulices",
+"Garramuño Fernanda",
+"Pincheira Yaneth",
+"Canet Sol",
+"Ricke Daniela",
+"Vallejo Arian"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Cares Lucas",
+"Franco Maivé",
+"Quilaleo Sabrina",
+"Chiacchiarini Virginia",
+"Naceli Marcos",
+"Arias Susana del M.",
+"Ocampo Julieta",
+"Donnadieu Agustín",
+"Acuña Martínez Yanine Ch.",
+"Barrientos Borquez Paulina"
+
+  ]
+ }
+ ,
+   {
+  "asistida": "Consejerxs Superiores",
+  "clase": "Candidato",
+  "cod_categoria": "CSE",
+  "cod_lista": "72",
+  "codigo": "8.3",
+  "id_candidatura": "8.3",
+  "id_umv": 72,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Superiores",
+  "orden_absoluto": [
+   72,
+   4
+  ],
+  "secundarios": ["Titulares: Delarriva Rocío",
+"Aranda Anabella I.",
+"Maggioni Lucas G.",
+"Barrios Mayra A.",
+"Jelvez Sebastian N",
+"Clause Romina D",
+"Jaramillo Luisa Ailen",
+"Inostroza Alejandro",
+"León Paredes Damian E.",
+"Ramirez Maximiliano"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Bascunán Asiel Gustavo N.",
+"Manriquez Angelica R.",
+"Rosales Marisol M.",
+"Petit de Meurville Julieta J.",
+"Baigoni Micaela",
+"Dominguez Rosario de los A.",
+"Diaz Martín",
+"Persico Brian",
+"Caniuqueo Flores Lilén L.",
+"Sandoval Hernan R."
+
+  ]
+ }
+ ,
+   {
+  "asistida": "Consejerxs Superiores",
+  "clase": "Candidato",
+  "cod_categoria": "CSE",
+  "cod_lista": "73",
+  "codigo": "8.4",
+  "id_candidatura": "8.4",
+  "id_umv": 73,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Superiores",
+  "orden_absoluto": [
+   73,
+   4
+  ],
+  "secundarios": ["Titulares: Berrud  Joaquín",
+"Gallego Carrasco Rocío C.",
+"Vera Constanza",
+"Moreno Santiago O.",
+"Lema Fernando G.",
+"Vera Jazmín",
+"Cordobes Maciel",
+"Rebolledo D.",
+"Alverez Luciana"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Mancilla Ana B.",
+"Chandia Romero Marcelo D.",
+"De Rioja Facundo A.",
+"Rubio Martín A."
+
+  ]
+ }
+ 
+ ,
+   {
+  "asistida": "Consejerxs Superiores",
+  "clase": "Candidato",
+  "cod_categoria": "CSE",
+  "cod_lista": "74",
+  "codigo": "8.5",
+  "id_candidatura": "8.5",
+  "id_umv": 74,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Superiores",
+  "orden_absoluto": [
+   74,
+   4
+  ],
+  "secundarios": ["Titulares: Barboza Pirogiv Gary B.",
+"Erxilape Giuliana D.",
+"Retamales Marián A.",
+"Parada Rocío B.",
+"Paiteman Katherine A.",
+"Silva Natali D.",
+"Telechea Norma V.",
+"Romero María A.",
+"Diaz Cintia E.",
+"Silva Godoy Tamara"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Bastías Romina",
+"Godoy Ivana",
+"Gallardo Fernanda",
+"Iovaldi Germán I.",
+"Jaimovich Sarin Diana I.",
+"Romero Prieto Nayla M.",
+"Castillo Macarena",
+"Saez Lucia B."
+  ]
+ }
+ ,
+   {
+  "asistida": "Consejerxs Superiores",
+  "clase": "Candidato",
+  "cod_categoria": "CSE",
+  "cod_lista": "75",
+  "codigo": "8.6",
+  "id_candidatura": "8.6",
+  "id_umv": 75,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Superiores",
+  "orden_absoluto": [
+   75,
+   4
+  ],
+  "secundarios": ["Titulares: Diaz Gonzalo",
+"Bengolea José N.",
+"Nuñez Paula C.",
+"Romano Lorena",
+"Gareta Luciano",
+"Arriagada Delia",
+"Romano Luciana",
+"Cire Cesio C.",
+"Robles Adela",
+"Cire Gabriel"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Tapia Jonathan",
+"Ortiz Yamir",
+"Morales Pedro",
+"Aquerrata Agustina",
+"Rios Araceli",
+"Cire Carla",
+"Mastondrea Nicolas",
+"Martinez Daniela",
+"Arriagada Analía",
+"San Martín Katya"
+  ]
+ }
+ ,
+   {
+  "asistida": "Consejerxs Superiores",
+  "clase": "Candidato",
+  "cod_categoria": "CSE",
+  "cod_lista": "76",
+  "codigo": "8.7",
+  "id_candidatura": "8.7",
+  "id_umv": 76,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Superiores",
+  "orden_absoluto": [
+   76,
+   4
+  ],
+  "secundarios": ["Titulares: Cejas Angel T.",
+"Basanta Julieta A.",
+"Ramírez Guillermo D.",
+"Millacan Tamara",
+"Gonzalez Gustavo D.",
+"Velasquez Aguirre G",
+"Rojas Augusto I.",
+"Linares Barroso E",
+"Cejas Ayrton B.",
+"Sepulveda Ramirez J"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Soria Juan M.",
+"Ramírez Juan J.",
+"Geronimo Reynaldo",
+"Romero Lucas M.",
+"Morales Aldana G."
+  ]
+ }
+ ,
+   {
+  "asistida": "Consejerxs Superiores",
+  "clase": "Candidato",
+  "cod_categoria": "CSE",
+  "cod_lista": "77",
+  "codigo": "8.8",
+  "id_candidatura": "8.8",
+  "id_umv": 77,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Superiores",
+  "orden_absoluto": [
+   77,
+   4
+  ],
+  "secundarios": ["Titulares: Jimenez Rosario",
+"Barros Ian L.",
+"Hadad Julieta N.",
+"Rolón Malena",
+"Carrea Nicolás",
+"Hertzriken Catena",
+"Fernándea María",
+"Riquelme Pamela",
+"Parenti Gaston",
+"Seguel Candela"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Ercolani Carmela",
+"Flores Lucia A.",
+"Sanchez Juana F.", 
+"Lobo Prado Claudia",
+"Guerrero Ludmila",
+"Ancao Marcos",
+"Ponce Fernando",
+"Portiño Hernan",
+"Tebes Aitiana",
+"Mardones Javier"
+  ]
+ } 
+
+ 
+ 
+ ,{
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "CSE",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 78,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   4
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ }
+
+,
+   {
+  "asistida": "Consejerxs Superiores",
+  "clase": "Candidato",
+  "cod_categoria": "CSN",
+  "cod_lista": "80",
+  "codigo": "9.1",
+  "id_candidatura": "9.1",
+  "id_umv": 80,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Superiores",
+  "orden_absoluto": [
+   80,
+   4
+  ],
+  "secundarios": ["Titulares:Lazarte Marina",
+"Pradas Daniel A.",
+"Elevoff Irma E.",
+"Vega Rodrigo S.",
+"Drachemberg Alicia A.",
+"Creusser Gerardo L.",
+"Garcia, Flavia N.",
+"Maldonado Ana M.",
+"Ramirez Oscar J.",
+"Prior Federico I."
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Quezada Ximena M.",
+"Raimondo Freire Cecilia A.",
+"Zanoni Orlandi Fabrizio",
+"Bestand María J.",
+"Barrionuevo Zacarías",
+"Paredes Veronica",
+"Villano Mario C.",
+"García Claudio",
+"López Daniela L.",
+"Nieves Amelia"
+  ]
+ } 
+
+,
+   {
+  "asistida": "Consejerxs Superiores",
+  "clase": "Candidato",
+  "cod_categoria": "CSN",
+  "cod_lista": "81",
+  "codigo": "9.2",
+  "id_candidatura": "9.2",
+  "id_umv": 81,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Superiores",
+  "orden_absoluto": [
+   81,
+   4
+  ],
+  "secundarios": ["Titulares:Hidalgo Daniel G.",
+"Barsotelli María J.",
+"Salvo Rafael",
+"Zapata Rosalia",
+"Lopez Jorge A.",
+"Barigelli Iris N.",
+"Pavon Ricardo R.",
+"Lisazu Paola",
+"Touriño Francisco J.",
+"Cristobal Lea C."
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Martinez Juan O.",
+"Tvrdoñ Gabriel H.",
+"Chagumil Veronica",
+"Vortisch Maria V.",
+"Perez Lizaso Marcelo",
+"Barria Andrea L.",
+"Oliva Maria C.",
+"Villanueva Cristian M.",
+"Romero Guillermo J.",
+"Vega Gatica Natalia"
+  ]
+ } 
+,
+   {
+  "asistida": "Consejerxs Superiores",
+  "clase": "Candidato",
+  "cod_categoria": "CSN",
+  "cod_lista": "82",
+  "codigo": "9.2",
+  "id_candidatura": "9.2",
+  "id_umv": 82,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Superiores",
+  "orden_absoluto": [
+   82,
+   4
+  ],
+  "secundarios": ["Titulares:Zapata Roxana E.",
+"Rossi Roberto L.",
+"Da Rodda Paulina L.",
+"Olive Verónica R.",
+"Fuentealba Vanesa Y.",
+"Garcia Federico L.",
+"Marquez Gisela V.",
+"Granados Martina Andrea",
+"Azcurra Maria V."
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Delgado Deborah I.",
+"Benitez Piccini Fabio E.",
+"Ravotti Gabriela R.",
+"Fuentealba Carina G.",
+"Paolini Melina",
+"Ginobili Jorge N.",
+"Creado María B.",
+"Sosa Zabala Lucía",
+"Larraza Rodrigo",
+"Bavaresco Pablo G."
+  ]
+ } 
+
+ 
+ 
+ ,{
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "CSN",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 88,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   4
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ }
+,
+   {
+  "asistida": "Consejerxs Superiores",
+  "clase": "Candidato",
+  "cod_categoria": "CSG",
+  "cod_lista": "90",
+  "codigo": "10.1",
+  "id_candidatura": "10.1",
+  "id_umv": 90,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Superiores",
+  "orden_absoluto": [
+   90,
+   4
+  ],
+  "secundarios": ["Titulares:Rojo Ana K.",
+"Ocampos Laura J.",
+"Prospitti Guillermo",
+"Rodriguez Carrera Alejandra"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Islas Martin I.",
+"Aldana Brian E.",
+"Avaca Karina A.",
+"Cortez Marcos M."
+  ]
+ } 
+
+,
+   {
+  "asistida": "Consejerxs Superiores",
+  "clase": "Candidato",
+  "cod_categoria": "CSG",
+  "cod_lista": "91",
+  "codigo": "10.2",
+  "id_candidatura": "10.2",
+  "id_umv": 91,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Superiores",
+  "orden_absoluto": [
+   91,
+   4
+  ],
+  "secundarios": ["Titulares:Roche Lucas J.",
+"Monza Liliana V.",
+"Ciccioli Carlos J.",
+"Garrido Noelia S."
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Blanco Villalba Facundo",
+"Garcia Jonas",
+"Canderan Daniel O.",
+"Bischof Juan J."
+  ]
+ } 
+,
+   {
+  "asistida": "Consejerxs Superiores",
+  "clase": "Candidato",
+  "cod_categoria": "CSG",
+  "cod_lista": "92",
+  "codigo": "10.3",
+  "id_candidatura": "10.3",
+  "id_umv": 92,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Superiores",
+  "orden_absoluto": [
+   92,
+   4
+  ],
+  "secundarios": ["Titulares:Espinosa María J.",
+"Monzani Federico",
+"Canaveri Adriana L.",
+"Carrizo Ruben H."
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Viscarra Manuel A.",
+"Leiva Marcela A.",
+"Arocena Lucas",
+"Salgado Juan  M."
+  ]
+ } 
+ 
+ ,{
+  "asistida": "Consejerxs Superiores",
+  "clase": "Candidato",
+  "cod_categoria": "CSG",
+  "cod_lista": "93",
+  "codigo": "10.4",
+  "id_candidatura": "10.4",
+  "id_umv": 93,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Superiores",
+  "orden_absoluto": [
+   93,
+   4
+  ],
+  "secundarios": ["Titulares: Matuz Enrique J.",
+"Sandoval Maximiliano",
+"Retamal Cristian A.",
+"Fioramanti Bertazzo Yamila"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Saez Camila",
+"Posse Martina",
+"Welgos Tatiana",
+"Ferrari Juan P."
+  ]
+ } 
+    
+    
+    
+ ,{
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "CSG",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 98,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   4
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+
+  {
+  "asistida": "Decano: Alonso Marcelo",
+  "clase": "Candidato",
+  "cod_categoria": "DECCRUB",
+  "cod_lista": "100",
+  "codigo": "11.1",
+  "id_candidatura": "11.1",
+  "id_umv": 100,
+  "imagenes": [
+  ],
+  "nombre": "Decano: Alonso Marcelo",
+  "orden_absoluto": [
+   100
+  ],
+  "secundarios": [
+                "Vice-Decana: Biscayart Carolina"
+  ],
+  "sexo": "M",
+  "suplentes": []
+ },
+
+ 
+ 
+ {
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "DECCRUB",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 108,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   3
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ }    
+
+ ,{
+  "asistida": "Consejerxs Directivxs",
+  "clase": "Candidato",
+  "cod_categoria": "CDDCRUB",
+  "cod_lista": "110",
+  "codigo": "12.1",
+  "id_candidatura": "12.1",
+  "id_umv": 110,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Directivxs",
+  "orden_absoluto": [
+   110,
+   4
+  ],
+  "secundarios": ["Titulares: Vega Rocío",
+"Reising  M. Lilén",
+"Suarez Carolina",
+"Macchi Patricio",
+"Santamaria Flavia",
+"Zacharías Daniela",
+"De la Rosa Nadia",
+"Fernandez Marisa"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Aguilar Alfonso",
+"Alder Inés",
+"Terreni Carina",
+"Ramirez Viviana",
+"Arbetman Marina",
+"Cutrera Karina",
+"Zattara Eduardo",
+"Haran Luciana"
+  ]
+ } 
+ 
+    ,{
+  "asistida": "Consejerxs Directivxs",
+  "clase": "Candidato",
+  "cod_categoria": "CDDCRUB",
+  "cod_lista": "111",
+  "codigo": "12.2",
+  "id_candidatura": "12.2",
+  "id_umv": 111,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Directivxs",
+  "orden_absoluto": [
+   111,
+   4
+  ],
+  "secundarios": ["Titulares: Peña Mariana",
+"Figueredo Marcela",
+"Vai Dora",
+"Pozas Diana",
+"Diaz Rosa",
+"Vilariño Tomas",
+"Vercelli Francisco",
+"Gagliardi Edgardo S."
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Galosi Carlos",
+"Macedo Beatriz",
+"De Giovanni Santiago",
+"Magrini Luciano",
+"Rodríguez Gricelda",
+"Langbehn Cora",
+"Sarsale Juan M.",
+"Luscher Sergio"
+  ]
+ }
+ ,{
+  "asistida": "Consejerxs Directivxs",
+  "clase": "Candidato",
+  "cod_categoria": "CDDCRUB",
+  "cod_lista": "112",
+  "codigo": "12.3",
+  "id_candidatura": "12.3",
+  "id_umv": 112,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Directivxs",
+  "orden_absoluto": [
+   112,
+   4
+  ],
+  "secundarios": ["Titulares: Mendoza Patricia",
+"Chiappe Mariano",
+"Bertoli Carlos",
+"Alvarado Basilia",
+"Martins Fabian",
+"Parra Claudio",
+"Servino J. Martín",
+"Morales María M."
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: López Eduardo H.",
+"Ormeño Natalia",
+"Pizzorno Federico",
+"Talani Patricia",
+"Cayun Pichunlef Gustavo",
+"Mendoza Leroy",
+"Huaiquil María",
+"Figueroa Silvina"
+  ]
+ }   
+    
+ ,{
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "CDDCRUB",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 118,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   4
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ }
+ 
+ ,{
+  "asistida": "Consejerxs Directivxs",
+  "clase": "Candidato",
+  "cod_categoria": "CDECRUB",
+  "cod_lista": "120",
+  "codigo": "13.1",
+  "id_candidatura": "13.1",
+  "id_umv": 120,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Directivxs",
+  "orden_absoluto": [
+   120,
+   4
+  ],
+  "secundarios": ["Titulares:Banda Gerardo",
+"Contreras Joaquín",
+"Nahuel Facundo",
+"Gandini Candela"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Moncada Marisol",
+"Perez del Cerro Fernando",
+"Gonzalez Lovato Leandro",
+"Albornoz Natalia"
+  ]
+ }   
+ ,{
+  "asistida": "Consejerxs Directivxs",
+  "clase": "Candidato",
+  "cod_categoria": "CDECRUB",
+  "cod_lista": "121",
+  "codigo": "13.2",
+  "id_candidatura": "13.2",
+  "id_umv": 121,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Directivxs",
+  "orden_absoluto": [
+   121,
+   4
+  ],
+  "secundarios": ["Titulares: Bramardi Martina",
+"Moccia Tobias",
+"Mazzaro Luz",
+"Dubles Lara"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Carnevale Gonzalo"
+  ]
+ },{
+  "asistida": "Consejerxs Directivxs",
+  "clase": "Candidato",
+  "cod_categoria": "CDECRUB",
+  "cod_lista": "122",
+  "codigo": "13.3",
+  "id_candidatura": "13.3",
+  "id_umv": 122,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Directivxs",
+  "orden_absoluto": [
+   122,
+   4
+  ],
+  "secundarios": ["Titulares:Lago Fernandez Juan",
+"Carrera P. Abril Rocío",
+"Alsina Jordi",
+"Flores Rain Grisel"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Jaramillo Luisa A.",
+"Alvarez Mariano",
+"Iriarte Federico",
+"Barrientos Edwards Soledad Y."
+  ]
+ }
+    
+    
+ ,{
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "CDECRUB",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 128,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   4
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ }
+ 
+ ,{
+  "asistida": "Consejerxs Directivxs",
+  "clase": "Candidato",
+  "cod_categoria": "CDNCRUB",
+  "cod_lista": "130",
+  "codigo": "14.1",
+  "id_candidatura": "14.1",
+  "id_umv": 130,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Directivxs",
+  "orden_absoluto": [
+   130,
+   4
+  ],
+  "secundarios": ["Titulares: Paolini Melina",
+"Rossi Roberto",
+"Basti Ignacio"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplentes: Del Prete Marisa",
+"Azcurra María Victoria",
+"Sigal María Eugenia"
+  ]
+ }
+    
+    
+ ,{
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "CDNCRUB",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 138,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   4
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ }
+ 
+ ,{
+  "asistida": "Consejerxs Directivxs",
+  "clase": "Candidato",
+  "cod_categoria": "CDGCRUB",
+  "cod_lista": "140",
+  "codigo": "15.1",
+  "id_candidatura": "15.1",
+  "id_umv": 140,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Directivxs",
+  "orden_absoluto": [
+   140,
+   4
+  ],
+  "secundarios": ["Titular: De Encarnacao de Sousa Andrea"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplente: Temporetti Pedro"
+  ]
+ }
+ ,{
+  "asistida": "Consejerxs Directivxs",
+  "clase": "Candidato",
+  "cod_categoria": "CDGCRUB",
+  "cod_lista": "141",
+  "codigo": "15.2",
+  "id_candidatura": "15.2",
+  "id_umv": 141,
+  "imagenes": [
+  ],
+  "nombre": "Consejerxs Directivxs",
+  "orden_absoluto": [
+   141,
+   4
+  ],
+  "secundarios": ["Titular: Martinez Rocío"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "Suplente: Tedone Mariana"
+  ]
+ }  
+    
+ ,{
+  "asistida": "Voto en BLANCO",
+  "clase": "Blanco",
+  "cod_categoria": "CDGCRUB",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 148,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en BLANCO",
+  "orden_absoluto": [
+   994,
+   4
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ }
+
+    
+]

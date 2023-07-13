@@ -1,0 +1,317 @@
+[
+ {
+  "asistida": "POPULAR",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "1648",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "1648",
+  "imagenes": [
+   "1648"
+  ],
+  "nombre": "POPULAR",
+  "nombre_corto": "P242",
+  "numero": "P242",
+  "orden_absoluto": [
+   1
+  ]
+ },
+ {
+  "asistida": "HACEMOS UNIDOS POR CORDOBA",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "1733",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "1733",
+  "imagenes": [
+   "1733"
+  ],
+  "nombre": "HACEMOS UNIDOS POR CORDOBA",
+  "nombre_corto": "A601",
+  "numero": "A601",
+  "orden_absoluto": [
+   11
+  ]
+ },
+ {
+  "asistida": "CREO EN CORDOBA DE TODOS",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "1734",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "1734",
+  "imagenes": [
+   "1734"
+  ],
+  "nombre": "CREO EN CORDOBA DE TODOS",
+  "nombre_corto": "A203",
+  "numero": "A203",
+  "orden_absoluto": [
+   5
+  ]
+ },
+ {
+  "asistida": "FRENTE LIBERAL DEMOCRATA DESARROLLISTA",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "1735",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "1735",
+  "imagenes": [
+   "1735"
+  ],
+  "nombre": "FRENTE LIBERAL DEMOCRATA DESARROLLISTA",
+  "nombre_corto": "A304",
+  "numero": "A304",
+  "orden_absoluto": [
+   4
+  ]
+ },
+ {
+  "asistida": "FRENTE DE IZQUIERDA Y DE TRABAJADORES UNIDAD",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "1736",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "1736",
+  "imagenes": [
+   "1736"
+  ],
+  "nombre": "FRENTE DE IZQUIERDA Y DE TRABAJADORES UNIDAD",
+  "nombre_corto": "A701",
+  "numero": "A701",
+  "orden_absoluto": [
+   6
+  ]
+ },
+ {
+  "asistida": "LA LIBERTAD AVANZA",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "1737",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "1737",
+  "imagenes": [
+   "1737"
+  ],
+  "nombre": "LA LIBERTAD AVANZA",
+  "nombre_corto": "A101",
+  "numero": "A101",
+  "orden_absoluto": [
+   2
+  ]
+ },
+ {
+  "asistida": "JUNTOS POR EL CAMBIO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "1738",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "1738",
+  "imagenes": [
+   "1738"
+  ],
+  "nombre": "JUNTOS POR EL CAMBIO",
+  "nombre_corto": "A501",
+  "numero": "A501",
+  "orden_absoluto": [
+   7
+  ]
+ },
+ {
+  "asistida": "JUNTOS POR CARLOS PAZ",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "1762",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "1762",
+  "imagenes": [
+   "1762"
+  ],
+  "nombre": "JUNTOS POR CARLOS PAZ",
+  "nombre_corto": "A503",
+  "numero": "A503",
+  "orden_absoluto": [
+   46
+  ]
+ },
+ {
+  "asistida": "CARLOS PAZ UNIDO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "1763",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "1763",
+  "imagenes": [
+   "1763"
+  ],
+  "nombre": "CARLOS PAZ UNIDO",
+  "nombre_corto": "A323",
+  "numero": "A323",
+  "orden_absoluto": [
+   51
+  ]
+ },
+ {
+  "asistida": "CARLOS PAZ INTELIGENTE",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "1764",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "1764",
+  "imagenes": [
+   "1764"
+  ],
+  "nombre": "CARLOS PAZ INTELIGENTE",
+  "nombre_corto": "A163",
+  "numero": "A163",
+  "orden_absoluto": [
+   44
+  ]
+ },
+ {
+  "asistida": "PARTIDO HUMANISTA",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "20",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "20",
+  "imagenes": [
+   "20"
+  ],
+  "nombre": "PARTIDO HUMANISTA",
+  "nombre_corto": "P22",
+  "numero": "P22",
+  "orden_absoluto": [
+   3
+  ]
+ },
+ {
+  "asistida": "ENCUENTRO VECINAL C\u00d3RDOBA",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "524",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "524",
+  "imagenes": [
+   "524"
+  ],
+  "nombre": "ENCUENTRO VECINAL C\u00d3RDOBA",
+  "nombre_corto": "P217",
+  "numero": "P217",
+  "orden_absoluto": [
+   10
+  ]
+ },
+ {
+  "asistida": "UNI\u00d3N POPULAR FEDERAL",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "602",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "602",
+  "imagenes": [
+   "602"
+  ],
+  "nombre": "UNI\u00d3N POPULAR FEDERAL",
+  "nombre_corto": "P218",
+  "numero": "P218",
+  "orden_absoluto": [
+   9
+  ]
+ },
+ {
+  "asistida": "MOVIMIENTO AL SOCIALISMO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "718",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "718",
+  "imagenes": [
+   "718"
+  ],
+  "nombre": "MOVIMIENTO AL SOCIALISMO",
+  "nombre_corto": "P13",
+  "numero": "P13",
+  "orden_absoluto": [
+   8
+  ]
+ },
+ {
+  "asistida": "CRECER POR CARLOS PAZ",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "724",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "724",
+  "imagenes": [
+   "724"
+  ],
+  "nombre": "CRECER POR CARLOS PAZ",
+  "nombre_corto": "M340",
+  "numero": "M340",
+  "orden_absoluto": [
+   25
+  ]
+ }
+]

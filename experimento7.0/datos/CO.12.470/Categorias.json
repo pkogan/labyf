@@ -1,0 +1,80 @@
+[
+ {
+  "adhiere": null,
+  "asistida": "Gobernador y Vicegobernador",
+  "cargo_ejecutivo": false,
+  "codigo": "GOB",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Gobernador y Vicegob.",
+  "posicion": 1,
+  "preferente": false,
+  "segmento": "provincial"
+ },
+ {
+  "adhiere": null,
+  "asistida": "Intendente y Concejales",
+  "cargo_ejecutivo": false,
+  "codigo": "INT",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Intend. y Concejal",
+  "posicion": 5,
+  "preferente": false,
+  "segmento": "municipal"
+ },
+ {
+  "adhiere": null,
+  "asistida": "Legislador Departamental",
+  "cargo_ejecutivo": true,
+  "codigo": "LDE",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Legisl. Depart.",
+  "posicion": 3,
+  "preferente": false,
+  "segmento": "provincial"
+ },
+ {
+  "adhiere": null,
+  "asistida": "Legislador Distrito \u00danico",
+  "cargo_ejecutivo": true,
+  "codigo": "LDU",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Legisl. Distrito \u00danico",
+  "posicion": 2,
+  "preferente": false,
+  "segmento": "provincial"
+ },
+ {
+  "adhiere": null,
+  "asistida": "Tribunal de Cuentas Municipal",
+  "cargo_ejecutivo": true,
+  "codigo": "TCM",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Tribunal de Ctas Municip",
+  "posicion": 7,
+  "preferente": false,
+  "segmento": "municipal"
+ },
+ {
+  "adhiere": null,
+  "asistida": "Tribunal de Cuentas Provincial",
+  "cargo_ejecutivo": true,
+  "codigo": "TCP",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Tribunal de Ctas Prov.",
+  "posicion": 4,
+  "preferente": false,
+  "segmento": "provincial"
+ }
+]

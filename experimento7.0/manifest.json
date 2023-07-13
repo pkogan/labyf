@@ -1,0 +1,15 @@
+{
+  "short_name": "Simulador",
+  "name": "Simulador de la Boleta Única Electrónica",
+  "description": "Simulador de la Boleta Única Electrónica",
+  "icons": [{
+     "src": "/img/icono.png",
+     "type": "image/png",
+     "sizes": "512x512"
+  }],
+  "start_url": "/index.html",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6"
+}

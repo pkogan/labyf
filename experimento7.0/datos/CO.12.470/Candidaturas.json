@@ -1,0 +1,3143 @@
+[
+ {
+  "asistida": "SARMIENTO, PATRICIA \u201cPATO BON\u201d",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "GOB",
+  "cod_lista": "1648",
+  "codigo": "1648.287",
+  "id_candidatura": "1648.287",
+  "id_umv": 537,
+  "imagenes": [
+   "1648.287",
+   "default_mujer"
+  ],
+  "nombre": "SARMIENTO, PATRICIA \u201cPATO BON\u201d",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   1,
+   1,
+   1
+  ],
+  "secundarios": [
+   "ZARANTONELLO, ROBERTO A."
+  ],
+  "sexo": "X",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "SARMIENTO, PATRICIA \u201cPATO BON\u201d",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "LDU",
+  "cod_lista": "1648",
+  "codigo": "1648.289",
+  "id_candidatura": "1648.289",
+  "id_umv": 1629,
+  "imagenes": [
+   "1648.289",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "SARMIENTO, PATRICIA \u201cPATO BON\u201d",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   1,
+   2,
+   1
+  ],
+  "secundarios": [
+   "LEGUIZAMON, NICOLAS \u201cNICO\u201d",
+   "MOYANO CHINELLATO, AGUSTIN GABRIEL",
+   "ARIAS, CARMEN ALICIA",
+   "LUDUE\u00d1A, LUIS \u201cCHACA\u201d",
+   "BERTILOTTI, CLAUDIA E.",
+   "GRIMAYLO COSSON, ALBERTO DAMIAN",
+   "GIELSOMINO, MARIA CAROLINA",
+   "GALLO, PEDRO ANTONIO",
+   "OVIEDO, SANDRA E.",
+   "RUGGIERI, FEDERICO",
+   "SARASOLA, NORMA B.",
+   "ANDRICH, LEONARDO GABRIEL",
+   "GONZALEZ, ROMINA SOLEDAD",
+   "ALVAREZ, GUSTAVO E.",
+   "CONTARDO, DANIELA DEL VALLE",
+   "VALLES, FRANCO NAHUEL",
+   "PALACIO, GISELLA IN\u00c9S",
+   "YEDRO, LUIS ALBERTO",
+   "HEREDIA, GISELA SOLEDAD",
+   "MINARI, CRISTIAN RAMON",
+   "PERALTA, NATALIA EDITH",
+   "QUILEZ, RAFAEL ERNESTO",
+   "CRESSATTI, BARBARA ROSA NEREA",
+   "SANTUCHO, VICTOR HUGO",
+   "CHANQUIA, NORMA",
+   "NIETO, CLAUDIO EXEQUIEL",
+   "PEREZ, EVA DEL VALLE",
+   "ESCOBAR, RAUL ALBERTO",
+   "BOCALON, CARLA GABRIELA",
+   "ZURITA, LUCAS ALBERTO",
+   "AGUERO, FABIANA MAGDALENA",
+   "DOMINGUEZ, ROQUE ROGELIO",
+   "AMARILLO, NOEMI ANGELICA",
+   "COE, IVAN EXEQUIEL",
+   "CASTRO FIORENTINO, SAMANTA NOELIA",
+   "PIOVANO, JUAN MARCELO",
+   "BUSTAMANTE, AMALIA DEL CARMEN",
+   "VIANNA, ANDRES PABLO",
+   "OCHOA AGUIRRE, AGUSTINA AYELEN",
+   "FERRARI, EUGENIO EDUARDO",
+   "LEGUIZAMON, KATYA CELESTE",
+   "CATIVA, RODRIGO NICOLAS"
+  ],
+  "sexo": "X",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "SCH\u00dcLE, PABLO JULI\u00c1N",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "TCP",
+  "cod_lista": "1648",
+  "codigo": "1648.333",
+  "id_candidatura": "1648.333",
+  "id_umv": 2965,
+  "imagenes": [
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "SCH\u00dcLE, PABLO JULI\u00c1N",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   1,
+   4,
+   1
+  ],
+  "secundarios": [
+   "PANCIERA, SILVIA MARISA"
+  ],
+  "sexo": "X",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "RUIZ, CLAUDIO HECTOR",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "LDE",
+  "cod_lista": "1648",
+  "codigo": "1648.824",
+  "id_candidatura": "1648.824",
+  "id_umv": 1346,
+  "imagenes": [
+   "default_mujer"
+  ],
+  "nombre": "RUIZ, CLAUDIO HECTOR",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   1,
+   3,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "X",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "LLARYORA, MARTIN MIGUEL",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "GOB",
+  "cod_lista": "1733",
+  "codigo": "1733.335",
+  "id_candidatura": "1733.335",
+  "id_umv": 538,
+  "imagenes": [
+   "1733.335",
+   "default_mujer"
+  ],
+  "nombre": "LLARYORA, MARTIN MIGUEL",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   11,
+   1,
+   1
+  ],
+  "secundarios": [
+   "PRUNOTTO, MYRIAN BEATRIZ"
+  ],
+  "sexo": "X",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "LLAMOSAS, JUAN MANUEL",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "LDU",
+  "cod_lista": "1733",
+  "codigo": "1733.387",
+  "id_candidatura": "1733.387",
+  "id_umv": 1630,
+  "imagenes": [
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "LLAMOSAS, JUAN MANUEL",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   11,
+   2,
+   1
+  ],
+  "secundarios": [
+   "MARTINEZ, CLAUDIA ROXANA",
+   "CALVO, MANUEL FERNANDO",
+   "FERNANDEZ, NADIA VANESA",
+   "LIMIA, LUIS LEONARDO",
+   "JURE, LAURA JUDITH",
+   "SICILIANO, MIGUEL ANGEL",
+   "NAVARRO ALEGRE, VERONICA FATIMA",
+   "SOSA, RICARDO ROBERTO",
+   "SUAREZ, CARMEN ESTHER",
+   "CONSALVI, DAVID ALFREDO",
+   "RINALDI, JULIETA",
+   "KNIPSCHEER REYNA, CARLOS BERNARDO",
+   "QUI\u00d1ONEZ, NATALIA SOLEDAD",
+   "OVEJEROS, PABLO CESAR",
+   "ACEVEDO, MARIA DEL ROSARIO",
+   "CHAMORRO, MATIAS EZEQUIEL",
+   "QUAGLINO, ILEANA",
+   "GALO, ABRAHAM",
+   "ROMERO, DELIA DOLORES",
+   "LORENZO, CARLOS MARIANO",
+   "PEREYRA, CRISTINA ALICIA",
+   "RUFEIL, RODRIGO MIGUEL",
+   "ACU\u00d1A, KAREN BELEN",
+   "RUSSO, ANTONIO EDGARDO",
+   "PERALTA, STELLA MARIS",
+   "BA\u00d1UELOS, JULIO ALBERTO",
+   "MANSILLA, DORIS FATIMA",
+   "LENCINAS, LUIS CARLOS",
+   "SOARDO, LEONOR JORGELINA",
+   "FITTIPALDI, SERGIO NICOLAS",
+   "ORTIZ, MARIA NELIDA",
+   "GALFRE, IVAN HORACIO",
+   "CANTO, GIMENA DEL VALLE",
+   "CAPDEVILA, SANTIAGO",
+   "VILLALBA, LAURA INES",
+   "ARGA\u00d1ARAZ, RAMONA DEL VALLE",
+   "GENESIO, WILSON NATANAEL",
+   "VALOR, SABRINA ELIZABETH",
+   "SCARLATTO, JOSE LUIS",
+   "DIEDRICH, VERONICA SUSANA",
+   "MOUSIST, ALBERTO DANIEL",
+   "TORO, MYRIAN NINFA",
+   "FASOLIS, OSCAR ALBERTO"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "FA LUCHINI, FABIANA ALICIA",
+   "PASTORE, AUGUSTO OMAR",
+   "COCARO, ANTONELLA",
+   "LUJAN, CARLOS NELSON",
+   "GRIMALDI, MARIA FERNANDA",
+   "ANCONETANI, MATIAS",
+   "BENAVIDEZ, CINTIA GISELA",
+   "ALMADA, SANDRA GENOVEVA",
+   "BALDUZZI, EDGARD MACIEL",
+   "BRUSA, BELEN ELIZABETH",
+   "TREJO MUSTAFA, OMAR GERARDO",
+   "PASERO, MARIA DE FATIMA",
+   "ACEVEDO, MARCELO ALEJO",
+   "MICCA, LUCIANA",
+   "ANDRADA, CARLOS SILVESTRE",
+   "RUIZ, MONICA DEL VALLE",
+   "DEVIA, OSCAR RICARDO",
+   "RODRIGUEZ, VIVIANA VERONICA",
+   "NICOLETTI, AMERICO OSVALDO",
+   "MONTEMARTINI, ROMINA"
+  ]
+ },
+ {
+  "asistida": "RIVERO, SILVINA",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "TCP",
+  "cod_lista": "1733",
+  "codigo": "1733.402",
+  "id_candidatura": "1733.402",
+  "id_umv": 2966,
+  "imagenes": [
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "RIVERO, SILVINA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   11,
+   4,
+   1
+  ],
+  "secundarios": [
+   "CID, JUAN MANUEL"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "ABRAMO, MARIA ANDREA",
+   "FERRARI, GUSTAVO ALFREDO"
+  ]
+ },
+ {
+  "asistida": "MORENO, GLADYS CORAZON DEL VALLE",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "LDE",
+  "cod_lista": "1733",
+  "codigo": "1733.825",
+  "id_candidatura": "1733.825",
+  "id_umv": 1366,
+  "imagenes": [
+   "1733.825"
+  ],
+  "nombre": "MORENO, GLADYS CORAZON DEL VALLE",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   11,
+   3,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "SIERRA, JULIO HORACIO"
+  ]
+ },
+ {
+  "asistida": "ALESANDRI, CARLOS FEDERICO",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "GOB",
+  "cod_lista": "1734",
+  "codigo": "1734.404",
+  "id_candidatura": "1734.404",
+  "id_umv": 539,
+  "imagenes": [
+   "1734.404",
+   "default_mujer"
+  ],
+  "nombre": "ALESANDRI, CARLOS FEDERICO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   5,
+   1,
+   1
+  ],
+  "secundarios": [
+   "ESTEVEZ, GABRIELA BEATRIZ"
+  ],
+  "sexo": "X",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "ALESANDRI, CARLOS FEDERICO",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "LDU",
+  "cod_lista": "1734",
+  "codigo": "1734.406",
+  "id_candidatura": "1734.406",
+  "id_umv": 1631,
+  "imagenes": [
+   "1734.406",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "ALESANDRI, CARLOS FEDERICO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   5,
+   2,
+   1
+  ],
+  "secundarios": [
+   "ESTEVEZ, GABRIELA BEATRIZ",
+   "MONSERRAT, JUAN BAUTISTA",
+   "SAN PEDRO, CONSTANZA",
+   "BASELICA, IGNACIO",
+   "RIUTORT, OLGA ELENA",
+   "LEYR\u00cdA, RODOLFO",
+   "HENZE, GLENDA SILVANA",
+   "GAMARRO, MARCOS EZEQUIEL",
+   "GOLZMAN, SONIA",
+   "ESTEBAN, JORGE ALBERTO",
+   "ALMADA, MARIA JOSEFINA",
+   "OJEDA, HECTOR JOSE LUIS",
+   "CUELLO, ERIKA YOHANA",
+   "TISSERA, PABLO MARTIN",
+   "GONZALEZ, RAMONA NELIDA",
+   "MART\u00cdNEZ, JULIO C\u00c9SAR",
+   "LEON, MELINA ISABEL",
+   "VALLEJOS, LEANDRO BIENVENIDO",
+   "VAZQUEZ, MARIA CRISTINA",
+   "MEDINA, FABIAN RUBEN",
+   "NICOLAS, GRACIELA BEATRIZ",
+   "FINOLA, RICARDO ALFIO",
+   "CARNERO, VIVIANA RAMONA",
+   "GONZALEZ CASTA\u00d1O, SIMON FELIX",
+   "ZELAYA, ROCIO ALEJANDRA",
+   "ENSABELLA, JUAN PABLO",
+   "VOCO, MAVILDA NORMA",
+   "VELAZQUEZ, ANGEL GUILLERMO",
+   "ESCALANTE, NORA FLORENTINA",
+   "SARGENTONI, PABLO GERMAN",
+   "LENCINAS, FARA ALEXANDRA",
+   "VOCO, JORGE OMAR",
+   "ALINDRO, CLEMENCIA DEL VALLE",
+   "RODRIGUEZ, ALFREDO MIGUEL",
+   "CANO, RITA MERCEDES",
+   "HIDALGO, ELIAS DANIEL",
+   "LUCERO, ALICIA BEATRIZ",
+   "PINZANI, PAOLO HERNAN",
+   "SILVANO, ANALIA DEL VALLE",
+   "LUNA, SERGIO ALEJANDRO",
+   "ENET, VALENTINA",
+   "ROMERO, MIGUEL EDUARDO SANTIAGO",
+   "DE PASCUALE, FRANCA"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "CAMPOS, DAVID WALTER \u201cTATU\u201d",
+   "PANZETTA ROCCA, ANA CECILIA",
+   "LLUGDAR, LUIS RODOLFO",
+   "RODRIGUEZ, ERICA VANESA",
+   "RODRIGUEZ, MARTIN RICARDO",
+   "JUNCOS, LUCIA ANABEL",
+   "CORIA, JUAN ALFREDO",
+   "VENTURINI, GUADALUPE",
+   "CHIARELLA, HORACIO ALBERTO",
+   "DASCOLA, SILVIA ROSANA",
+   "ACOSTA BUSTOS, LUIS PABLO",
+   "SUED, SILVIA FABIANA",
+   "FERREYRA BRACALI, EMILIANO ERNESTO",
+   "JAIME, STEFANIA TAMARA",
+   "ARCOSTANZO, SANTIAGO",
+   "CUSIDO, GRACIELA",
+   "PACO, JOSE LUIS"
+  ]
+ },
+ {
+  "asistida": "LLARENA, JOS\u00c9 MARTIN BERNARDO",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "TCP",
+  "cod_lista": "1734",
+  "codigo": "1734.467",
+  "id_candidatura": "1734.467",
+  "id_umv": 2967,
+  "imagenes": [
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "LLARENA, JOS\u00c9 MARTIN BERNARDO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   5,
+   4,
+   1
+  ],
+  "secundarios": [
+   "CORDEIRO, MAR\u00cdA P\u00cdA"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "VERA BARROS, OSCAR TOMAS",
+   "GARZON, ELISA"
+  ]
+ },
+ {
+  "asistida": "EIBEN, RODOLFO GUIDO",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "GOB",
+  "cod_lista": "1735",
+  "codigo": "1735.472",
+  "id_candidatura": "1735.472",
+  "id_umv": 540,
+  "imagenes": [
+   "1735.472",
+   "default_mujer"
+  ],
+  "nombre": "EIBEN, RODOLFO GUIDO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   4,
+   1,
+   1
+  ],
+  "secundarios": [
+   "BORNORONI, GABRIEL MARCOS"
+  ],
+  "sexo": "X",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "EIBEN, RODOLFO GUIDO",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "LDU",
+  "cod_lista": "1735",
+  "codigo": "1735.490",
+  "id_candidatura": "1735.490",
+  "id_umv": 1632,
+  "imagenes": [
+   "1735.490",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "EIBEN, RODOLFO GUIDO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   4,
+   2,
+   1
+  ],
+  "secundarios": [
+   "IBA\u00d1EZ, MARIA CECILIA",
+   "BORNORONI, GABRIEL MARCOS",
+   "PONCE, MARIA ALEJANDRA",
+   "GIMENEZ, ADOLFO HUGO",
+   "GONZ\u00c1LEZ, CLAUDIA SUSANA",
+   "SARICH, MATEO ESTEBAN",
+   "PEREZ, GLADYS ELIZABETH",
+   "TOSSEN, DANIEL SANTIAGO DEL VALLE",
+   "NEGRO, MAR\u00cdA PAOLA",
+   "CAY\u00d3N, RICARDO ESTEBAN",
+   "VELAZQUEZ, ANDREA FABIANA",
+   "ANDRADA, ERNESTO MARCELO",
+   "GIORGINI, MARIELA ADRIANA",
+   "FUNES, EUGENIO SIM\u00d3N",
+   "MARSIGLIA, ELIZABETH EDITH",
+   "VENENCIA, JUAN DOMINGO",
+   "OLAZ L\u00d3PEZ, NADIA AYELEN",
+   "CHIAVASSA, PABLO ANDRES",
+   "SARTORI, GABRIELA CLAUDIA",
+   "EIRAS, GABRIEL IGNACIO",
+   "STELKIC, JULIETA VERONICA",
+   "PEREYRA, PABLO GABRIEL",
+   "CAI\u00d1A, ELIANA YAMILE",
+   "ASCONCHILO, HECTOR HUGO",
+   "CIRILLO, YANINA ALBANA",
+   "NU\u00d1EZ, DIEGO HECTOR",
+   "RODR\u00cdGUEZ, MAR\u00cdA JOS\u00c9",
+   "CAMUSSO, DIEGO LUIS",
+   "ENGEL, ALICIA CLAUDIA",
+   "BASUALDO, JORGE LUIS",
+   "SANTI, DAIANA MELISA",
+   "CONTRERAS, GUILLERMO ALBERTO",
+   "ROMERO, JOHANA MILDRED",
+   "CEBALLOS, JORGE CRISTIAN",
+   "CENTENO, MAR\u00cdA DEL CARMEN",
+   "PRELATO, LUCIO MAURO",
+   "PONCE DE LE\u00d3N MARTINI, CAMILA MICAELA",
+   "BAGNARELLI MONTENEGRO, MARCOS",
+   "OVIEDO, NOEMI ALICIA",
+   "CRESPO, GONZALO SEBASTIAN",
+   "DE ROSA, MARCELA FABIANA",
+   "LANGUIDEY, WALTER ALEJANDRO",
+   "MORENO, ALICIA ISABEL"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "MARTINI, CAROLINA LAURA",
+   "GUZM\u00c1N, GAST\u00d3N",
+   "CEPEDA, SHARON EILEEN",
+   "POHLE, RAMIRO ANTONIO",
+   "DUFOUR, ELSA SUSANA",
+   "TEICHER, OSCAR ANGEL",
+   "PONCE, NORMA ESTHELA"
+  ]
+ },
+ {
+  "asistida": "LE\u00d3N, JORGE RAM\u00d3N",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "TCP",
+  "cod_lista": "1735",
+  "codigo": "1735.524",
+  "id_candidatura": "1735.524",
+  "id_umv": 2968,
+  "imagenes": [
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "LE\u00d3N, JORGE RAM\u00d3N",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   4,
+   4,
+   1
+  ],
+  "secundarios": [
+   "MOYANO, CARINA TERESITA"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "NARDONE, ALBERTO ANTONIO",
+   "VILCHES, GRACIELA BEATRIZ"
+  ]
+ },
+ {
+  "asistida": "NIETO, MAXIMILIANO ANDR\u00c9S",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "LDE",
+  "cod_lista": "1735",
+  "codigo": "1735.827",
+  "id_candidatura": "1735.827",
+  "id_umv": 1411,
+  "imagenes": [
+   "1735.827"
+  ],
+  "nombre": "NIETO, MAXIMILIANO ANDR\u00c9S",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   4,
+   3,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "X",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "OLIVERO, LILIANA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "GOB",
+  "cod_lista": "1736",
+  "codigo": "1736.529",
+  "id_candidatura": "1736.529",
+  "id_umv": 541,
+  "imagenes": [
+   "1736.529",
+   "default_mujer"
+  ],
+  "nombre": "OLIVERO, LILIANA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   6,
+   1,
+   1
+  ],
+  "secundarios": [
+   "D\u00cdAZ GARC\u00cdA, SOLEDAD"
+  ],
+  "sexo": "X",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "ECHEVARR\u00cdA, LUCIANA",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "LDU",
+  "cod_lista": "1736",
+  "codigo": "1736.552",
+  "id_candidatura": "1736.552",
+  "id_umv": 1633,
+  "imagenes": [
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "ECHEVARR\u00cdA, LUCIANA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   6,
+   2,
+   1
+  ],
+  "secundarios": [
+   "BERARDO, EMANUEL",
+   "AG\u00dcERO, NOELIA BEATRIZ",
+   "MUSSO, JAVIER",
+   "D\u00cdAZ GARC\u00cdA, SOLEDAD",
+   "VACCHIANI, GAST\u00d3N",
+   "ARGA\u00d1ARAZ, NOEL",
+   "NICOLODI, FEDERICO",
+   "COCHA, LUCRECIA",
+   "NAVARRO, JORGE",
+   "RETACCHI, HUIL\u00c9N",
+   "RODR\u00cdGUEZ RICCIARDI, NAHUEL HERNAN",
+   "MACEIRA, MARCELO",
+   "ESPINDOLA, DAYANA CECILIA",
+   "WAGNER, FEDERICO GUILLERMO",
+   "CASELLI, CARLA PAOLA",
+   "CONDORI BAZAN, FRANCA",
+   "ROQUEIRO, ALEJANDRO",
+   "MART\u00cdN, MARCELA ALEJANDRA",
+   "FOLCHIERI, SERGIO IGNACIO",
+   "JUNCOS, GERM\u00c1N",
+   "LENCINAS, RUB\u00cd",
+   "VERA, DANIEL ARTURO",
+   "ALVAREZ, JORGELINA",
+   "PAEZ, LORENA",
+   "MEDINA, JUAN WALTER",
+   "FLAMINI, SILVIA",
+   "FERREYRA, FABRIZIO DAVID",
+   "GUZMAN, MANUEL",
+   "ALLOCHIS, ANABEL VANINA",
+   "BENAVIDEZ, HECTOR MARCELO",
+   "TORT, NATALIA SOLEDAD",
+   "NIETO, MARIA",
+   "TISERA, MATIAS JUAN",
+   "PEREYRA, ANA BEATRIZ",
+   "PLEVICH SHADDOCK, JOSUE",
+   "DEL CA\u00d1O, NORBERTO",
+   "CARRIZO, CECILIA",
+   "WAISMAN, ALEJANDRO",
+   "CABRERA, SANDRA VILMA",
+   "ETCHICHURY, MARCELA",
+   "PONCE, JUAN GABRIEL",
+   "NICOLODI, CONSTANZA",
+   "BENITEZ VIEYRA, SANTIAGO MIGUEL"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "QUINTANA, OSVALDO",
+   "PAPONI, BRENDA MILENA",
+   "GIACHERO, OTTO JORGE",
+   "SCHALLER, PAULA",
+   "AVILA BIZCARRA, LINA",
+   "AMBROGIO, EZEQUIEL ANGEL JEREMIAS",
+   "AYLLON, JULIA VICTORIA",
+   "PALACIOS, DARIO EZEQUIEL",
+   "GEA, NESTOR",
+   "NIETO, NOELIA VERONICA SOLEDAD",
+   "ABRAHAM, JORGE CHRISTIAN",
+   "ARGA\u00d1ARAZ, TANIA YAEL",
+   "TASSI, MILAGROS",
+   "MORENO, CARLOS DANTE",
+   "LEYTES G\u00c1RATE, AGUSTINA",
+   "LABAT, LORENZO ENRIQUE",
+   "LONDERO, JORGE",
+   "AQUINO ROMERO, DAIANA SOLEDAD",
+   "LOPEZ, PABLO CESAR",
+   "PIZARRO, OLIVIA",
+   "CAMPITELLI, FABIANA",
+   "DA VILA, MARCELO FABIAN"
+  ]
+ },
+ {
+  "asistida": "CASTRO, SERGIO",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "TCP",
+  "cod_lista": "1736",
+  "codigo": "1736.596",
+  "id_candidatura": "1736.596",
+  "id_umv": 2969,
+  "imagenes": [
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "CASTRO, SERGIO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   6,
+   4,
+   1
+  ],
+  "secundarios": [
+   "MARSENGO, MELANIA"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "CELLI, MARIO TOM\u00c1S",
+   "ESPER, IVANA"
+  ]
+ },
+ {
+  "asistida": "ROSA, SABRINA \u201cSABRI\u201d",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "LDE",
+  "cod_lista": "1736",
+  "codigo": "1736.829",
+  "id_candidatura": "1736.829",
+  "id_umv": 1434,
+  "imagenes": [
+   "1736.829"
+  ],
+  "nombre": "ROSA, SABRINA \u201cSABRI\u201d",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   6,
+   3,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "BRIZUELA, GABRIEL"
+  ]
+ },
+ {
+  "asistida": "SPACCESI, AGUSTIN ALEJANDRO",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "GOB",
+  "cod_lista": "1737",
+  "codigo": "1737.600",
+  "id_candidatura": "1737.600",
+  "id_umv": 542,
+  "imagenes": [
+   "1737.600",
+   "default_mujer"
+  ],
+  "nombre": "SPACCESI, AGUSTIN ALEJANDRO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   2,
+   1,
+   1
+  ],
+  "secundarios": [
+   "LAGGER, MARIA CRISTINA"
+  ],
+  "sexo": "X",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "SPACCESI, AGUSTIN ALEJANDRO",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "LDU",
+  "cod_lista": "1737",
+  "codigo": "1737.602",
+  "id_candidatura": "1737.602",
+  "id_umv": 1634,
+  "imagenes": [
+   "1737.602",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "SPACCESI, AGUSTIN ALEJANDRO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   2,
+   2,
+   1
+  ],
+  "secundarios": [
+   "LAGGER, MARIA CRISTINA",
+   "HEREDIA, LUCAS JULIAN",
+   "LOUET, DANIELA DEL VALLE",
+   "PI\u00d1EIRO, SANTIAGO FELIPE",
+   "ECHEZARRETA, MARIA EMILIA",
+   "NASELLI, JONATHAN URIEL",
+   "CEBALLOS, JULIETA MAGDALENA",
+   "CABANILLAS, JOSE IGNACIO",
+   "RECHIMON, MARIA YANINA",
+   "PERALTA, ANDRES CEFERINO",
+   "WELNER, DANIELA",
+   "DE GIUSTTI, JUAN FRANCISCO",
+   "SAPORITI, PRISCILA",
+   "CAJIAO, OSCAR ARIEL",
+   "MAZZOLO, SILVANA MARIEL",
+   "SEDO, JORGE ALBERTO",
+   "CENTENO LAGGER, CRISTINA ANAHI",
+   "MAGNOTTI, LEANDRO JOSE",
+   "S\u00c1NCHEZ, GILDA MARIANA"
+  ],
+  "sexo": "X",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "ALLOCCO, DAVID GUSTAVO",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "TCP",
+  "cod_lista": "1737",
+  "codigo": "1737.622",
+  "id_candidatura": "1737.622",
+  "id_umv": 2970,
+  "imagenes": [
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "ALLOCCO, DAVID GUSTAVO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   2,
+   4,
+   1
+  ],
+  "secundarios": [
+   "DALIANIS, MIRIAM BETINA"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "VELAZQUEZ, JUAN PABLO",
+   "BINDIRICHI, LORENA FERNANDA"
+  ]
+ },
+ {
+  "asistida": "GOMEZ POMBO, MIGUEL ANGEL",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "LDE",
+  "cod_lista": "1737",
+  "codigo": "1737.830",
+  "id_candidatura": "1737.830",
+  "id_umv": 1454,
+  "imagenes": [
+   "1737.830"
+  ],
+  "nombre": "GOMEZ POMBO, MIGUEL ANGEL",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   2,
+   3,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "GOMEZ, LUCIA AYEL\u00c9N"
+  ]
+ },
+ {
+  "asistida": "JUEZ, LUIS",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "GOB",
+  "cod_lista": "1738",
+  "codigo": "1738.627",
+  "id_candidatura": "1738.627",
+  "id_umv": 543,
+  "imagenes": [
+   "1738.627",
+   "default_mujer"
+  ],
+  "nombre": "JUEZ, LUIS",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   7,
+   1,
+   1
+  ],
+  "secundarios": [
+   "CARASSO, MARCOS GUSTAVO"
+  ],
+  "sexo": "X",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "AGOST CARRE\u00d1O, OSCAR",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "LDU",
+  "cod_lista": "1738",
+  "codigo": "1738.629",
+  "id_candidatura": "1738.629",
+  "id_umv": 1635,
+  "imagenes": [
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "AGOST CARRE\u00d1O, OSCAR",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   7,
+   2,
+   1
+  ],
+  "secundarios": [
+   "AUSTIN, BRENDA LIS",
+   "BOTTASSO, GUSTAVO ARMANDO",
+   "BRUNO, KARINA GABRIELA",
+   "NICOL\u00c1S, MIGUEL OSVALDO",
+   "PEREYRA, CARMEN GLORIA",
+   "NOSTRALA, WALTER NORBERTO",
+   "FERRERO, ALEJANDRA",
+   "BRIA, JOS\u00c9 ALBERTO",
+   "MARTOCCIA, VIVIANA RAQUEL DEL VALLE",
+   "SALA, IGNACIO ANTONIO",
+   "SZPANIN, ARIELA YANINA",
+   "GVOZDENOVICH, MATIAS PABLO",
+   "GUDI\u00d1O, DANIELA SOLEDAD",
+   "HERNANDEZ MAQUEDA, GREGORIO",
+   "ALMADA, NANCY EDITH",
+   "ROSSI, DANTE VALENT\u00cdN",
+   "BOTTA, PATRICIA ISABEL",
+   "JUEZ, DANIEL ALEJANDRO",
+   "CONTRERA, IN\u00c9S MERCEDES",
+   "TAMIS, OSCAR HUMBERTO",
+   "CORDOBA ACOSTA, MAR\u00cdA CONSTANZA",
+   "CASTRO VARGAS, LUCAS EMILIANO",
+   "POMIGLIO, VIVIANA CONCEPCI\u00d3N",
+   "BALI\u00c1N, LUCAS LEANDRO",
+   "CORREA, DORA GRACIELA",
+   "DUE\u00d1AS DABEZIES, GAST\u00d3N",
+   "PUEYRREDON, MAR\u00cdA MERCEDES",
+   "NAVARRO, C\u00c9SAR WALTER RAM\u00d3N",
+   "RIU CAZAUX, MARIA TERESA",
+   "OLIVA, FEDERICO",
+   "ZABOTKINE, TATIANA",
+   "NU\u00d1EZ, WALTER DANIEL",
+   "PERREN, MARIA DE LOURDES",
+   "MARQUEZ, MAT\u00cdAS FERNANDO",
+   "TOLOZA, ANGELA FABIANA",
+   "BISQUERRA, MAURO GABRIEL",
+   "CARRANZA ASTRADA, ANA CAROLINA",
+   "BERTAINA, LUCAS",
+   "ACETO, SOL MARIET",
+   "PEREYRA, HECTOR EDUARDO",
+   "ALMADA, LUCIANA",
+   "D\u00b4FELICE, PAMELA HUMILDAD",
+   "CASA\u00d1AS LERNER, TOM\u00c1S"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "CEBREIRO, NORA ESTELA ROSARIO",
+   "FROSSASCO, MIGUEL ANGEL",
+   "ISPANI, MAR\u00cdA ELVIRA",
+   "ALBA, JUAN IGNACIO",
+   "MOLINS, ELBA NOEMI"
+  ]
+ },
+ {
+  "asistida": "LEIVA, MAR\u00cdA FERNANDA",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "TCP",
+  "cod_lista": "1738",
+  "codigo": "1738.679",
+  "id_candidatura": "1738.679",
+  "id_umv": 2971,
+  "imagenes": [
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "LEIVA, MAR\u00cdA FERNANDA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   7,
+   4,
+   1
+  ],
+  "secundarios": [
+   "CORVAL\u00c1N, BELTR\u00c1N"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "BUSTOS ALDONZA, MAR\u00cdA LUCRECIA",
+   "ZANATTA, HUGO ALBERTO"
+  ]
+ },
+ {
+  "asistida": "GISPERT, WALTER OSCAR",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "LDE",
+  "cod_lista": "1738",
+  "codigo": "1738.833",
+  "id_candidatura": "1738.833",
+  "id_umv": 1476,
+  "imagenes": [
+   "1738.833"
+  ],
+  "nombre": "GISPERT, WALTER OSCAR",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   7,
+   3,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "EDREIRA, MABEL RITA"
+  ]
+ },
+ {
+  "asistida": "IOSA, EMILIO",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "1762",
+  "codigo": "1762.4517",
+  "id_candidatura": "1762.4517",
+  "id_umv": 835,
+  "imagenes": [
+   "1762.4517",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "IOSA, EMILIO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   46,
+   5,
+   1
+  ],
+  "secundarios": [
+   "FELPETO, P\u00cdA BEL\u00c9N",
+   "RIBETTI, DANIEL OSCAR",
+   "GARCIA RO\u00d1ONI, NOELIA PAOLA",
+   "REVELLO, FERNANDO CESAR",
+   "LASSAGA, MAR\u00cdA SOLEDAD",
+   "HERE\u00d1U PELAEZ, RODRIGO DAMI\u00c1N",
+   "MANCUELLO, MAR\u00cdA \u00c1NGELA",
+   "PEREYRA, PABLO DAMI\u00c1N",
+   "SPADAFORE, FLAVIA CAROLINA",
+   "SEQUEIRA, DOMINGO OSCAR",
+   "COLOMBRES, GABRIELA CECILIA",
+   "MARIANI, DIEGO ARIEL"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "BOSSIO, TOMAS",
+   "MAJOROVICH TETTA, MAR\u00cdA M\u00d3NICA",
+   "ESPADA, DAMI\u00c1N NICOL\u00c1S",
+   "LORENZO, MAR\u00cdA LUJAN",
+   "CONTI, FERNANDO OSCAR",
+   "ARMESTO, MARCELA IN\u00c9S",
+   "VIALE, SANTIAGO DANIEL",
+   "MASSARE, VIVIANA CRISTINA",
+   "ESCHOYEZ, MART\u00cdN MIGUEL",
+   "AIROLA, ROMINA FERNANDA",
+   "TORLETTI, JULIO ALBERTO",
+   "QUINTEROS, GRACIELA INES"
+  ]
+ },
+ {
+  "asistida": "MOLINA, GUSTAVO ALEJANDRO",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "TCM",
+  "cod_lista": "1762",
+  "codigo": "1762.4542",
+  "id_candidatura": "1762.4542",
+  "id_umv": 2461,
+  "imagenes": [
+   "default_mujer",
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "MOLINA, GUSTAVO ALEJANDRO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   46,
+   7,
+   1
+  ],
+  "secundarios": [
+   "GOMEZ, NANCY ELISABET",
+   "RONDOT, SANTIAGO DANIEL"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "OLIVIERI, FLAVIA CAROLINA",
+   "MORALES, BRUNO JAVIER",
+   "BOSCHETTI, LUCIANA"
+  ]
+ },
+ {
+  "asistida": "AVILES, ESTEBAN AN\u00cdBAL",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "1763",
+  "codigo": "1763.4548",
+  "id_candidatura": "1763.4548",
+  "id_umv": 836,
+  "imagenes": [
+   "1763.4548",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "AVILES, ESTEBAN AN\u00cdBAL",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   51,
+   5,
+   1
+  ],
+  "secundarios": [
+   "ROLDAN, MAR\u00cdA ALEJANDRA",
+   "GURUCETA, JORGE SEBASTI\u00c1N",
+   "MERLINO, RAQUEL NOEM\u00cd",
+   "BOCCHETTI, JUAN CLAUDIO",
+   "GALLARDO, LAURA SOLEDAD",
+   "VILLALOBO, LEONARDO ANDR\u00c9S",
+   "BOSCH, MARCELA BEATRIZ",
+   "MELANA, MARIANO OMAR",
+   "LOPEZ AMAYA, MAR\u00cdA JOSEFINA",
+   "MORIS, CLAUDIO DAMI\u00c1N",
+   "CASTELLINO, MIRIAM MARIELA",
+   "VIOTTI, CARLOS ALBERTO"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "ROBLEDO, SILVIA TERESITA",
+   "SANGUINETTI, HERN\u00c1N CARLOS",
+   "DOMINGUEZ, ALICIA MARGARITA",
+   "COTORAS, MARIANO PEDRO",
+   "KUCHARCZUK, NATALI ANANQUEL",
+   "SANCHO, JOAN PIER",
+   "MARTINEZ, MAR\u00cdA FERNANDA",
+   "SOLIS, MARCELO MART\u00cdN",
+   "WERNER, FLORENCIA",
+   "SANCHEZ MARINERO, JUAN ANTONIO",
+   "ROBLEDO, YAMILA AYL\u00c9N",
+   "PERALTA, ALEJANDRO JES\u00daS"
+  ]
+ },
+ {
+  "asistida": "G\u00d3MEZ GESTEIRA, H\u00c9CTOR DANIEL",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "TCM",
+  "cod_lista": "1763",
+  "codigo": "1763.4573",
+  "id_candidatura": "1763.4573",
+  "id_umv": 2462,
+  "imagenes": [
+   "default_mujer",
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "G\u00d3MEZ GESTEIRA, H\u00c9CTOR DANIEL",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   51,
+   7,
+   1
+  ],
+  "secundarios": [
+   "MORLA, PATRICIA SILVIA",
+   "INSINGA, SALVADOR ANTONIO"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "GRIFONE, MAR\u00cdA SOLEDAD",
+   "MONJO, WALTER EDUARDO",
+   "ZIADE, DIBE MACARENA"
+  ]
+ },
+ {
+  "asistida": "CASERIO, MARIANA ALICIA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "1764",
+  "codigo": "1764.4579",
+  "id_candidatura": "1764.4579",
+  "id_umv": 837,
+  "imagenes": [
+   "1764.4579",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "CASERIO, MARIANA ALICIA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   44,
+   5,
+   1
+  ],
+  "secundarios": [
+   "QUARANTA, CARLOS MAXIMILIANO",
+   "MOYANO, FERNANDA DANIELA",
+   "RUIZ, OMAR ANTONIO",
+   "PISTONE, XIMENA BEL\u00c9N",
+   "RICARDO, DAR\u00cdO IV\u00c1N",
+   "MARSILLI, NORMA LUC\u00cdA",
+   "BORGATELLO, RENATO RA\u00daL",
+   "CASTRO, OLGA ADRIANA",
+   "FERRO, GABRIEL CARLOS ROBERTO",
+   "SCHNIDRIG, ANDREA CAROLINA",
+   "MOREIRA BORDON, FEDERICO WALDIR",
+   "GALLARDO, VALERIA ALEJANDRA"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "FRANCO, MAT\u00cdAS AXEL",
+   "BOSSI, ANIKA SUSANA",
+   "FRANCESCHINI, GUSTAVO TOM\u00c1S",
+   "ROSALES PAUR, MAR\u00cdA MILAGROS",
+   "FERNANDEZ, ANDR\u00c9S ESTEBAN",
+   "FRIGERIO, GISELA ANABELA",
+   "WURTH, CRISTIAN ALEJANDRO",
+   "GODOY, STELLA MARIS",
+   "MOYANO, JUAN ATILIO SIM\u00d3N",
+   "VERDAGUER, ANA MAR\u00cdA",
+   "CASTRO, GUSTAVO DANIEL",
+   "VIERA, DORITA PATRICIA"
+  ]
+ },
+ {
+  "asistida": "CALOS DE VIT, ROM\u00c1N",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "TCM",
+  "cod_lista": "1764",
+  "codigo": "1764.4604",
+  "id_candidatura": "1764.4604",
+  "id_umv": 2463,
+  "imagenes": [
+   "default_mujer",
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "CALOS DE VIT, ROM\u00c1N",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   44,
+   7,
+   1
+  ],
+  "secundarios": [
+   "GIANNONI, MARCELA ALEJANDRA FABIANA",
+   "FARIAS, LUIS ANTONIO"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "GOYECHEA, ANAL\u00cdA MARIANA",
+   "CACERES, FERNANDO ANTONIO",
+   "BACELLE, SILVIA DEL VALLE"
+  ]
+ },
+ {
+  "asistida": "SCH\u00dcLE, FERNANDO ADRI\u00c1N",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "GOB",
+  "cod_lista": "20",
+  "codigo": "20.2",
+  "id_candidatura": "20.2",
+  "id_umv": 544,
+  "imagenes": [
+   "20.2",
+   "default_mujer"
+  ],
+  "nombre": "SCH\u00dcLE, FERNANDO ADRI\u00c1N",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   3,
+   1,
+   1
+  ],
+  "secundarios": [
+   "OSORIO, GRISELDA LIDIA"
+  ],
+  "sexo": "X",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "SCH\u00dcLE, FERNANDO ADRI\u00c1N",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "LDU",
+  "cod_lista": "20",
+  "codigo": "20.49",
+  "id_candidatura": "20.49",
+  "id_umv": 1636,
+  "imagenes": [
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "SCH\u00dcLE, FERNANDO ADRI\u00c1N",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   3,
+   2,
+   1
+  ],
+  "secundarios": [
+   "MARCUZZI, ANTONIA",
+   "HEREDIA, H\u00c9CTOR \u201cTRI\u201d",
+   "RIVERO, SILVIA GRACIELA",
+   "TORRES, CLAUDIO ESTEBAN",
+   "DI MAURO, CECILIA",
+   "LOPEZ, FERNANDO EUDORO",
+   "TOLCACHIER, ANA SOF\u00cdA",
+   "FERRAZANO, MICAEL",
+   "BUSTOS, ROSANA IN\u00c9S",
+   "SOSA, JORGE ANIBAL ELIAS",
+   "SCH\u00dcLE, GERTRUDIS SILVIA",
+   "BRUNETTI, LUCAS",
+   "LUNA, SUSANA RAQUEL",
+   "RAMOS, JUAN DANIEL",
+   "ARGA\u00d1ARAS, ANDREA CAROLINA",
+   "GARAY, PABLO C\u00c9SAR OSMAR",
+   "FRONTERA, MAR\u00cdA DOLORES DEL VALLE",
+   "CANDIDO, ANTONIO GABRIELE",
+   "BRUNETTI, GIANNINA",
+   "TORRES, CARLOS DAVID",
+   "CASTRO, CLARA ADRIANA",
+   "S\u00c1NCHEZ, LUIS EDUARDO",
+   "SEGUNDO, MARI",
+   "MARTINEZ, FRANCO FABIAN JES\u00daS",
+   "GANGITANO, MARIA VIRGINIA",
+   "TORINO, CARLOS ALBERTO",
+   "NIETO, NOELIA VANESSA",
+   "CAMMARATA, HUGO ALBERTO",
+   "SCH\u00dcLE, ELENA ROSALIA",
+   "MARCUZZI, AGUSTIN OVIDIO",
+   "AHUMADA, MABEL DEL VALLE",
+   "BARRIONUEVO, MART\u00cdN HERNANDO",
+   "LUNA, N\u00c9LIDA ISABEL",
+   "MERLO, ENRIQUE WALTER",
+   "RAMIREZ, PATRICIA ANABEL",
+   "MARQUEZ, JOS\u00c9 LUIS",
+   "SCH\u00dcLE, MALENA",
+   "FONSECA, VALENT\u00cdN",
+   "HAK, IVETTE MARGARITA",
+   "ROBALDO, LUCAS DANIEL",
+   "MOLINA, CAROLINA LUCIA",
+   "GANGITANO, HUMBERTO MATIAS",
+   "ZATTI, SUSANA MAR\u00cdA"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "M\u00dcLLER, ALEJANDRO",
+   "BOSETTI, MABEL DEL CARMEN",
+   "ARNEDO, SERGIO RUBEN",
+   "HAK, FABIANA ANDREA",
+   "VALENZUELA, ENRIQUE AUGUSTO",
+   "BRUNETTI, VALERIA",
+   "CAMPANA, DAMIAN ALEJANDRO",
+   "G\u00d3MEZ, JESSICA MARLENE",
+   "QUADRI, LUCAS",
+   "FONSECA JUAREZ, EMILSE DANIELA",
+   "RODRIGUEZ AVILA, BRAIAN EZEQUIEL",
+   "MONJO, GABRIELA",
+   "BARRIONUEVO, JOS\u00c9 HERNANDO",
+   "RON, MARIA VICTORIA",
+   "SPIDALIERI, GERARDO CARLOS",
+   "ACOSTA, MILAGROS GABRIELA",
+   "RODRIGUEZ AVILA, JOS\u00c9 LEONARDO",
+   "RON, ELIZABETH ROCIO",
+   "SALCITO, NICOLAS OSCAR",
+   "SCH\u00dcLE, ROMINA",
+   "ZAGHIS, NELSON HORACIO",
+   "NIETO, CATHERINE SOLEDAD"
+  ]
+ },
+ {
+  "asistida": "GONZ\u00c1LEZ OLGU\u00cdN, ESTELA HAYD\u00c9E",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "TCP",
+  "cod_lista": "20",
+  "codigo": "20.72",
+  "id_candidatura": "20.72",
+  "id_umv": 2972,
+  "imagenes": [
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "GONZ\u00c1LEZ OLGU\u00cdN, ESTELA HAYD\u00c9E",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   3,
+   4,
+   1
+  ],
+  "secundarios": [
+   "ACOSTA, MARIO DARDO"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "CURETTI, ELENA MILAGROS",
+   "GEREZ CUEVAS, ROBERTO ARIEL"
+  ]
+ },
+ {
+  "asistida": "FERNANDEZ, ROBERTO GABRIEL",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "LDE",
+  "cod_lista": "20",
+  "codigo": "20.818",
+  "id_candidatura": "20.818",
+  "id_umv": 1492,
+  "imagenes": [
+   "20.818"
+  ],
+  "nombre": "FERNANDEZ, ROBERTO GABRIEL",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   3,
+   3,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "MARULL, MAR\u00cdA AURELIA"
+  ]
+ },
+ {
+  "asistida": "DEL BARBA, MATIAS",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "TCP",
+  "cod_lista": "524",
+  "codigo": "524.141",
+  "id_candidatura": "524.141",
+  "id_umv": 2973,
+  "imagenes": [
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "DEL BARBA, MATIAS",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   10,
+   4,
+   1
+  ],
+  "secundarios": [
+   "SALAVERRI, ALICIA DORA"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "BUTELER TURRADO, NICOLAS",
+   "TORRES BUTELER, TERESA"
+  ]
+ },
+ {
+  "asistida": "GARCIA ELORRIO, AURELIO FRANCISCO",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "GOB",
+  "cod_lista": "524",
+  "codigo": "524.73",
+  "id_candidatura": "524.73",
+  "id_umv": 545,
+  "imagenes": [
+   "524.73",
+   "default_mujer"
+  ],
+  "nombre": "GARCIA ELORRIO, AURELIO FRANCISCO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   10,
+   1,
+   1
+  ],
+  "secundarios": [
+   "MARCONE, MAR\u00cdA ROSA"
+  ],
+  "sexo": "X",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "AGRELO, RODRIGO MARIA",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "LDU",
+  "cod_lista": "524",
+  "codigo": "524.76",
+  "id_candidatura": "524.76",
+  "id_umv": 1637,
+  "imagenes": [
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "AGRELO, RODRIGO MARIA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   10,
+   2,
+   1
+  ],
+  "secundarios": [
+   "MARCONE, MAR\u00cdA ROSA",
+   "GROSSO, GERARDO JOSE",
+   "FERNANDEZ MONTERO, SOFIA CONSTANZA",
+   "ZAMORA CONSIGLI, A.",
+   "PROVERA, NOELIA",
+   "LARROSA, LUCAS ERNESTO",
+   "VEXENAT DE FRANCISCO, MAR\u00cdA TERESITA",
+   "CONDORI, RICARDO IVAN",
+   "CHICALA LOPEZ, ANA INES",
+   "BUSTOS LOURIDO, RODRIGO FRANCISCO JAVIER",
+   "FERREYRA, GRACIELA DEL CARMEN",
+   "ONTIBERO, JOSE ANDRES",
+   "RIGALT, MAR\u00cdA CECILIA",
+   "GOMEZ DER KEVORKIAN, JONATAN ANDRES",
+   "CASSONE, IN\u00c9S MAR\u00cdA ADELA",
+   "NIETO, JULIO CESAR",
+   "MORALES, GLORIA INES",
+   "CAPELARI, JUAN PABLO",
+   "BARRIONUEVO, VALENTINA AYL\u00c9N",
+   "PERRIN, RICARDO ENRIQUE",
+   "OBREGON, INES ADELAIDA",
+   "VICENTE, FERNANDO EZEQUIEL",
+   "FLORES, MABEL ALEJANDRA",
+   "DOS SANTOS, GUSTAVO SERGIO",
+   "CANDISANO, INES MARIA",
+   "PINELA, ANDR\u00c9S MAXIMILIANO",
+   "BUSTOS TORRES, SELVA MICAELA",
+   "DIAZ BRITO, EMILIANO",
+   "NOCETTI, MARIA FERNANDA",
+   "BARRIONUEVO, JOSE LUIS",
+   "PELAEZ, MARCELA",
+   "VICO, JUAN IGNACIO",
+   "BABINI, MARIA VIRGINIA",
+   "PIVIDORI, GUSTAVO HORACIO",
+   "SOSA, SILVIA ALEJANDRA",
+   "VELEZ DIAZ, PABLO EZEQUIEL",
+   "MANSILLA, LILIANA OLGA",
+   "QUIROGA, ARIEL HERNAN",
+   "WEST, VANESSA ROMINA",
+   "ALMIRON, WALTER ANDRES",
+   "CHICALA LOPEZ, VIRGINIA GUADALUPE",
+   "ICAZATTI, FRANCO EMANUEL",
+   "LOPEZ, GRACIELA BEATRIZ"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "MARTIN, RODOLFO EDMUNDO",
+   "GARNICA, SILVIA BEATRIZ",
+   "VIRGA, MARCELO OSCAR",
+   "MIGNINO, MARINA CELIA",
+   "CONTRERA, JUAN CARLOS",
+   "ZANOTTI, SILVIA MARIA",
+   "RAGAZZINI, AGUSTIN",
+   "QUISPE BAUTISTA, GRACIELA LILIANA",
+   "GALLARDO, JUAN CARLOS",
+   "HERRERA, NILDA ISABEL",
+   "PIAGNO, ANGEL DARIO",
+   "ARANDA, VER\u00d3NICA LILIAN",
+   "DOPAZO, JORGE ALBERTO",
+   "RIOS SANCHEZ, GLORIA ELIZABETH",
+   "MAIZAREZ, JORGE LUIS",
+   "GIMENEZ, LAURA DANIELA",
+   "SANGIORGIO, GIULIANO ELIAN",
+   "MOYANO, ELIANA MARINA",
+   "DEBENEDETTI, CARLOS ALFREDO",
+   "SALI, FLORENCIA ROCIO",
+   "RUARTE MOYANO, JOAQUIN",
+   "SERRADELL, MACARENA"
+  ]
+ },
+ {
+  "asistida": "OLLAQUINDIA, MARIANO ARIEL",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "LDE",
+  "cod_lista": "524",
+  "codigo": "524.820",
+  "id_candidatura": "524.820",
+  "id_umv": 1504,
+  "imagenes": [
+   "524.820"
+  ],
+  "nombre": "OLLAQUINDIA, MARIANO ARIEL",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   10,
+   3,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "CACERES, PAOLA LILIANA"
+  ]
+ },
+ {
+  "asistida": "PERAL, MARIO ALFREDO",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "GOB",
+  "cod_lista": "602",
+  "codigo": "602.145",
+  "id_candidatura": "602.145",
+  "id_umv": 546,
+  "imagenes": [
+   "602.145",
+   "default_mujer"
+  ],
+  "nombre": "PERAL, MARIO ALFREDO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   9,
+   1,
+   1
+  ],
+  "secundarios": [
+   "ARIAS, PAMELA ROMINA"
+  ],
+  "sexo": "X",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "PERAL, MARIO ALFREDO",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "LDU",
+  "cod_lista": "602",
+  "codigo": "602.147",
+  "id_candidatura": "602.147",
+  "id_umv": 1638,
+  "imagenes": [
+   "602.147",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "PERAL, MARIO ALFREDO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   9,
+   2,
+   1
+  ],
+  "secundarios": [
+   "ARIAS, PAMELA ROMINA",
+   "LUDUE\u00d1A, ROBERTO JESUS F\u00c9LIX",
+   "MORENO, MONICA GABRIELA",
+   "CORRECHER FAISAL, FRANCISCO TUFI",
+   "BAGDIGIAN, ROMINA BELEN",
+   "RUIZ DIAZ VALDEZ, ALEXIS ADOLFO",
+   "QUEVEDO, VALERIA IVANA DE LOURDES",
+   "CABRAL, CARLOS EZEQUIEL",
+   "CASTRO, LUCRECIA EDITH",
+   "VARGAS, JUAN CARLOS",
+   "FLORES, GLADYS MICAELA",
+   "CALDER\u00d3N, MARCOS MARCELO",
+   "OZAN, MARIA FLORENCIA",
+   "MOREYRAS, VICTOR HUGO",
+   "RUIZ, ELIANA MELINA",
+   "VARGAS, JORGE LUIS",
+   "TORRES, JESSICA ANDREA",
+   "OLIVA, JUAN MANUEL",
+   "VACA, ERIKA ALEJANDRA",
+   "GOMEZ, PABLO DANIEL",
+   "LOPEZ, VANESA DEL CARMEN",
+   "VILLARREAL, KEVIN OCTAVIO",
+   "FLORES, ANGELA NOELIA",
+   "QUINTERO, MIGUEL ANGEL",
+   "BONGIORNO, IRIS ABIGAIL",
+   "RODRIGUEZ, BENJAMIN DAVID",
+   "MURUA, TAMARA ABIGAIL",
+   "CORDOBA QUINTEROS, CARLOS FABRICIO",
+   "TAPIA, BLANCA ROSA",
+   "RODRIGUEZ, LEONARDO EMANUEL",
+   "IVANOVICH CASTILLO, PAMELA STEFANIA",
+   "BALMACEDA, VICTOR LUCAS",
+   "GONZALEZ, YAMILA LORENA",
+   "MONTI, ALEJANDRO RICARDO",
+   "RIVERO, SOLEDAD AZUCENA",
+   "AVALLAY, CESAR MATIAS",
+   "MOREYRAS, CARINA BEATRIZ",
+   "BOSETTI, NELSON ARIEL",
+   "STRADA, ROSANA CECILIA",
+   "AGUIRRE, MARCOS JEREMIAS",
+   "ARGUELLO, AIXA MACARENA",
+   "PARABERE, LAUREANO ALBERTO",
+   "CALDER\u00d3N AMAYA, LAILA VALENTINA"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "QUEVEDO, JOSE ANGEL",
+   "FIGUEROA, MICAELA DEL VALLE",
+   "SABBADIN, SECUNDINO ERNESTO",
+   "PEREZ, LARA AGUSTINA",
+   "JUHEL, JOSE ARIEL",
+   "CABRAL, ALICIA ALEJANDRA",
+   "ACEBEDO, JUAN DOMINGO",
+   "GIANRE, ANAL\u00cdA SOLEDAD",
+   "PLANO, HERNAN ANDRES",
+   "CABRAL, MARCIANA VERONICA",
+   "CABRAL, JAVIER EMMANUEL",
+   "BENITEZ, MARIA DEL ROSARIO",
+   "CASTA\u00d1ARES, OCTAVIO JESUS",
+   "BOSETTI, GIULIANA",
+   "GOYECHEA, JUAN MARTIN",
+   "CORZO, LUCIANA ALEJANDRA",
+   "RAFFAELI, HUMBERTO LUIS",
+   "GONZALEZ, MABEL SOLEDAD",
+   "FLAMMER, IVAN OSCAR",
+   "INGA, DANIELA ROCIO",
+   "DI PAOLA MARTINEZ, ESTEBAN RODRIGO"
+  ]
+ },
+ {
+  "asistida": "PRIETO, HECTOR CARLOS",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "TCP",
+  "cod_lista": "602",
+  "codigo": "602.212",
+  "id_candidatura": "602.212",
+  "id_umv": 2974,
+  "imagenes": [
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "PRIETO, HECTOR CARLOS",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   9,
+   4,
+   1
+  ],
+  "secundarios": [
+   "CESARATTO, VALERIA"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "BOSETTI VELASCO, GABRIEL FERNANDO"
+  ]
+ },
+ {
+  "asistida": "DI SANTI, JULIA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "GOB",
+  "cod_lista": "718",
+  "codigo": "718.215",
+  "id_candidatura": "718.215",
+  "id_umv": 547,
+  "imagenes": [
+   "718.215",
+   "default_mujer"
+  ],
+  "nombre": "DI SANTI, JULIA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   8,
+   1,
+   1
+  ],
+  "secundarios": [
+   "DIAZ, MIGUEL ALEJANDRO"
+  ],
+  "sexo": "X",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "DI SANTI, JULIA",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "LDU",
+  "cod_lista": "718",
+  "codigo": "718.217",
+  "id_candidatura": "718.217",
+  "id_umv": 1639,
+  "imagenes": [
+   "718.217",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "DI SANTI, JULIA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   8,
+   2,
+   1
+  ],
+  "secundarios": [
+   "BERGERO, FRANCO RICARDO",
+   "GARCIA, NOELIA LUJAN",
+   "LORENZO, LAUTARO MARIANO",
+   "PEREYRA, MAR\u00cdA LUISA",
+   "PLANES, JUAN JOSE",
+   "FERN\u00c1NDEZ, CINTIA NATALIA",
+   "SARMIENTO, JUAN PABLO",
+   "MAZA, MARIA LAURA",
+   "SINCHICH, MARTIN ANDRES",
+   "MACCIONI, FRANCA BEATRIZ",
+   "MANNINO, DAR\u00cdO JUAN",
+   "MOYANO, YAMILA FERNANDA",
+   "MARTINEZ, FRANCO DANIEL",
+   "CORREA, ANGELICA DEL CARMEN",
+   "DOS REIS PEREIRA, MARIANO DANIEL",
+   "GODOY, VANESA ELIZABETH",
+   "MANZANELLI, JOS\u00c9 FACUNDO",
+   "BERGERO, CARLA",
+   "AHUMADA, CESAR TOMAS",
+   "CARDOSO, MIRIAM DEL VALLE",
+   "MOYANO, GERONIMO BAUTISTA",
+   "GEMOLOTTO, LILIANA ESTELA",
+   "ROLDAN DIAZ, GONZALO",
+   "TORRES, ANA LAURA",
+   "SAAVEDRA, JUAN LAUTARO",
+   "VALENZUELA, MAR\u00cdA ADRIANA",
+   "MACKOWIAK, FABIO",
+   "ROLON, NATASHA JANET",
+   "SAAVEDRA, SEBASTIAN HORACIO",
+   "BALOSSINO, CINTIA MARIA VICTORIA",
+   "MAZA, NAHUEL ISAIAS",
+   "BATTAGLIA ALZOLA, ROCIO DE LOS ANGELES",
+   "SAAVEDRA, FACUNDO JESUS",
+   "REGIS, STELLA MARYS",
+   "ROMERO, LUIS ALBERTO",
+   "HERRERA, SILVIA BEATRIZ",
+   "BERTOLINO, JUAN MARTIN",
+   "MARIOLI, SOFIA",
+   "ALBARRAC\u00cdN, CARLOS ENRIQUE",
+   "AVILA, MAGALI BELEN",
+   "BUSTOS VEGA, DIEGO MARTIN",
+   "DREILING, MIRIAM INES",
+   "ANSALDI, FERNANDO NICOL\u00c1S"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "PALLERO, FRANCISCO MARIANO",
+   "CONTRERAS, RAQUEL",
+   "MONTERO, JUAN AGUSTIN",
+   "COSTARELLI, MAR\u00cdA AGOSTINELLA",
+   "JAEGGI, SIMON",
+   "PINEDA PALLERO, CINTHIA ZULEMA",
+   "GAIERO, TOM\u00c1S JOS\u00c9",
+   "COSTANTE, MELISA ALDANA",
+   "CASTRO, FERNANDO ALFREDO",
+   "AVENDA\u00d1O, VICTORIA EUGENIA",
+   "MOYANO PERALTA, ALEJO FACUNDO",
+   "SAAVEDRA, FLORENCIA AGOSTINA",
+   "DIAZ, JOSE MANUEL",
+   "PAEZ, ANITA BEATRIZ",
+   "FAVOT, LUCAS",
+   "CAPUTTO, RUBI DE LOS ANGELES",
+   "ORELLANA, MAXIMILIANO MARTIN",
+   "SAAVEDRA TEJEDA, LAURA GABRIELA",
+   "TORRES, EZEQUIEL",
+   "RIVERO MAZA, WARA CANDELARIA",
+   "VALICENTI, JUAN CRUZ",
+   "GARCIA MALDONADO, LEONELA VANESA"
+  ]
+ },
+ {
+  "asistida": "MACCIONI, MARTIN",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "TCP",
+  "cod_lista": "718",
+  "codigo": "718.283",
+  "id_candidatura": "718.283",
+  "id_umv": 2975,
+  "imagenes": [
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "MACCIONI, MARTIN",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   8,
+   4,
+   1
+  ],
+  "secundarios": [
+   "VALDIVIA, SILVIA DEL MILAGRO"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "LINARES, ARTURO DANIEL",
+   "TABORDA, ROMINA NATALIA"
+  ]
+ },
+ {
+  "asistida": "UBEDA, JOAQUIN MIQUEAS",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "LDE",
+  "cod_lista": "718",
+  "codigo": "718.822",
+  "id_candidatura": "718.822",
+  "id_umv": 1519,
+  "imagenes": [
+   "718.822"
+  ],
+  "nombre": "UBEDA, JOAQUIN MIQUEAS",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   8,
+   3,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "NOGUERA, MIRTHA ALICIA"
+  ]
+ },
+ {
+  "asistida": "ZALAZAR, JORGE RAM\u00d3N",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "724",
+  "codigo": "724.4486",
+  "id_candidatura": "724.4486",
+  "id_umv": 878,
+  "imagenes": [
+   "724.4486",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "ZALAZAR, JORGE RAM\u00d3N",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   25,
+   5,
+   1
+  ],
+  "secundarios": [
+   "GIGENA, HORACIO EZEQUIEL",
+   "VILLARREAL, JULIA NATALI",
+   "ORELLANA, ROBERTO ORLANDO",
+   "ARRUA MOLINA, TIARA LUDMILA",
+   "GARC\u00cdA, ROQUE GUILLERMO",
+   "NU\u00d1EZ, CLAUDIA",
+   "MITRE, MART\u00cdN EMILIANO",
+   "PICHICACO, VIVIANA",
+   "STA\u00d1EK, CLAUDIO ARIEL",
+   "LUNA, DANIELA TERESA",
+   "CHAMORRO BIANCO, AGUSTIN",
+   "QUEVEDO, JULIA DEL VALLE"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "VILLARREAL, JESUS CONRRADO",
+   "ROMERO, FLAVIA JANET",
+   "MANGOLDT, TOMAS",
+   "ORELLANA, JORGELINA",
+   "VALAROLO, CLEMAR JOS\u00c9",
+   "WARNKE MERLO, JESSICA SHIRLEY",
+   "VARGAS, CARLOS ALBERTO",
+   "SOSA, GLADYS RAMONA",
+   "QUEVEDO, CARLOS JOS\u00c9 MAR\u00cdA",
+   "GUZM\u00c1N, DALMA ANTONELLA",
+   "GONZALEZ, FABRIZIO LEONEL",
+   "HERRERA, NICOLASA DEL VALLE"
+  ]
+ },
+ {
+  "asistida": "MANGOLDT, LEONARDO GONZALO",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "TCM",
+  "cod_lista": "724",
+  "codigo": "724.4511",
+  "id_candidatura": "724.4511",
+  "id_umv": 2504,
+  "imagenes": [
+   "default_mujer",
+   "default_mujer",
+   "default_mujer"
+  ],
+  "nombre": "MANGOLDT, LEONARDO GONZALO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   25,
+   7,
+   1
+  ],
+  "secundarios": [
+   "QUEVEDO, MAR\u00cdA FLORENCIA",
+   "LLOBERA TORRES, RAFAEL EDUARDO"
+  ],
+  "sexo": "X",
+  "suplentes": [
+   "REYERO, EUGENIA YOLANDA",
+   "MEDINA, H\u00c9CTOR ALEJANDRO",
+   "ANGULO, DANIELA BEL\u00c9N"
+  ]
+ },
+ {
+  "asistida": "Voto en Blanco",
+  "cargo_ejecutivo": false,
+  "clase": "Blanco",
+  "cod_categoria": "GOB",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 548,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en Blanco",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   994,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Voto en Blanco",
+  "cargo_ejecutivo": false,
+  "clase": "Blanco",
+  "cod_categoria": "INT",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 884,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en Blanco",
+  "nro_orden": 5,
+  "orden_absoluto": [
+   994,
+   5
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Voto en Blanco",
+  "cargo_ejecutivo": true,
+  "clase": "Blanco",
+  "cod_categoria": "LDE",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 1528,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en Blanco",
+  "nro_orden": 3,
+  "orden_absoluto": [
+   994,
+   3
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Voto en Blanco",
+  "cargo_ejecutivo": true,
+  "clase": "Blanco",
+  "cod_categoria": "LDU",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 1640,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en Blanco",
+  "nro_orden": 2,
+  "orden_absoluto": [
+   994,
+   2
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Voto en Blanco",
+  "cargo_ejecutivo": true,
+  "clase": "Blanco",
+  "cod_categoria": "TCM",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 2510,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en Blanco",
+  "nro_orden": 7,
+  "orden_absoluto": [
+   994,
+   7
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Voto en Blanco",
+  "cargo_ejecutivo": true,
+  "clase": "Blanco",
+  "cod_categoria": "TCP",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 2976,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en Blanco",
+  "nro_orden": 4,
+  "orden_absoluto": [
+   994,
+   4
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos Impugnados",
+  "cargo_ejecutivo": false,
+  "clase": "Especial",
+  "cod_categoria": "GOB",
+  "cod_lista": "",
+  "codigo": "IMP",
+  "id_candidatura": "IMP",
+  "id_umv": 549,
+  "nombre": "Votos Impugnados",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   997,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos Impugnados",
+  "cargo_ejecutivo": false,
+  "clase": "Especial",
+  "cod_categoria": "INT",
+  "cod_lista": "",
+  "codigo": "IMP",
+  "id_candidatura": "IMP",
+  "id_umv": 999,
+  "nombre": "Votos Impugnados",
+  "nro_orden": 5,
+  "orden_absoluto": [
+   997,
+   5
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos Impugnados",
+  "cargo_ejecutivo": true,
+  "clase": "Especial",
+  "cod_categoria": "LDE",
+  "cod_lista": "",
+  "codigo": "IMP",
+  "id_candidatura": "IMP",
+  "id_umv": 1554,
+  "nombre": "Votos Impugnados",
+  "nro_orden": 3,
+  "orden_absoluto": [
+   997,
+   3
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos Impugnados",
+  "cargo_ejecutivo": true,
+  "clase": "Especial",
+  "cod_categoria": "LDU",
+  "cod_lista": "",
+  "codigo": "IMP",
+  "id_candidatura": "IMP",
+  "id_umv": 1641,
+  "nombre": "Votos Impugnados",
+  "nro_orden": 2,
+  "orden_absoluto": [
+   997,
+   2
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos Impugnados",
+  "cargo_ejecutivo": true,
+  "clase": "Especial",
+  "cod_categoria": "TCM",
+  "cod_lista": "",
+  "codigo": "IMP",
+  "id_candidatura": "IMP",
+  "id_umv": 2625,
+  "nombre": "Votos Impugnados",
+  "nro_orden": 7,
+  "orden_absoluto": [
+   997,
+   7
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos Impugnados",
+  "cargo_ejecutivo": true,
+  "clase": "Especial",
+  "cod_categoria": "TCP",
+  "cod_lista": "",
+  "codigo": "IMP",
+  "id_candidatura": "IMP",
+  "id_umv": 2977,
+  "nombre": "Votos Impugnados",
+  "nro_orden": 4,
+  "orden_absoluto": [
+   997,
+   4
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos Nulos",
+  "cargo_ejecutivo": false,
+  "clase": "Especial",
+  "cod_categoria": "GOB",
+  "cod_lista": "",
+  "codigo": "NUL",
+  "id_candidatura": "NUL",
+  "id_umv": 550,
+  "nombre": "Votos Nulos",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   995,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos Nulos",
+  "cargo_ejecutivo": false,
+  "clase": "Especial",
+  "cod_categoria": "INT",
+  "cod_lista": "",
+  "codigo": "NUL",
+  "id_candidatura": "NUL",
+  "id_umv": 1114,
+  "nombre": "Votos Nulos",
+  "nro_orden": 5,
+  "orden_absoluto": [
+   995,
+   5
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos Nulos",
+  "cargo_ejecutivo": true,
+  "clase": "Especial",
+  "cod_categoria": "LDE",
+  "cod_lista": "",
+  "codigo": "NUL",
+  "id_candidatura": "NUL",
+  "id_umv": 1580,
+  "nombre": "Votos Nulos",
+  "nro_orden": 3,
+  "orden_absoluto": [
+   995,
+   3
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos Nulos",
+  "cargo_ejecutivo": true,
+  "clase": "Especial",
+  "cod_categoria": "LDU",
+  "cod_lista": "",
+  "codigo": "NUL",
+  "id_candidatura": "NUL",
+  "id_umv": 1642,
+  "nombre": "Votos Nulos",
+  "nro_orden": 2,
+  "orden_absoluto": [
+   995,
+   2
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos Nulos",
+  "cargo_ejecutivo": true,
+  "clase": "Especial",
+  "cod_categoria": "TCM",
+  "cod_lista": "",
+  "codigo": "NUL",
+  "id_candidatura": "NUL",
+  "id_umv": 2740,
+  "nombre": "Votos Nulos",
+  "nro_orden": 7,
+  "orden_absoluto": [
+   995,
+   7
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos Nulos",
+  "cargo_ejecutivo": true,
+  "clase": "Especial",
+  "cod_categoria": "TCP",
+  "cod_lista": "",
+  "codigo": "NUL",
+  "id_candidatura": "NUL",
+  "id_umv": 2978,
+  "nombre": "Votos Nulos",
+  "nro_orden": 4,
+  "orden_absoluto": [
+   995,
+   4
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos Recurridos",
+  "cargo_ejecutivo": false,
+  "clase": "Especial",
+  "cod_categoria": "GOB",
+  "cod_lista": "",
+  "codigo": "REC",
+  "id_candidatura": "REC",
+  "id_umv": 551,
+  "nombre": "Votos Recurridos",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   996,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos Recurridos",
+  "cargo_ejecutivo": false,
+  "clase": "Especial",
+  "cod_categoria": "INT",
+  "cod_lista": "",
+  "codigo": "REC",
+  "id_candidatura": "REC",
+  "id_umv": 1229,
+  "nombre": "Votos Recurridos",
+  "nro_orden": 5,
+  "orden_absoluto": [
+   996,
+   5
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos Recurridos",
+  "cargo_ejecutivo": true,
+  "clase": "Especial",
+  "cod_categoria": "LDE",
+  "cod_lista": "",
+  "codigo": "REC",
+  "id_candidatura": "REC",
+  "id_umv": 1606,
+  "nombre": "Votos Recurridos",
+  "nro_orden": 3,
+  "orden_absoluto": [
+   996,
+   3
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos Recurridos",
+  "cargo_ejecutivo": true,
+  "clase": "Especial",
+  "cod_categoria": "LDU",
+  "cod_lista": "",
+  "codigo": "REC",
+  "id_candidatura": "REC",
+  "id_umv": 1643,
+  "nombre": "Votos Recurridos",
+  "nro_orden": 2,
+  "orden_absoluto": [
+   996,
+   2
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos Recurridos",
+  "cargo_ejecutivo": true,
+  "clase": "Especial",
+  "cod_categoria": "TCM",
+  "cod_lista": "",
+  "codigo": "REC",
+  "id_candidatura": "REC",
+  "id_umv": 2855,
+  "nombre": "Votos Recurridos",
+  "nro_orden": 7,
+  "orden_absoluto": [
+   996,
+   7
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos Recurridos",
+  "cargo_ejecutivo": true,
+  "clase": "Especial",
+  "cod_categoria": "TCP",
+  "cod_lista": "",
+  "codigo": "REC",
+  "id_candidatura": "REC",
+  "id_umv": 2979,
+  "nombre": "Votos Recurridos",
+  "nro_orden": 4,
+  "orden_absoluto": [
+   996,
+   4
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ }
+]

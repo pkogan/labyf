@@ -1,0 +1,143 @@
+[
+ {
+  "GOB": 537,
+  "LDE": 1346,
+  "LDU": 1629,
+  "TCP": 2965,
+  "codigo": "1648P",
+  "id_lista": "1648",
+  "segmento": "provincial"
+ },
+ {
+  "GOB": 538,
+  "LDE": 1366,
+  "LDU": 1630,
+  "TCP": 2966,
+  "codigo": "1733P",
+  "id_lista": "1733",
+  "segmento": "provincial"
+ },
+ {
+  "GOB": 539,
+  "LDU": 1631,
+  "TCP": 2967,
+  "codigo": "1734P",
+  "id_lista": "1734",
+  "segmento": "provincial"
+ },
+ {
+  "GOB": 540,
+  "LDE": 1411,
+  "LDU": 1632,
+  "TCP": 2968,
+  "codigo": "1735P",
+  "id_lista": "1735",
+  "segmento": "provincial"
+ },
+ {
+  "GOB": 541,
+  "LDE": 1434,
+  "LDU": 1633,
+  "TCP": 2969,
+  "codigo": "1736P",
+  "id_lista": "1736",
+  "segmento": "provincial"
+ },
+ {
+  "GOB": 542,
+  "LDE": 1454,
+  "LDU": 1634,
+  "TCP": 2970,
+  "codigo": "1737P",
+  "id_lista": "1737",
+  "segmento": "provincial"
+ },
+ {
+  "GOB": 543,
+  "LDE": 1476,
+  "LDU": 1635,
+  "TCP": 2971,
+  "codigo": "1738P",
+  "id_lista": "1738",
+  "segmento": "provincial"
+ },
+ {
+  "INT": 835,
+  "TCM": 2461,
+  "codigo": "1762M",
+  "id_lista": "1762",
+  "segmento": "municipal"
+ },
+ {
+  "INT": 836,
+  "TCM": 2462,
+  "codigo": "1763M",
+  "id_lista": "1763",
+  "segmento": "municipal"
+ },
+ {
+  "INT": 837,
+  "TCM": 2463,
+  "codigo": "1764M",
+  "id_lista": "1764",
+  "segmento": "municipal"
+ },
+ {
+  "GOB": 544,
+  "LDE": 1492,
+  "LDU": 1636,
+  "TCP": 2972,
+  "codigo": "20P",
+  "id_lista": "20",
+  "segmento": "provincial"
+ },
+ {
+  "GOB": 545,
+  "LDE": 1504,
+  "LDU": 1637,
+  "TCP": 2973,
+  "codigo": "524P",
+  "id_lista": "524",
+  "segmento": "provincial"
+ },
+ {
+  "GOB": 546,
+  "LDU": 1638,
+  "TCP": 2974,
+  "codigo": "602P",
+  "id_lista": "602",
+  "segmento": "provincial"
+ },
+ {
+  "GOB": 547,
+  "LDE": 1519,
+  "LDU": 1639,
+  "TCP": 2975,
+  "codigo": "718P",
+  "id_lista": "718",
+  "segmento": "provincial"
+ },
+ {
+  "INT": 878,
+  "TCM": 2504,
+  "codigo": "724M",
+  "id_lista": "724",
+  "segmento": "municipal"
+ },
+ {
+  "INT": 884,
+  "TCM": 2510,
+  "codigo": "BLCM",
+  "id_lista": "BLC",
+  "segmento": "municipal"
+ },
+ {
+  "GOB": 548,
+  "LDE": 1528,
+  "LDU": 1640,
+  "TCP": 2976,
+  "codigo": "BLCP",
+  "id_lista": "BLC",
+  "segmento": "provincial"
+ }
+]
