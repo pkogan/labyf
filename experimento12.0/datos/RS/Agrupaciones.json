@@ -1,0 +1,209 @@
+[
+ {
+  "asistida": "151 MOVIMIENTO POPULAR NEUQUINO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "151",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "151",
+  "imagenes": [
+   "151"
+  ],
+  "nombre": "MOVIMIENTO POPULAR NEUQUINO",
+  "nombre_corto": "MPN",
+  "numero": "151",
+  "orden_absoluto": [
+   4
+  ]
+ },
+ {
+  "asistida": "166 UNION DE LOS NEUQUINOS - UNE",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "166",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "166",
+  "imagenes": [
+   "166"
+  ],
+  "nombre": "UNION DE LOS NEUQUINOS - UNE",
+  "nombre_corto": "UN",
+  "numero": "166",
+  "orden_absoluto": [
+   5
+  ]
+ },
+ {
+  "asistida": "194 ENCUENTRO REPUBLICANO FEDERAL",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "194",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "194",
+  "imagenes": [
+   "194"
+  ],
+  "nombre": "ENCUENTRO REPUBLICANO FEDERAL",
+  "nombre_corto": "ERF",
+  "numero": "194",
+  "orden_absoluto": [
+   6
+  ]
+ },
+ {
+  "asistida": "50 PARTIDO SOCIALISTA",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "50",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "50",
+  "imagenes": [
+   "50"
+  ],
+  "nombre": "PARTIDO SOCIALISTA",
+  "nombre_corto": "PS",
+  "numero": "50",
+  "orden_absoluto": [
+   1
+  ]
+ },
+ {
+  "asistida": "67 KOLINA",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "67",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "67",
+  "imagenes": [
+   "67"
+  ],
+  "nombre": "KOLINA",
+  "nombre_corto": "KL",
+  "numero": "67",
+  "orden_absoluto": [
+   2
+  ]
+ },
+ {
+  "asistida": "72 INSTRUMENTO ELECTORAL POR LA UNIDAD POPULAR",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "72",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "72",
+  "imagenes": [
+   "72"
+  ],
+  "nombre": "INSTRUMENTO ELECTORAL POR LA UNIDAD POPULAR",
+  "nombre_corto": "IEUP",
+  "numero": "72",
+  "orden_absoluto": [
+   3
+  ]
+ },
+ {
+  "asistida": "901 JUNTOS",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "901",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "901",
+  "imagenes": [
+   "901"
+  ],
+  "nombre": "JUNTOS",
+  "nombre_corto": "JS",
+  "numero": "901",
+  "orden_absoluto": [
+   7
+  ]
+ },
+ {
+  "asistida": "915 PARTIDO VECINAL RENOVADOR",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "915",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "915",
+  "imagenes": [
+   "915"
+  ],
+  "nombre": "PARTIDO VECINAL RENOVADOR",
+  "nombre_corto": "PVR",
+  "numero": "915",
+  "orden_absoluto": [
+   8
+  ]
+ },
+ {
+  "asistida": "921 INCLUSION Y TRABAJO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "921",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "921",
+  "imagenes": [
+   "921"
+  ],
+  "nombre": "INCLUSION Y TRABAJO",
+  "nombre_corto": "IYT",
+  "numero": "921",
+  "orden_absoluto": [
+   9
+  ]
+ }
+]

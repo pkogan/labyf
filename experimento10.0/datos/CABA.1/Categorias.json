@@ -1,0 +1,38 @@
+[
+ {
+  "adhiere": null,
+  "asistida": "Miembros de la Junta Comunal",
+  "cargo_ejecutivo": false,
+  "codigo": "COM",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Miembros de la Junta Comunal",
+  "posicion": 3,
+  "preferente": false
+ },
+ {
+  "adhiere": null,
+  "asistida": "Jefe\/a de Gobierno",
+  "cargo_ejecutivo": true,
+  "codigo": "JEF",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Jefe\/a de Gobierno",
+  "posicion": 1,
+  "preferente": false
+ },
+ {
+  "adhiere": null,
+  "asistida": "Diputados\/as de la Legislatura de la Ciudad",
+  "cargo_ejecutivo": false,
+  "codigo": "LEG",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Diputados\/as de la Legislatura de la Ciudad",
+  "posicion": 2,
+  "preferente": false
+ }
+]

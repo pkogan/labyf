@@ -1,0 +1,623 @@
+[
+ {
+  "asistida": "1 MOVIMIENTO DE INTEGRACION Y DESARROLLO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "1",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "1",
+  "imagenes": [
+   "1"
+  ],
+  "nombre": "MOVIMIENTO DE INTEGRACION Y DESARROLLO",
+  "nombre_corto": "M.I.D",
+  "numero": "1",
+  "orden_absoluto": [
+   1
+  ]
+ },
+ {
+  "asistida": "151 MOVIMIENTO POPULAR NEUQUINO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "151",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "151",
+  "imagenes": [
+   "151"
+  ],
+  "nombre": "MOVIMIENTO POPULAR NEUQUINO",
+  "nombre_corto": "M.P.N.",
+  "numero": "151",
+  "orden_absoluto": [
+   3
+  ]
+ },
+ {
+  "asistida": "166 UNION DE LOS NEUQUINOS - UNE",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "166",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "166",
+  "imagenes": [
+   "166"
+  ],
+  "nombre": "UNION DE LOS NEUQUINOS - UNE",
+  "nombre_corto": "M.P.N.",
+  "numero": "166",
+  "orden_absoluto": [
+   4
+  ]
+ },
+ {
+  "asistida": "190 DESARROLLO CIUDADANO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "190",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "190",
+  "imagenes": [
+   "190"
+  ],
+  "nombre": "DESARROLLO CIUDADANO",
+  "nombre_corto": "DESARROLLO CIUDADANO",
+  "numero": "190",
+  "orden_absoluto": [
+   5
+  ]
+ },
+ {
+  "asistida": "191 COMUNIDAD",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "191",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "191",
+  "imagenes": [
+   "191"
+  ],
+  "nombre": "COMUNIDAD",
+  "nombre_corto": "COMUNIDAD",
+  "numero": "191",
+  "orden_absoluto": [
+   6
+  ]
+ },
+ {
+  "asistida": "50 PARTIDO SOCIALISTA",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "50",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "50",
+  "imagenes": [
+   "50"
+  ],
+  "nombre": "PARTIDO SOCIALISTA",
+  "nombre_corto": "P.S.",
+  "numero": "50",
+  "orden_absoluto": [
+   2
+  ]
+ },
+ {
+  "asistida": "682 JUNTOS POR EL CAMBIO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "682",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "682",
+  "imagenes": [
+   "682"
+  ],
+  "nombre": "JUNTOS POR EL CAMBIO",
+  "nombre_corto": "JXC",
+  "numero": "682",
+  "orden_absoluto": [
+   27
+  ]
+ },
+ {
+  "asistida": "683 FRENTE DE IZQUIERDA Y DE TRABAJADORES UNIDAD",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "683",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "683",
+  "imagenes": [
+   "683"
+  ],
+  "nombre": "FRENTE DE IZQUIERDA Y DE TRABAJADORES UNIDAD",
+  "nombre_corto": "FITU",
+  "numero": "683",
+  "orden_absoluto": [
+   26
+  ]
+ },
+ {
+  "asistida": "684 UNION POR PLOTTIER",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "684",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "684",
+  "imagenes": [
+   "684"
+  ],
+  "nombre": "UNION POR PLOTTIER",
+  "nombre_corto": "UNION POR PLOTTIER",
+  "numero": "684",
+  "orden_absoluto": [
+   25
+  ]
+ },
+ {
+  "asistida": "863 FRENTE INTEGRADOR NEUQUINO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "863",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "863",
+  "imagenes": [
+   "863"
+  ],
+  "nombre": "FRENTE INTEGRADOR NEUQUINO",
+  "nombre_corto": "FRIN",
+  "numero": "863",
+  "orden_absoluto": [
+   7
+  ]
+ },
+ {
+  "asistida": "868 MOVIMIENTO CIUDADANO ACTIVA",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "868",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "868",
+  "imagenes": [
+   "868"
+  ],
+  "nombre": "MOVIMIENTO CIUDADANO ACTIVA",
+  "nombre_corto": "MOV CIUDADANO ACTIVA",
+  "numero": "868",
+  "orden_absoluto": [
+   8
+  ]
+ },
+ {
+  "asistida": "883 IGUALES",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "883",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "883",
+  "imagenes": [
+   "883"
+  ],
+  "nombre": "IGUALES",
+  "nombre_corto": "IGUALES",
+  "numero": "883",
+  "orden_absoluto": [
+   9
+  ]
+ },
+ {
+  "asistida": "884 PLOTTIER FUERZA Y COMPROMISO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "884",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "884",
+  "imagenes": [
+   "884"
+  ],
+  "nombre": "PLOTTIER FUERZA Y COMPROMISO",
+  "nombre_corto": "FUERZA Y COMPROMISO",
+  "numero": "884",
+  "orden_absoluto": [
+   10
+  ]
+ },
+ {
+  "asistida": "885 EVOLUCION",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "885",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "885",
+  "imagenes": [
+   "885"
+  ],
+  "nombre": "EVOLUCION",
+  "nombre_corto": "EVOLUCION",
+  "numero": "885",
+  "orden_absoluto": [
+   11
+  ]
+ },
+ {
+  "asistida": "889 MEJOR PLOTTIER",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "889",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "889",
+  "imagenes": [
+   "889"
+  ],
+  "nombre": "MEJOR PLOTTIER",
+  "nombre_corto": "MEJOR PLOTTIER",
+  "numero": "889",
+  "orden_absoluto": [
+   12
+  ]
+ },
+ {
+  "asistida": "891 PARTIDO AUTONOMISTA VECINAL DE PLOTTIER",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "891",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "891",
+  "imagenes": [
+   "891"
+  ],
+  "nombre": "PARTIDO AUTONOMISTA VECINAL DE PLOTTIER",
+  "nombre_corto": "AUTONOMISTA VECINAL",
+  "numero": "891",
+  "orden_absoluto": [
+   13
+  ]
+ },
+ {
+  "asistida": "895 FRENTE UNICO PLOTTIER",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "895",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "895",
+  "imagenes": [
+   "895"
+  ],
+  "nombre": "FRENTE UNICO PLOTTIER",
+  "nombre_corto": "FRENTE UNICO PLO.",
+  "numero": "895",
+  "orden_absoluto": [
+   14
+  ]
+ },
+ {
+  "asistida": "901 JUNTOS",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "901",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "901",
+  "imagenes": [
+   "901"
+  ],
+  "nombre": "JUNTOS",
+  "nombre_corto": "JUNTOS",
+  "numero": "901",
+  "orden_absoluto": [
+   15
+  ]
+ },
+ {
+  "asistida": "915 PARTIDO VECINAL RENOVADOR",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "915",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "915",
+  "imagenes": [
+   "915"
+  ],
+  "nombre": "PARTIDO VECINAL RENOVADOR",
+  "nombre_corto": "PVR",
+  "numero": "915",
+  "orden_absoluto": [
+   16
+  ]
+ },
+ {
+  "asistida": "917 FRENTE TERRITORIAL",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "917",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "917",
+  "imagenes": [
+   "917"
+  ],
+  "nombre": "FRENTE TERRITORIAL",
+  "nombre_corto": "FRENTE TERRITORIAL",
+  "numero": "917",
+  "orden_absoluto": [
+   23
+  ]
+ },
+ {
+  "asistida": "918 PODEMOS",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "918",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "918",
+  "imagenes": [
+   "918"
+  ],
+  "nombre": "PODEMOS",
+  "nombre_corto": "PODEMOS",
+  "numero": "918",
+  "orden_absoluto": [
+   18
+  ]
+ },
+ {
+  "asistida": "919 TIEMPO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "919",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "919",
+  "imagenes": [
+   "919"
+  ],
+  "nombre": "TIEMPO",
+  "nombre_corto": "TIEMPO",
+  "numero": "919",
+  "orden_absoluto": [
+   17
+  ]
+ },
+ {
+  "asistida": "920 PRESENTES",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "920",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "920",
+  "imagenes": [
+   "920"
+  ],
+  "nombre": "PRESENTES",
+  "nombre_corto": "PRESENTES",
+  "numero": "920",
+  "orden_absoluto": [
+   22
+  ]
+ },
+ {
+  "asistida": "922 ELEGI PLOTTIER",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "922",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "922",
+  "imagenes": [
+   "922"
+  ],
+  "nombre": "ELEGI PLOTTIER",
+  "nombre_corto": "POR SIEMPRE PLOTTIER",
+  "numero": "922",
+  "orden_absoluto": [
+   19
+  ]
+ },
+ {
+  "asistida": "923 COMPROMISO POR PLOTTIER",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "923",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "923",
+  "imagenes": [
+   "923"
+  ],
+  "nombre": "COMPROMISO POR PLOTTIER",
+  "nombre_corto": "COMPROMISO X PLOT",
+  "numero": "923",
+  "orden_absoluto": [
+   24
+  ]
+ },
+ {
+  "asistida": "924 UNION JOVEN",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "924",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "924",
+  "imagenes": [
+   "924"
+  ],
+  "nombre": "UNION JOVEN",
+  "nombre_corto": "924",
+  "numero": "924",
+  "orden_absoluto": [
+   21
+  ]
+ },
+ {
+  "asistida": "925 FUERZA NUEVA",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "925",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "925",
+  "imagenes": [
+   "925"
+  ],
+  "nombre": "FUERZA NUEVA",
+  "nombre_corto": "925",
+  "numero": "925",
+  "orden_absoluto": [
+   20
+  ]
+ }
+]

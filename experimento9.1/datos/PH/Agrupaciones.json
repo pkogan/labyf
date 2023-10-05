@@ -1,0 +1,577 @@
+[
+ {
+  "asistida": "1 - MID",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "1",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "1",
+  "imagenes": [
+   "1"
+  ],
+  "nombre": "MID",
+  "nombre_corto": "MID",
+  "numero": "1",
+  "orden_absoluto": [
+   1
+  ]
+ },
+ {
+  "asistida": "191 - COMUNIDAD",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "10",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "10",
+  "imagenes": [
+   "10"
+  ],
+  "nombre": "COMUNIDAD",
+  "nombre_corto": "COMUNIDAD",
+  "numero": "191",
+  "orden_absoluto": [
+   10
+  ]
+ },
+ {
+  "asistida": "192 - AVANZAR NEUQUEN",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "11",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "11",
+  "imagenes": [
+   "11"
+  ],
+  "nombre": "AVANZAR NEUQUEN",
+  "nombre_corto": "AVNQN",
+  "numero": "192",
+  "orden_absoluto": [
+   11
+  ]
+ },
+ {
+  "asistida": "193 - ARRIBA NEUQUEN",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "12",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "12",
+  "imagenes": [
+   "12"
+  ],
+  "nombre": "ARRIBA NEUQUEN",
+  "nombre_corto": "ARNQN",
+  "numero": "193",
+  "orden_absoluto": [
+   12
+  ]
+ },
+ {
+  "asistida": "676 - ALIANZA UNIDOS POR PLAZA HUINCUL",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "13",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "13",
+  "imagenes": [
+   "13"
+  ],
+  "nombre": "ALIANZA UNIDOS POR PLAZA HUINCUL",
+  "nombre_corto": "AUxPH",
+  "numero": "676",
+  "orden_absoluto": [
+   13
+  ]
+ },
+ {
+  "asistida": "679 - ALIANZA FRENTE DE IZQUIERDA Y DE TRABAJADORES UNIDAD",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "14",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "14",
+  "imagenes": [
+   "14"
+  ],
+  "nombre": "ALIANZA FRENTE DE IZQUIERDA Y DE TRABAJADORES UNIDAD",
+  "nombre_corto": "AFITU",
+  "numero": "679",
+  "orden_absoluto": [
+   14
+  ]
+ },
+ {
+  "asistida": "680 - ALIANZA JUNTOS POR EL CAMBIO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "15",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "15",
+  "imagenes": [
+   "15"
+  ],
+  "nombre": "ALIANZA JUNTOS POR EL CAMBIO",
+  "nombre_corto": "AJxC",
+  "numero": "680",
+  "orden_absoluto": [
+   15
+  ]
+ },
+ {
+  "asistida": "842 - FRENTE SOCIAL POR LA DIGNIDAD",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "16",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "16",
+  "imagenes": [
+   "16"
+  ],
+  "nombre": "FRENTE SOCIAL POR LA DIGNIDAD",
+  "nombre_corto": "FSD",
+  "numero": "842",
+  "orden_absoluto": [
+   16
+  ]
+ },
+ {
+  "asistida": "855 - FRENTE COMUNITARIO POR PH",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "17",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "17",
+  "imagenes": [
+   "17"
+  ],
+  "nombre": "FRENTE COMUNITARIO POR PH",
+  "nombre_corto": "FCxPH",
+  "numero": "855",
+  "orden_absoluto": [
+   17
+  ]
+ },
+ {
+  "asistida": "863 - FRENTE INTEGRADOR NEUQUINO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "18",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "18",
+  "imagenes": [
+   "18"
+  ],
+  "nombre": "FRENTE INTEGRADOR NEUQUINO",
+  "nombre_corto": "FIN",
+  "numero": "863",
+  "orden_absoluto": [
+   18
+  ]
+ },
+ {
+  "asistida": "882 - FRENTE NUEVO NEUQUEN",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "19",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "19",
+  "imagenes": [
+   "19"
+  ],
+  "nombre": "FRENTE NUEVO NEUQUEN",
+  "nombre_corto": "FNN",
+  "numero": "882",
+  "orden_absoluto": [
+   19
+  ]
+ },
+ {
+  "asistida": "23 - UNION POPULAR FEDERAL",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "2",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "2",
+  "imagenes": [
+   "2"
+  ],
+  "nombre": "UNION POPULAR FEDERAL",
+  "nombre_corto": "UPF",
+  "numero": "23",
+  "orden_absoluto": [
+   2
+  ]
+ },
+ {
+  "asistida": "883 - IGUALES",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "20",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "20",
+  "imagenes": [
+   "20"
+  ],
+  "nombre": "IGUALES",
+  "nombre_corto": "IGUALES",
+  "numero": "883",
+  "orden_absoluto": [
+   20
+  ]
+ },
+ {
+  "asistida": "888 - FRENTE SOCIAL",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "21",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "21",
+  "imagenes": [
+   "21"
+  ],
+  "nombre": "FRENTE SOCIAL",
+  "nombre_corto": "FS",
+  "numero": "888",
+  "orden_absoluto": [
+   21
+  ]
+ },
+ {
+  "asistida": "890 - JUNTOS POR PLAZA",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "22",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "22",
+  "imagenes": [
+   "22"
+  ],
+  "nombre": "JUNTOS POR PLAZA",
+  "nombre_corto": "JxPH",
+  "numero": "890",
+  "orden_absoluto": [
+   22
+  ]
+ },
+ {
+  "asistida": "901 - JUNTOS",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "23",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "23",
+  "imagenes": [
+   "23"
+  ],
+  "nombre": "JUNTOS",
+  "nombre_corto": "JUNTOS",
+  "numero": "901",
+  "orden_absoluto": [
+   23
+  ]
+ },
+ {
+  "asistida": "914 - ENERG\u00cdA CIUDADANA",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "24",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "24",
+  "imagenes": [
+   "24"
+  ],
+  "nombre": "ENERG\u00cdA CIUDADANA",
+  "nombre_corto": "EC",
+  "numero": "914",
+  "orden_absoluto": [
+   24
+  ]
+ },
+ {
+  "asistida": "915 - PARTIDO VECINAL RENOVADOR",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "25",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "25",
+  "imagenes": [
+   "25"
+  ],
+  "nombre": "PARTIDO VECINAL RENOVADOR",
+  "nombre_corto": "PVR",
+  "numero": "915",
+  "orden_absoluto": [
+   25
+  ]
+ },
+ {
+  "asistida": "41 - FRENTE GRANDE",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "3",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "3",
+  "imagenes": [
+   "3"
+  ],
+  "nombre": "FRENTE GRANDE",
+  "nombre_corto": "FG",
+  "numero": "41",
+  "orden_absoluto": [
+   3
+  ]
+ },
+ {
+  "asistida": "50 - PARTIDO SOCIALISTA",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "4",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "4",
+  "imagenes": [
+   "4"
+  ],
+  "nombre": "PARTIDO SOCIALISTA",
+  "nombre_corto": "SOCIALISTA",
+  "numero": "50",
+  "orden_absoluto": [
+   4
+  ]
+ },
+ {
+  "asistida": "64 - PRO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "5",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "5",
+  "imagenes": [
+   "5"
+  ],
+  "nombre": "PRO",
+  "nombre_corto": "PRO",
+  "numero": "64",
+  "orden_absoluto": [
+   5
+  ]
+ },
+ {
+  "asistida": "72 - INSTRUMENTO ELECTORAL POR LA UNIDAD POPULAR",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "6",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "6",
+  "imagenes": [
+   "6"
+  ],
+  "nombre": "INSTRUMENTO ELECTORAL POR LA UNIDAD POPULAR",
+  "nombre_corto": "IEUE",
+  "numero": "72",
+  "orden_absoluto": [
+   6
+  ]
+ },
+ {
+  "asistida": "151 - MOVIMIENTO POPULAR NEUQUINO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "7",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "7",
+  "imagenes": [
+   "7"
+  ],
+  "nombre": "MOVIMIENTO POPULAR NEUQUINO",
+  "nombre_corto": "MPN",
+  "numero": "151",
+  "orden_absoluto": [
+   7
+  ]
+ },
+ {
+  "asistida": "180 - NUEVO COMPROMISO NEUQUINO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "8",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "8",
+  "imagenes": [
+   "8"
+  ],
+  "nombre": "NUEVO COMPROMISO NEUQUINO",
+  "nombre_corto": "NCN",
+  "numero": "180",
+  "orden_absoluto": [
+   8
+  ]
+ },
+ {
+  "asistida": "190 - DESARROLLO CIUDADANO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "9",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "9",
+  "imagenes": [
+   "9"
+  ],
+  "nombre": "DESARROLLO CIUDADANO",
+  "nombre_corto": "DC",
+  "numero": "190",
+  "orden_absoluto": [
+   9
+  ]
+ }
+]

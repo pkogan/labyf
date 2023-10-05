@@ -1,0 +1,26 @@
+[
+ {
+  "adhiere": null,
+  "asistida": null,
+  "cargo_ejecutivo": false,
+  "codigo": "CON",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Concejales",
+  "posicion": 2,
+  "preferente": false
+ },
+ {
+  "adhiere": null,
+  "asistida": null,
+  "cargo_ejecutivo": true,
+  "codigo": "INT",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Intendente",
+  "posicion": 1,
+  "preferente": false
+ }
+]

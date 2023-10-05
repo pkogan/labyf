@@ -1,0 +1,21 @@
+<div id="seleccionar_ubicacion" style="">
+    <div class="barra-titulo">
+        <p id="_txt_seleccionar_ubicacion">Seleccione la ubicación en la que vota</p>
+    </div>
+    {{#dos_cols}}
+        <div id="ubicaciones" style="height:600px;-moz-column-count: 6;-webkit-column-count: 6;-moz-column-gap:0.1em;" class="opciones">
+            {{#data}}
+                {{split this}}
+            {{/data}}
+        </div>
+    {{else}}
+        <div id="ubicaciones" class="opciones">
+            {{#data}}
+                <div class="candidato" style="padding 5px;width:1326px" id="ubicacion_{{2}}">
+                    {{0}} - {{1}}
+                </div>
+                <div class="clear"></div>
+            {{/data}}
+        </div>
+    {{/dos_cols}}
+</div>

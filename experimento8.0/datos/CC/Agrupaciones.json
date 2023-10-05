@@ -1,0 +1,462 @@
+[
+ {
+  "asistida": "MOVIMIENTO DE INTEGRACION Y DESARROLLO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "1",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "1",
+  "imagenes": [
+   "1"
+  ],
+  "nombre": "MOVIMIENTO DE INTEGRACION Y DESARROLLO",
+  "nombre_corto": "MID",
+  "numero": "1",
+  "orden_absoluto": [
+   1
+  ]
+ },
+ {
+  "asistida": "NUEVO COMPROMISO NEUQUINO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "180",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "180",
+  "imagenes": [
+   "180"
+  ],
+  "nombre": "NUEVO COMPROMISO NEUQUINO",
+  "nombre_corto": "NUEVO COMPROMISO NEUQUINO",
+  "numero": "180",
+  "orden_absoluto": [
+   9
+  ]
+ },
+ {
+  "asistida": "DESARROLLO CIUDADANO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "190",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "190",
+  "imagenes": [
+   "190"
+  ],
+  "nombre": "DESARROLLO CIUDADANO",
+  "nombre_corto": "DESARROLLO CIUDADANO",
+  "numero": "190",
+  "orden_absoluto": [
+   10
+  ]
+ },
+ {
+  "asistida": "COMUNIDAD",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "191",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "191",
+  "imagenes": [
+   "191"
+  ],
+  "nombre": "COMUNIDAD",
+  "nombre_corto": "COMUNIDAD",
+  "numero": "191",
+  "orden_absoluto": [
+   11
+  ]
+ },
+ {
+  "asistida": "AVANZAR NEUQUEN",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "192",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "192",
+  "imagenes": [
+   "192"
+  ],
+  "nombre": "AVANZAR NEUQUEN",
+  "nombre_corto": "AVANZAR NEUQUEN",
+  "numero": "192",
+  "orden_absoluto": [
+   12
+  ]
+ },
+ {
+  "asistida": "ARRIBA NEUQUEN",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "193",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "193",
+  "imagenes": [
+   "193"
+  ],
+  "nombre": "ARRIBA NEUQUEN",
+  "nombre_corto": "ARRIBA NEUQUEN",
+  "numero": "193",
+  "orden_absoluto": [
+   13
+  ]
+ },
+ {
+  "asistida": "UNION POPULAR FEDERAL",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "23",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "23",
+  "imagenes": [
+   "23"
+  ],
+  "nombre": "UNION POPULAR FEDERAL",
+  "nombre_corto": "UNION POPULAR FEDERAL",
+  "numero": "23",
+  "orden_absoluto": [
+   2
+  ]
+ },
+ {
+  "asistida": "MOVIMIENTO LIBRES DEL SUR",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "40",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "40",
+  "imagenes": [
+   "40"
+  ],
+  "nombre": "MOVIMIENTO LIBRES DEL SUR",
+  "nombre_corto": "LIBRES DEL SUR",
+  "numero": "40",
+  "orden_absoluto": [
+   3
+  ]
+ },
+ {
+  "asistida": "FRENTE GRANDE",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "41",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "41",
+  "imagenes": [
+   "41"
+  ],
+  "nombre": "FRENTE GRANDE",
+  "nombre_corto": "FRENTE GRANDE",
+  "numero": "41",
+  "orden_absoluto": [
+   4
+  ]
+ },
+ {
+  "asistida": "PARTIDO SOCIALISTA",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "50",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "50",
+  "imagenes": [
+   "50"
+  ],
+  "nombre": "PARTIDO SOCIALISTA",
+  "nombre_corto": "PARTIDO SOCIALISTA",
+  "numero": "50",
+  "orden_absoluto": [
+   5
+  ]
+ },
+ {
+  "asistida": "PROPUESTA REPUBLICANA",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "64",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "64",
+  "imagenes": [
+   "64"
+  ],
+  "nombre": "PROPUESTA REPUBLICANA",
+  "nombre_corto": "PROPUESTA REPUBLICANA",
+  "numero": "64",
+  "orden_absoluto": [
+   6
+  ]
+ },
+ {
+  "asistida": "KOLINA",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "67",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "67",
+  "imagenes": [
+   "67"
+  ],
+  "nombre": "KOLINA",
+  "nombre_corto": "KOLINA",
+  "numero": "67",
+  "orden_absoluto": [
+   7
+  ]
+ },
+ {
+  "asistida": "ALIANZA TODOS POR CUTRAL CO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "677",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "677",
+  "imagenes": [
+   "677"
+  ],
+  "nombre": "ALIANZA TODOS POR CUTRAL CO",
+  "nombre_corto": "ALIANZA TODOS POR CUTRAL CO",
+  "numero": "677",
+  "orden_absoluto": [
+   14
+  ]
+ },
+ {
+  "asistida": "ALIANZA FRENTE DE IZQUIERDA Y TRABAJADORES UNIDAD",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "678",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "678",
+  "imagenes": [
+   "678"
+  ],
+  "nombre": "ALIANZA FRENTE DE IZQUIERDA Y TRABAJADORES UNIDAD",
+  "nombre_corto": "FRENTE DE IZQUIERDA UNIDAD",
+  "numero": "678",
+  "orden_absoluto": [
+   15
+  ]
+ },
+ {
+  "asistida": "ALIANZA JUNTOS POR EL CAMBIO NEUQUEN",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "681",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "681",
+  "imagenes": [
+   "681"
+  ],
+  "nombre": "ALIANZA JUNTOS POR EL CAMBIO NEUQUEN",
+  "nombre_corto": "JUNTOS POR EL CAMBIO",
+  "numero": "681",
+  "orden_absoluto": [
+   16
+  ]
+ },
+ {
+  "asistida": "INSTRUMENTO ELECTORAL POR LA UNIDAD POPULAR",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "72",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "72",
+  "imagenes": [
+   "72"
+  ],
+  "nombre": "INSTRUMENTO ELECTORAL POR LA UNIDAD POPULAR",
+  "nombre_corto": "UP",
+  "numero": "72",
+  "orden_absoluto": [
+   8
+  ]
+ },
+ {
+  "asistida": "FRENTE SOCIAL POR LA DIGNIDAD",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "842",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "842",
+  "imagenes": [
+   "842"
+  ],
+  "nombre": "FRENTE SOCIAL POR LA DIGNIDAD",
+  "nombre_corto": "FRENTE SOCIAL POR LA DIGNIDAD",
+  "numero": "842",
+  "orden_absoluto": [
+   17
+  ]
+ },
+ {
+  "asistida": "FRENTE SOCIAL COMUNITARIO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "847",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "847",
+  "imagenes": [
+   "847"
+  ],
+  "nombre": "FRENTE SOCIAL COMUNITARIO",
+  "nombre_corto": "FRENTE SOCIAL COMUNITARIO",
+  "numero": "847",
+  "orden_absoluto": [
+   18
+  ]
+ },
+ {
+  "asistida": "FRENTE INTEGRADOR NEUQUINO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "863",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "863",
+  "imagenes": [
+   "863"
+  ],
+  "nombre": "FRENTE INTEGRADOR NEUQUINO",
+  "nombre_corto": "FRENTE INTEGRADOR NEUQUINO",
+  "numero": "863",
+  "orden_absoluto": [
+   19
+  ]
+ },
+ {
+  "asistida": "ENERGIA CIUDADANA",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "914",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "914",
+  "imagenes": [
+   "914"
+  ],
+  "nombre": "ENERGIA CIUDADANA",
+  "nombre_corto": "ENERGIA CIUDADANA",
+  "numero": "914",
+  "orden_absoluto": [
+   20
+  ]
+ }
+]

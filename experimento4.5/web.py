@@ -1,16 +1,24 @@
-from PyQt5.QtCore import QUrl
-from PyQt5.QtWidgets import QApplication
-from PyQt5.QtWebEngineWidgets import QWebEngineView
-# Para instalar librerías ejecutar
-# pip3 install PyQt5 PyQtWebEngine
 
-if __name__ == "__main__":
-    app = QApplication([])
-    view = QWebEngineView()
-    #view.load(QUrl("https://www.example.com"))
-    #view.load(QUrl.fromLocalFile("/home/pkogan/Proyectos/labyf/experimento4.5/testshuffle.html"))
-    view.load(QUrl.fromLocalFile("/home/pkogan/Proyectos/labyf/experimento4.5/testshuffle_2_parawebkit.html"))
-    #view.load(QUrl.fromLocalFile("/home/pkogan/Proyectos/labyf/experimento4.5/index.html"))
+import gi
+import os
 
-    view.show()
-    app.exec()
+gi.require_version("Gtk", "3.0")
+gi.require_version("WebKit2", "4.0")
+from gi.repository import Gtk, WebKit2
+
+window = Gtk.Window(
+            default_width=1000,
+            default_height=832
+        )
+webview = WebKit2.WebView()
+settings = WebKit2.Settings()
+webview.set_settings(settings)
+settings.set_allow_file_access_from_file_urls(True)
+directory = os.getcwd()
+uri=directory+'/testshuffle_2_parawebkit.html'
+
+webview.load_uri(uri=f"file://{uri}")
+window.add(webview)
+settings.set_enable_developer_extras(True)
+window.show_all()
+Gtk.main()

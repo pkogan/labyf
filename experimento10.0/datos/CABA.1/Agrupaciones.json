@@ -1,0 +1,582 @@
+[
+ {
+  "asistida": "La Libertad Avanza ",
+  "clase": "Partido",
+  "cod_alianza": null,
+  "codigo": "1",
+  "color": [
+   "#753BBD"
+  ],
+  "id_candidatura": "1",
+  "imagenes": [
+   "1"
+  ],
+  "nombre": "La Libertad Avanza ",
+  "nombre_corto": "LiberdaAvanza",
+  "numero": "801",
+  "orden_absoluto": [
+   9
+  ]
+ },
+ {
+  "asistida": "La Ciudad Avanza ",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": "1",
+  "codigo": "1.1",
+  "color": [
+   "#753BBD"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "1.1",
+  "imagenes": [
+   "default_lista"
+  ],
+  "nombre": "La Ciudad Avanza ",
+  "nombre_corto": "CiudadAvanza",
+  "numero": "801",
+  "orden_absoluto": [
+   9,
+   9
+  ]
+ },
+ {
+  "asistida": "Principios y Valores ",
+  "clase": "Partido",
+  "cod_alianza": null,
+  "codigo": "10",
+  "color": [
+   "#71C5E8",
+   "#005EB8",
+   "#CB4F53",
+   "#FECF00"
+  ],
+  "id_candidatura": "10",
+  "imagenes": [
+   "10"
+  ],
+  "nombre": "Principios y Valores ",
+  "nombre_corto": "PrincipiosyValores",
+  "numero": "351",
+  "orden_absoluto": [
+   8
+  ]
+ },
+ {
+  "asistida": "Celeste y Blanca",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": "10",
+  "codigo": "10.12",
+  "color": [
+   "#71C5E8",
+   "#005EB8",
+   "#CB4F53",
+   "#FECF00"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "10.12",
+  "imagenes": [
+   "default_lista"
+  ],
+  "nombre": "Celeste y Blanca",
+  "nombre_corto": "CelestayBlanca",
+  "numero": "351",
+  "orden_absoluto": [
+   8,
+   8
+  ]
+ },
+ {
+  "asistida": "La Izquierda en la Ciudad",
+  "clase": "Partido",
+  "cod_alianza": null,
+  "codigo": "11",
+  "color": [
+   "#DA291C"
+  ],
+  "id_candidatura": "11",
+  "imagenes": [
+   "11"
+  ],
+  "nombre": "La Izquierda en la Ciudad",
+  "nombre_corto": "La.Izq.en.la.Ciudad",
+  "numero": "350",
+  "orden_absoluto": [
+   7
+  ]
+ },
+ {
+  "asistida": "Izquierda Anticapitalista",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": "11",
+  "codigo": "11.13",
+  "color": [
+   "#DA291C"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "11.13",
+  "imagenes": [
+   "default_lista"
+  ],
+  "nombre": "Izquierda Anticapitalista",
+  "nombre_corto": "Izq.Anticapitalista",
+  "numero": "350",
+  "orden_absoluto": [
+   7,
+   7
+  ]
+ },
+ {
+  "asistida": "Instrumento Electoral por la Unidad Popular",
+  "clase": "Partido",
+  "cod_alianza": null,
+  "codigo": "12",
+  "color": [
+   "#0033A0",
+   "#00A3E0",
+   "#FFFFFF"
+  ],
+  "id_candidatura": "12",
+  "imagenes": [
+   "12"
+  ],
+  "nombre": "Instrumento Electoral por la Unidad Popular",
+  "nombre_corto": "Ins.Elec.Uni.Popular",
+  "numero": "72",
+  "orden_absoluto": [
+   2
+  ]
+ },
+ {
+  "asistida": "El Movimiento La Ciudad Somos Quienes la Habitamos ",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": "12",
+  "codigo": "12.14",
+  "color": [
+   "#0033A0",
+   "#00A3E0",
+   "#FF6720"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "12.14",
+  "imagenes": [
+   "default_lista"
+  ],
+  "nombre": "El Movimiento \u2013 La Ciudad Somos Quienes la Habitamos ",
+  "nombre_corto": "La.Ciud.Somos.Q.Hab",
+  "numero": "72",
+  "orden_absoluto": [
+   2,
+   2
+  ]
+ },
+ {
+  "asistida": "Uni\u00f3n por la Patria",
+  "clase": "Partido",
+  "cod_alianza": null,
+  "codigo": "2",
+  "color": [
+   "#00A9E0",
+   "#00A9E0",
+   "#FFD100",
+   "#80807E"
+  ],
+  "id_candidatura": "2",
+  "imagenes": [
+   "2"
+  ],
+  "nombre": "Uni\u00f3n por la Patria",
+  "nombre_corto": "UnionPorLaPatria",
+  "numero": "802",
+  "orden_absoluto": [
+   10
+  ]
+ },
+ {
+  "asistida": "Alternativa para Ganar Buenos Aires ",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": "2",
+  "codigo": "2.2",
+  "color": [
+   "#00A9E0",
+   "#00A9E0",
+   "#FFD100",
+   "#80807E"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "2.2",
+  "imagenes": [
+   "default_lista"
+  ],
+  "nombre": "Alternativa para Ganar Buenos Aires ",
+  "nombre_corto": "Alt.Ganar.BsAs",
+  "numero": "802",
+  "orden_absoluto": [
+   10,
+   10
+  ]
+ },
+ {
+  "asistida": "Juntos por el Cambio ",
+  "clase": "Partido",
+  "cod_alianza": null,
+  "codigo": "3",
+  "color": [
+   "#FEE000",
+   "#FFB500",
+   "#FF6900",
+   "#EE2737",
+   "#BB29BB",
+   "#981D97",
+   "#001E96",
+   "#00B5E2"
+  ],
+  "id_candidatura": "3",
+  "imagenes": [
+   "3"
+  ],
+  "nombre": "Juntos por el Cambio ",
+  "nombre_corto": "JuntosxCambio",
+  "numero": "803",
+  "orden_absoluto": [
+   11
+  ]
+ },
+ {
+  "asistida": "Evoluci\u00f3n",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": "3",
+  "codigo": "3.3",
+  "color": [
+   "#FEE000",
+   "#FFB500",
+   "#FF6900",
+   "#EE2737",
+   "#BB29BB",
+   "#981D97",
+   "#001E96",
+   "#00B5E2"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "3.3",
+  "imagenes": [
+   "default_lista"
+  ],
+  "nombre": "Evoluci\u00f3n",
+  "nombre_corto": "Evolucion",
+  "numero": "803 A",
+  "orden_absoluto": [
+   11,
+   11
+  ]
+ },
+ {
+  "asistida": "Vayamos por M\u00e1s",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": "3",
+  "codigo": "3.4",
+  "color": [
+   "#FFB500",
+   "#FFB500",
+   "#FFB500",
+   "#FFB500",
+   "#FFB500",
+   "#FF6900",
+   "#EE2737",
+   "#981D97",
+   "#001E96"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "3.4",
+  "imagenes": [
+   "default_lista"
+  ],
+  "nombre": "Vayamos por M\u00e1s",
+  "nombre_corto": "VayamosxMas",
+  "numero": "803 B",
+  "orden_absoluto": [
+   11,
+   12
+  ]
+ },
+ {
+  "asistida": "Frente de Izquierda y de Trabajadores Unidad ",
+  "clase": "Partido",
+  "cod_alianza": null,
+  "codigo": "4",
+  "color": [
+   "#F65058"
+  ],
+  "id_candidatura": "4",
+  "imagenes": [
+   "4"
+  ],
+  "nombre": "Frente de Izquierda y de Trabajadores Unidad ",
+  "nombre_corto": "Frent.Izq.y.Trab.Uni",
+  "numero": "804",
+  "orden_absoluto": [
+   12
+  ]
+ },
+ {
+  "asistida": "Unidad de Luchadores y la Izquierda",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": "4",
+  "codigo": "4.5",
+  "color": [
+   "#F65058"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "4.5",
+  "imagenes": [
+   "default_lista"
+  ],
+  "nombre": "Unidad de Luchadores y la Izquierda",
+  "nombre_corto": "Uni.Lucha.y.Izq",
+  "numero": "804 B",
+  "orden_absoluto": [
+   12,
+   14
+  ]
+ },
+ {
+  "asistida": "Unir y Fortalecer la Izquierda",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": "4",
+  "codigo": "4.6",
+  "color": [
+   "#F65058"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "4.6",
+  "imagenes": [
+   "default_lista"
+  ],
+  "nombre": "Unir y Fortalecer la Izquierda",
+  "nombre_corto": "UniryFort.la.Izq",
+  "numero": "804 A",
+  "orden_absoluto": [
+   12,
+   13
+  ]
+ },
+ {
+  "asistida": "Aptitud Renovadora ",
+  "clase": "Partido",
+  "cod_alianza": null,
+  "codigo": "5",
+  "color": [
+   "#F04E98",
+   "#77C5D5"
+  ],
+  "id_candidatura": "5",
+  "imagenes": [
+   "5"
+  ],
+  "nombre": "Aptitud Renovadora ",
+  "nombre_corto": "Aptitud.Renovadora",
+  "numero": "347",
+  "orden_absoluto": [
+   6
+  ]
+ },
+ {
+  "asistida": "Primero los Porte\u00f1os",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": "5",
+  "codigo": "5.7",
+  "color": [
+   "#F04E98",
+   "#77C5D5"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "5.7",
+  "imagenes": [
+   "default_lista"
+  ],
+  "nombre": "Primero los Porte\u00f1os",
+  "nombre_corto": "Primeros.Porte\u00f1os",
+  "numero": "347",
+  "orden_absoluto": [
+   6,
+   6
+  ]
+ },
+ {
+  "asistida": "Movimiento Libres del Sur ",
+  "clase": "Partido",
+  "cod_alianza": null,
+  "codigo": "6",
+  "color": [
+   "#395A94",
+   "#B3372D"
+  ],
+  "id_candidatura": "6",
+  "imagenes": [
+   "6"
+  ],
+  "nombre": "Movimiento Libres del Sur ",
+  "nombre_corto": "Mov.LibresDelSur",
+  "numero": "40",
+  "orden_absoluto": [
+   1
+  ]
+ },
+ {
+  "asistida": "Alternativa Progresista",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": "6",
+  "codigo": "6.8",
+  "color": [
+   "#395A94",
+   "#B3372D"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "6.8",
+  "imagenes": [
+   "default_lista"
+  ],
+  "nombre": "Alternativa Progresista",
+  "nombre_corto": "Alt.Progresista",
+  "numero": "40",
+  "orden_absoluto": [
+   1,
+   1
+  ]
+ },
+ {
+  "asistida": "Pol\u00edtica Obrera ",
+  "clase": "Partido",
+  "cod_alianza": null,
+  "codigo": "7",
+  "color": [
+   "#F4DA40",
+   "#D66756"
+  ],
+  "id_candidatura": "7",
+  "imagenes": [
+   "7"
+  ],
+  "nombre": "Pol\u00edtica Obrera ",
+  "nombre_corto": "Politica.Obrera",
+  "numero": "92",
+  "orden_absoluto": [
+   3
+  ]
+ },
+ {
+  "asistida": "Unidad Obrera",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": "7",
+  "codigo": "7.9",
+  "color": [
+   "#F4DA40",
+   "#D66756"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "7.9",
+  "imagenes": [
+   "default_lista"
+  ],
+  "nombre": "Unidad Obrera",
+  "nombre_corto": "Unidad.Obrera",
+  "numero": "92",
+  "orden_absoluto": [
+   3,
+   3
+  ]
+ },
+ {
+  "asistida": "Republicanos Unidos CABA ",
+  "clase": "Partido",
+  "cod_alianza": null,
+  "codigo": "8",
+  "color": [
+   "#FAE053"
+  ],
+  "id_candidatura": "8",
+  "imagenes": [
+   "8"
+  ],
+  "nombre": "Republicanos Unidos CABA ",
+  "nombre_corto": "RepublicanosUnidos",
+  "numero": "345",
+  "orden_absoluto": [
+   5
+  ]
+ },
+ {
+  "asistida": "Republicanos",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": "8",
+  "codigo": "8.10",
+  "color": [
+   "#FAE053"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "8.10",
+  "imagenes": [
+   "default_lista"
+  ],
+  "nombre": "Republicanos",
+  "nombre_corto": "Republicanos",
+  "numero": "345",
+  "orden_absoluto": [
+   5,
+   5
+  ]
+ },
+ {
+  "asistida": "Frente Patriota Federal ",
+  "clase": "Partido",
+  "cod_alianza": null,
+  "codigo": "9",
+  "color": [
+   "#003DA5"
+  ],
+  "id_candidatura": "9",
+  "imagenes": [
+   "9"
+  ],
+  "nombre": "Frente Patriota Federal ",
+  "nombre_corto": "Frent.Patriota.Fed",
+  "numero": "95",
+  "orden_absoluto": [
+   4
+  ]
+ },
+ {
+  "asistida": "Primero la Patria",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": "9",
+  "codigo": "9.11",
+  "color": [
+   "#003DA5"
+  ],
+  "color_tipografia": null,
+  "id_candidatura": "9.11",
+  "imagenes": [
+   "default_lista"
+  ],
+  "nombre": "Primero la Patria",
+  "nombre_corto": "PrimeroLaPatria",
+  "numero": "95",
+  "orden_absoluto": [
+   4,
+   4
+  ]
+ }
+]

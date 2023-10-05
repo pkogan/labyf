@@ -1,0 +1,1919 @@
+[
+ {
+  "asistida": "GUSTAVO ANDRES SUAREZ",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "1",
+  "codigo": "1.1",
+  "id_candidatura": "1.1",
+  "id_umv": 29,
+  "imagenes": [
+   "1.1"
+  ],
+  "nombre": "GUSTAVO ANDRES SUAREZ",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   1,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "SEBASTI\u00c1N JOS\u00c9 MIGUEL \u00c1VILA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "1",
+  "codigo": "1.2",
+  "id_candidatura": "1.2",
+  "id_umv": 1,
+  "imagenes": [
+   "1.2",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "SEBASTI\u00c1N JOS\u00c9 MIGUEL \u00c1VILA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   1,
+   2,
+   1
+  ],
+  "secundarios": [
+   "CARINA JAQUELINE RODRIGUEZ",
+   "SINNER JULIO JOSE GIANGIORDANO",
+   "OSES ROXANA VALERIA PINILLA",
+   "CLAUDIO ANDR\u00c9S HERMOSILLA",
+   "ROMINA ANAH\u00cd C\u00d3RDOBA",
+   "FERNANDEZ PEDRO JOS\u00c9 VEL\u00c1ZQUEZ"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "EVELYN NICOLE OVIEDO",
+   "DIEGO RODOLFO RIKEMBERG",
+   "NATALIA CECILIA BENEGAS",
+   "TORRES N\u00c9STOR FABI\u00c1N",
+   "LAURA DEL CARMEN QUINTEROS",
+   "TAPIA MESPLATERE RA\u00daL ADRI\u00c1N",
+   "GRACIELA ANAL\u00cdA GIL"
+  ]
+ },
+ {
+  "asistida": "CLAUDIO FABIAN LARRAZA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "10",
+  "codigo": "10.135",
+  "id_candidatura": "10.135",
+  "id_umv": 30,
+  "imagenes": [
+   "10.135"
+  ],
+  "nombre": "CLAUDIO FABIAN LARRAZA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   10,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "DANIEL VIDONDO",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "10",
+  "codigo": "10.136",
+  "id_candidatura": "10.136",
+  "id_umv": 2,
+  "imagenes": [
+   "10.136",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "DANIEL VIDONDO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   10,
+   2,
+   1
+  ],
+  "secundarios": [
+   "LILIANA GORSO",
+   "MAXIMILIANO BARROS",
+   "CECILIA IULIANO",
+   "ALEJANDRO CANCIO",
+   "ANDREA QUERCI",
+   "RUBEN ERNESTO KASRTAN  SEGURA"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "ROXANA SAAVEDRA",
+   "CLAUDIO ALFARO",
+   "FLORENCIA VEGA",
+   "HORACIO RIVERO NIETO",
+   "ERIKA LOPEZ",
+   "MARCELO RIVAS",
+   "ROMINA BASCUR"
+  ]
+ },
+ {
+  "asistida": "CLAUDIO FABIAN LARRAZA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "11",
+  "codigo": "11.150",
+  "id_candidatura": "11.150",
+  "id_umv": 31,
+  "imagenes": [
+   "11.150"
+  ],
+  "nombre": "CLAUDIO FABIAN LARRAZA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   11,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "DOCTOR DANIEL GODOY",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "11",
+  "codigo": "11.151",
+  "id_candidatura": "11.151",
+  "id_umv": 3,
+  "imagenes": [
+   "11.151",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "DOCTOR DANIEL GODOY",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   11,
+   2,
+   1
+  ],
+  "secundarios": [
+   "VERONICA DEL CARMEN SILVA",
+   "RODRIGO EMANUEL CARRASCO",
+   "VANINA ALEJANDRA FERNANDEZ",
+   "\u201cJUANCHY\u201d JUAN CEBALLOS",
+   "ROMINA MARIEL LOPEZ",
+   "CLAUDIO ANDRES OSOVNIKAR"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "SANDRA ELIZABET PAREDES",
+   "DAVID ALEJANDRO BASTIAS",
+   "ABIGAIL DAIANA LUJAN HERNANDEZ",
+   "JOSE OMAR CABESA",
+   "GRACIELA NOEMI CARRASCO",
+   "JONATHAN FEDERICO GOICOCHEA",
+   "CARINA MABEL JEREZ"
+  ]
+ },
+ {
+  "asistida": "CLAUDIO FABIAN LARRAZA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "12",
+  "codigo": "12.165",
+  "id_candidatura": "12.165",
+  "id_umv": 32,
+  "imagenes": [
+   "12.165"
+  ],
+  "nombre": "CLAUDIO FABIAN LARRAZA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   12,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "RUBEN ANGEL BENEGAS",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "12",
+  "codigo": "12.166",
+  "id_candidatura": "12.166",
+  "id_umv": 4,
+  "imagenes": [
+   "12.166",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "RUBEN ANGEL BENEGAS",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   12,
+   2,
+   1
+  ],
+  "secundarios": [
+   "MONICA SUSANA CARRASCO",
+   "JORGE JAVIER GONZALEZ",
+   "ROSA ROMINA MAGALI LA",
+   "MARTIN PINTA",
+   "SILVANA NOEMI SEPULVEDA",
+   "CARLOS ALBERTO SORIA"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "MARIA SOLEDAD VILLAGRA",
+   "MARIANO ANDRES LINCOPAN VILLAGRA",
+   "MIRIAM VANESA GUZMAN",
+   "JOSE ALEJANDRO CERDA",
+   "PAOLA ANDREA SEPULVEDA",
+   "LUIS BAUTISTA MU\u00d1OZ",
+   "MARIA DE LOS ANGELES FUENTE"
+  ]
+ },
+ {
+  "asistida": "FERNANDO DOROSCHENCO",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "13",
+  "codigo": "13.180",
+  "id_candidatura": "13.180",
+  "id_umv": 33,
+  "imagenes": [
+   "13.180"
+  ],
+  "nombre": "FERNANDO DOROSCHENCO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   13,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "MATY ZURITA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "13",
+  "codigo": "13.181",
+  "id_candidatura": "13.181",
+  "id_umv": 5,
+  "imagenes": [
+   "13.181",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "MATY ZURITA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   13,
+   2,
+   1
+  ],
+  "secundarios": [
+   "NATALIA JANET SAE",
+   "SERGIO NICOL\u00c1S STELZER",
+   "YAMILA NOELIA MU\u00d1OZ",
+   "MIGUEL ANGEL MENDEZ",
+   "M\u00d3NICA GRACIELA D\u00cdAZ",
+   "CRISTIAN GAST\u00d3N AREVALO"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "FLORENCIA MICAELA DIAZ",
+   "MAT\u00cdAS NICOL\u00c1S NARAMBUENA",
+   "LUISA CATALINA MELLAO",
+   "VELO EDGAR PATRICIO EIMI",
+   "JESICA GISELA NARAMBUENA",
+   "ENZO OSVALDO DAMI\u00c1N BALDI",
+   "CARLA VENECIA BUSTAMANTE"
+  ]
+ },
+ {
+  "asistida": "ARIEL FACUNDO MU\u00d1OZ",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "14",
+  "codigo": "14.195",
+  "id_candidatura": "14.195",
+  "id_umv": 34,
+  "imagenes": [
+   "14.195"
+  ],
+  "nombre": "ARIEL FACUNDO MU\u00d1OZ",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   14,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "ANALIA YANET CORREA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "14",
+  "codigo": "14.196",
+  "id_candidatura": "14.196",
+  "id_umv": 6,
+  "imagenes": [
+   "14.196",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer"
+  ],
+  "nombre": "ANALIA YANET CORREA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   14,
+   2,
+   1
+  ],
+  "secundarios": [
+   "VAZQUEZ JULIO CESAR ARANDA",
+   "FLORINDA EPULEF",
+   "GUSTAVO ALFREDO CASTILLO",
+   "CINTHYA VANESA DEMIS",
+   "MARCOS DAMIAN TOLEDO",
+   "GRACIELA CRISTINA FLORES"
+  ],
+  "sexo": "F",
+  "suplentes": [
+   "ERNESTO ANTONIO GUAJARDO",
+   "FLAVIA ETEL MI\u00d1ANA",
+   "JARA ENZO MATIAS HERRERA",
+   "DEBORA LUCIANA MARTINEZ",
+   "MARIO CORREA",
+   "MARIA ELISA CARBALLO",
+   "ABEL CELSO SANCHEZ"
+  ]
+ },
+ {
+  "asistida": "CLAUDIO FABIAN LARRAZA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "15",
+  "codigo": "15.210",
+  "id_candidatura": "15.210",
+  "id_umv": 35,
+  "imagenes": [
+   "15.210"
+  ],
+  "nombre": "CLAUDIO FABIAN LARRAZA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   15,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "\u201cCHECHO\u201d PEREZ",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "15",
+  "codigo": "15.211",
+  "id_candidatura": "15.211",
+  "id_umv": 7,
+  "imagenes": [
+   "15.211",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "\u201cCHECHO\u201d PEREZ",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   15,
+   2,
+   1
+  ],
+  "secundarios": [
+   "GILDA ANABEL JARA",
+   "\u201cLUCHO\u201d PUSTERLA",
+   "MARIANA IRENE GARC\u00cdA",
+   "SALAS IGNACIO \u201cNACHO\u201d EMANUEL VAZQUEZ",
+   "GABRIELA PIREN SOTO",
+   "PAOLO ADOLFO CARLOS DI"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "LEXIS MAGDALENA MEDRANO",
+   "DENIS DAMIAN NARAMBUENA",
+   "VANESA MARLENE SEP\u00daLVEDA",
+   "BARROS RICARDO ALBERTO",
+   "MAGDALENA MENDEZ",
+   "MARCOS GABRIEL OMAR ARIAS",
+   "VER\u00d3NICA GABRIELA SALAS"
+  ]
+ },
+ {
+  "asistida": "CLAUDIO FABIAN LARRAZA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "16",
+  "codigo": "16.225",
+  "id_candidatura": "16.225",
+  "id_umv": 36,
+  "imagenes": [
+   "16.225"
+  ],
+  "nombre": "CLAUDIO FABIAN LARRAZA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   16,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "NICO ORELLANO",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "16",
+  "codigo": "16.226",
+  "id_candidatura": "16.226",
+  "id_umv": 8,
+  "imagenes": [
+   "16.226",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "NICO ORELLANO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   16,
+   2,
+   1
+  ],
+  "secundarios": [
+   "SABRINA REY",
+   "MEJIAS JUAN CLARIS",
+   "ANGELA LUCIANA BUSTOS",
+   "MILTON JOSE MAR\u00cdA ANTICURA",
+   "CARINA VANESA RODRIGUEZ",
+   "RODRIGO MAXIMILIANO LIZAMA"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "SILVIA BIBIANA CERDA",
+   "FABI\u00c1N ALEJANDRO L\u00d3PEZ",
+   "MARTA EDITH RIQUELME",
+   "CARLOS ELIO DANIEL BLASCO",
+   "LUCERO MELINA NOEMI",
+   "ANTONELA GISEL GARRIDO",
+   "DANA RAYEN REYES"
+  ]
+ },
+ {
+  "asistida": "GUSTAVO ANDRES SUAREZ",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "17",
+  "codigo": "17.240",
+  "id_candidatura": "17.240",
+  "id_umv": 37,
+  "imagenes": [
+   "17.240"
+  ],
+  "nombre": "GUSTAVO ANDRES SUAREZ",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   17,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "BRUNO CEFERINO PORCO",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "17",
+  "codigo": "17.241",
+  "id_candidatura": "17.241",
+  "id_umv": 9,
+  "imagenes": [
+   "17.241",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "BRUNO CEFERINO PORCO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   17,
+   2,
+   1
+  ],
+  "secundarios": [
+   "IVANA NATALIA SOBARZO",
+   "SERGIO GUSTAVO MORALES",
+   "LAURA CECILIA GONZ\u00c1LEZ",
+   "OMAR RICARDO GARRIDO",
+   "ANGELA ELENA PORCO",
+   "DANIEL EMILCEN L\u00d3PEZ"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "LORENA NATALIA SEP\u00daLVEDA",
+   "LINCO TEODORO CRIST\u00d3BAL CATAL\u00c1N",
+   "MARINA YANET HERRERA",
+   "OSCAR ALEJANDRO QUILODRAN",
+   "DANIELA VANESA VILLARREAL",
+   "GUSTAVO DANIEL BECERRA",
+   "LAURA ITAT\u00cd TAPIA"
+  ]
+ },
+ {
+  "asistida": "GUSTAVO ANDRES SUAREZ",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "18",
+  "codigo": "18.255",
+  "id_candidatura": "18.255",
+  "id_umv": 38,
+  "imagenes": [
+   "18.255"
+  ],
+  "nombre": "GUSTAVO ANDRES SUAREZ",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   18,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "CLAUDIO HORACIO ALONSO",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "18",
+  "codigo": "18.256",
+  "id_candidatura": "18.256",
+  "id_umv": 10,
+  "imagenes": [
+   "18.256",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "CLAUDIO HORACIO ALONSO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   18,
+   2,
+   1
+  ],
+  "secundarios": [
+   "ROSAURA MARIALENA TOLOSA",
+   "GUILLERMO ADRIAN CORREA",
+   "BARBARA EDITH CARDENAS",
+   "JUAN PABLO RODRIGUEZ",
+   "EUGENIA ROCIO ZACARIAS",
+   "DAMIAN NICOLAS D\u2019ANTONIO"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "ROSA AMALIA BRAVO",
+   "ANDRES ANTONIO VERON",
+   "ACEVEDO HORACIO OMAR",
+   "NADIA DAIANA TORRES",
+   "LUCIANO NICOLAS RODRIGUEZ",
+   "VALERIA ELIZABETH BASUALTO"
+  ]
+ },
+ {
+  "asistida": "GUSTAVO ANDRES SUAREZ",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "19",
+  "codigo": "19.269",
+  "id_candidatura": "19.269",
+  "id_umv": 39,
+  "imagenes": [
+   "19.269"
+  ],
+  "nombre": "GUSTAVO ANDRES SUAREZ",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   19,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "ARIEL SANTOS VEGA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "19",
+  "codigo": "19.270",
+  "id_candidatura": "19.270",
+  "id_umv": 11,
+  "imagenes": [
+   "19.270",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "ARIEL SANTOS VEGA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   19,
+   2,
+   1
+  ],
+  "secundarios": [
+   "CAREN MACARENA CERDA",
+   "JUAN MARIANO CASAS",
+   "MAR\u00cdA CRISTINA AGUILERA",
+   "LEANDRO GAST\u00d3N TORRES",
+   "MARIA CELESTE BRAVO",
+   "MARIO SEGUNDO ROZAS"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "NADIA SABRINA PIZARRO",
+   "LUCAS JAVIER CARRASCO",
+   "ANAHI SILVANA PEREZ",
+   "LAPADU WALTER GABRIEL",
+   "NIDIA VERONICA ROMERO",
+   "FELIPE SANTIAGO ACU\u00d1A",
+   "PAOLA MAGALI FUENTES"
+  ]
+ },
+ {
+  "asistida": "CLAUDIO FABIAN LARRAZA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "2",
+  "codigo": "2.16",
+  "id_candidatura": "2.16",
+  "id_umv": 40,
+  "imagenes": [
+   "2.16"
+  ],
+  "nombre": "CLAUDIO FABIAN LARRAZA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   2,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "ANDR\u00c9S \u201cCAPOCHA\u201d MARTINEZ",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "2",
+  "codigo": "2.17",
+  "id_candidatura": "2.17",
+  "id_umv": 12,
+  "imagenes": [
+   "2.17",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "ANDR\u00c9S \u201cCAPOCHA\u201d MARTINEZ",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   2,
+   2,
+   1
+  ],
+  "secundarios": [
+   "MARTINA QUIROGA",
+   "CRISTIAN RA\u00daL ASTIGARRAGA",
+   "MAR\u00cdA DANIELA PORRO",
+   "PABLO FABI\u00c1N MOYANO",
+   "IVANA IRENE G\u00d3MEZ",
+   "JOS\u00c9 LUIS PORRO"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "ELENA LLANCAQUEO",
+   "PICERO FELIPE ABRAHAM GREIG",
+   "LIDIA MABEL MARTINEZ",
+   "ASTIGARRAGA FACUNDO RA\u00daL",
+   "ERIKA BEATRIZ CABEZA",
+   "GERMAN MARTINEZ",
+   "MAR\u00cdA SOLEDAD PORRO"
+  ]
+ },
+ {
+  "asistida": "GUSTAVO ANDRES SUAREZ",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "20",
+  "codigo": "20.284",
+  "id_candidatura": "20.284",
+  "id_umv": 41,
+  "imagenes": [
+   "20.284"
+  ],
+  "nombre": "GUSTAVO ANDRES SUAREZ",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   20,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "GUILLERMO C\u00c9SAR PEREZ",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "20",
+  "codigo": "20.285",
+  "id_candidatura": "20.285",
+  "id_umv": 13,
+  "imagenes": [
+   "20.285",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "GUILLERMO C\u00c9SAR PEREZ",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   20,
+   2,
+   1
+  ],
+  "secundarios": [
+   "MARTHA ELENA PINO",
+   "CARLOS MARCELO PONCE",
+   "PAULA MARLEN MARTINEZ",
+   "JORGE JAVIER SAMPO\u00d1A",
+   "DEBORA ABIGAIL SEP\u00daLVEDA",
+   "CLAUDIO FABRICIO DIAZ"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "BLANCA ELIZABET DUMIGUAL",
+   "DANIEL EDUARDO LUCA",
+   "MARISOL ESTHER VAZQUEZ",
+   "BAZAN GALLEGOS MARCOS JULIO OSCAR",
+   "AGUSTINA FLORENCIA GONZ\u00c1LEZ",
+   "SEP\u00daLVEDA DIONICIO",
+   "MAR\u00cdA DE LOS \u00c1NGELES CARRASCO"
+  ]
+ },
+ {
+  "asistida": "FERNANDO DOROSCHENCO",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "21",
+  "codigo": "21.299",
+  "id_candidatura": "21.299",
+  "id_umv": 42,
+  "imagenes": [
+   "21.299"
+  ],
+  "nombre": "FERNANDO DOROSCHENCO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   21,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "AMADEO CARRIZO",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "21",
+  "codigo": "21.300",
+  "id_candidatura": "21.300",
+  "id_umv": 14,
+  "imagenes": [
+   "21.300",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "AMADEO CARRIZO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   21,
+   2,
+   1
+  ],
+  "secundarios": [
+   "TELMA GISEL ZARATE",
+   "JULIO ADOLFO LOPEZ",
+   "ENA EDITH BURGOS",
+   "MANUEL LAUTARO FUENTES",
+   "ESTEFANIA DEBORA MU\u00d1OZ",
+   "PEDRO CESAR SEPULVEDA"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "SILVIA LILIANA GONZALEZ",
+   "VICTOR ESTEBAN DE VEGA",
+   "ANAHI AYELEN ZARATE",
+   "SANTANDER CEFERINO ELIO",
+   "ROCIO NATHALIA SANDOVAL",
+   "JORGE HUMBERTO GARRIDO",
+   "JOHANA AYELEN BASTIAS"
+  ]
+ },
+ {
+  "asistida": "CLAUDIO FABIAN LARRAZA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "22",
+  "codigo": "22.314",
+  "id_candidatura": "22.314",
+  "id_umv": 43,
+  "imagenes": [
+   "22.314"
+  ],
+  "nombre": "CLAUDIO FABIAN LARRAZA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   22,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "NELSON DAMI\u00c1N ALVAREZ",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "22",
+  "codigo": "22.315",
+  "id_candidatura": "22.315",
+  "id_umv": 15,
+  "imagenes": [
+   "22.315",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "NELSON DAMI\u00c1N ALVAREZ",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   22,
+   2,
+   1
+  ],
+  "secundarios": [
+   "VIVIANA ALEJANDRA CASADO",
+   "JOS\u00c9 LUIS VALDIVIA",
+   "ERICA PAOLA SEPULVEDA",
+   "GERARDO ROQUE CLEMENTE",
+   "MAR\u00cdA BEL\u00c9N BUSTAMANTE",
+   "JOS\u00c9 LUIS L\u00d3PEZ"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "MARTA ELIZABETH BAIGORRIA",
+   "ROQUE WALTER ALARCON",
+   "GLADYS ESTER VILLEGAS",
+   "JOS\u00c9 DAVID CARRIZO FERRAO",
+   "ROBERTO EZEQUIEL VALLEJOS",
+   "MICAELA ANTONELLA OLEA",
+   "NORMA SEPULVEDA"
+  ]
+ },
+ {
+  "asistida": "GUSTAVO ANDRES SUAREZ",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "23",
+  "codigo": "23.329",
+  "id_candidatura": "23.329",
+  "id_umv": 44,
+  "imagenes": [
+   "23.329"
+  ],
+  "nombre": "GUSTAVO ANDRES SUAREZ",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   23,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "GRACIELA \u201cPINKY\u201d SAMBUEZA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "23",
+  "codigo": "23.330",
+  "id_candidatura": "23.330",
+  "id_umv": 16,
+  "imagenes": [
+   "23.330",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer"
+  ],
+  "nombre": "GRACIELA \u201cPINKY\u201d SAMBUEZA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   23,
+   2,
+   1
+  ],
+  "secundarios": [
+   "JUAN GUILLERMO MENDEZ",
+   "LILIANA BETINA YA\u00d1EZ",
+   "MARCELO FABIAN ACU\u00d1A",
+   "GABRIELA INES PINTA",
+   "MATIAS EZEQUIEL CAMPOS",
+   "JENIFER CAROLINA ARAVENA"
+  ],
+  "sexo": "F",
+  "suplentes": [
+   "ROSMERI FERNANDA FERRAGUT",
+   "JORGE JAVIER CAMPOS",
+   "CELIA ISABEL SOTO",
+   "DI MAURO LUIS MARTIN",
+   "MARIA CELESTE MENDOZA",
+   "DAVID ADRIAN VALENZUELA",
+   "ANDREA ANABEL SEPULVEDA"
+  ]
+ },
+ {
+  "asistida": "GUSTAVO ANDRES SUAREZ",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "24",
+  "codigo": "24.344",
+  "id_candidatura": "24.344",
+  "id_umv": 45,
+  "imagenes": [
+   "24.344"
+  ],
+  "nombre": "GUSTAVO ANDRES SUAREZ",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   24,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "HERRERA MATIAS DAVID VAZQUEZ",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "24",
+  "codigo": "24.345",
+  "id_candidatura": "24.345",
+  "id_umv": 17,
+  "imagenes": [
+   "24.345",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "HERRERA MATIAS DAVID VAZQUEZ",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   24,
+   2,
+   1
+  ],
+  "secundarios": [
+   "MARIA DEL CARMEN BARROS",
+   "LUCAS RODRIGO ALEXIS CROCHE",
+   "VERONICA GARRIDO",
+   "ALEXIS JORGE EDUARDO RIQUELME",
+   "MARIA CELESTE TOSSETTO",
+   "JULIAN ADRIAN GENDANA BENEDETTI"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "SANDRA GISEL LOPEZ",
+   "JUAN JOSE DZIADETH",
+   "SANTA FRANCISCA PEREZ",
+   "GUSTAVO AMADOR REYES",
+   "MELISA ANTONELLA HERRERA",
+   "ARIEL FERNANDO ALIZONDO",
+   "AILIN VANUFFELEN MU\u00d1OZ"
+  ]
+ },
+ {
+  "asistida": "GUSTAVO ANDRES SUAREZ",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "25",
+  "codigo": "25.359",
+  "id_candidatura": "25.359",
+  "id_umv": 46,
+  "imagenes": [
+   "25.359"
+  ],
+  "nombre": "GUSTAVO ANDRES SUAREZ",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   25,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "MAR\u00cdA AYEL\u00c9N VIDELA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "25",
+  "codigo": "25.360",
+  "id_candidatura": "25.360",
+  "id_umv": 18,
+  "imagenes": [
+   "25.360",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer"
+  ],
+  "nombre": "MAR\u00cdA AYEL\u00c9N VIDELA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   25,
+   2,
+   1
+  ],
+  "secundarios": [
+   "\u201cCARNI\u201d SERGIO ANDR\u00c9S ALVAREZ",
+   "MAIRA GISEL SOTO",
+   "PEDRO ANGEL ALGARTE",
+   "AYELEN EDITH ROJAS",
+   "DIEGO SEBASTI\u00c1N MONTT",
+   "NORA MIRTA PAREDES"
+  ],
+  "sexo": "F",
+  "suplentes": [
+   "ROBERTO ALFREDO VIDELA SCHNEIDER",
+   "GISEL NAIR BARROS",
+   "EZEQUIEL DAMI\u00c1N AMICO",
+   "MIRTA BEATRIZ SINNER",
+   "EXEQUIEL MARCELO ALEJANDRO GARRIDO",
+   "MARIANELA GISELLE REYES",
+   "PABLO HERN\u00c1N PORRO"
+  ]
+ },
+ {
+  "asistida": "CLAUDIO FABIAN LARRAZA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "3",
+  "codigo": "3.31",
+  "id_candidatura": "3.31",
+  "id_umv": 47,
+  "imagenes": [
+   "3.31"
+  ],
+  "nombre": "CLAUDIO FABIAN LARRAZA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   3,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "RAMON ANTONIO LECARO",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "3",
+  "codigo": "3.32",
+  "id_candidatura": "3.32",
+  "id_umv": 19,
+  "imagenes": [
+   "3.32",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "RAMON ANTONIO LECARO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   3,
+   2,
+   1
+  ],
+  "secundarios": [
+   "MARQUIOLI MIRNA ANALIA CARDOSO",
+   "CARLOS ELIAS MATZKIN",
+   "IVANA DANIELA SMIRNOFF",
+   "ALEN MISAHEL CAMARGO",
+   "DANIELA EVELIN ESCOBAR",
+   "PABLO HECTOR SOTO"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "TAMARA MARLEN GARCIA",
+   "VILO NAHUEL ALEJANDRO NOVOA",
+   "MARIANELA CANTILLANA",
+   "ESCALONA MARTIN LUIS",
+   "FLORENCIA SOLEDAD COFRE",
+   "RAMON RAUL RAMIREZ",
+   "CELESTE GISELLE LIZAMA"
+  ]
+ },
+ {
+  "asistida": "CLAUDIO FABIAN LARRAZA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "4",
+  "codigo": "4.46",
+  "id_candidatura": "4.46",
+  "id_umv": 48,
+  "imagenes": [
+   "4.46"
+  ],
+  "nombre": "CLAUDIO FABIAN LARRAZA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   4,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "\u201cANITA\u201d SEPULVEDA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "4",
+  "codigo": "4.47",
+  "id_candidatura": "4.47",
+  "id_umv": 20,
+  "imagenes": [
+   "4.47",
+   "4.48",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer"
+  ],
+  "nombre": "\u201cANITA\u201d SEPULVEDA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   4,
+   2,
+   1
+  ],
+  "secundarios": [
+   "NICOL\u00c1S ORELLANA",
+   "NADIA FONSECA",
+   "DIEGO ALESSI",
+   "MONICA LABADIE",
+   "WALTER RODRIGUEZ",
+   "FEDRA EJEA"
+  ],
+  "sexo": "F",
+  "suplentes": [
+   "JUAN MANUEL PINCHEIRA",
+   "MARIANA BRAVO",
+   "RA\u00daL \u201cRUSO\u201d DUVAL",
+   "MARIA BEL\u00c9N VILLAFA\u00d1E",
+   "LEO CASTILLO",
+   "JOHANA MOLINA",
+   "JAVIER TAPIA"
+  ]
+ },
+ {
+  "asistida": "CLAUDIO FABIAN LARRAZA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "5",
+  "codigo": "5.61",
+  "id_candidatura": "5.61",
+  "id_umv": 49,
+  "imagenes": [
+   "5.61"
+  ],
+  "nombre": "CLAUDIO FABIAN LARRAZA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   5,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "VERONICA VIVIANA CASTA\u00d1O",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "5",
+  "codigo": "5.62",
+  "id_candidatura": "5.62",
+  "id_umv": 21,
+  "imagenes": [
+   "5.62",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer"
+  ],
+  "nombre": "VERONICA VIVIANA CASTA\u00d1O",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   5,
+   2,
+   1
+  ],
+  "secundarios": [
+   "GUSTAVO GABRIEL CIUCCI",
+   "MAYRA JUDITH ZU\u00d1IGA",
+   "LA IGLESIA JOS\u00c9 ROBERTO DE",
+   "CLAUDIA MARCELA SOTO",
+   "NORBERTO OSCAR LANZONI",
+   "CARINA VANINA HERN\u00c1NDEZ"
+  ],
+  "sexo": "F",
+  "suplentes": [
+   "CLAUDIO ALEJANDRO GONZ\u00c1LEZ",
+   "VERONICA NOELIA BOGNANI",
+   "CRISTIAN DANIEL VIDART",
+   "SAEZ ELISA EDITH",
+   "L\u00d3PEZ DAIANA EVELIN",
+   "GOMEZ CLAUDIO MAURICIO LEIVA",
+   "GUTIERREZ BRAIAN ABEL ANTINAO"
+  ]
+ },
+ {
+  "asistida": "DANIEL J.G VECE",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "6",
+  "codigo": "6.76",
+  "id_candidatura": "6.76",
+  "id_umv": 50,
+  "imagenes": [
+   "6.76"
+  ],
+  "nombre": "DANIEL J.G VECE",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   6,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "FERNANDO TORRES",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "6",
+  "codigo": "6.77",
+  "id_candidatura": "6.77",
+  "id_umv": 22,
+  "imagenes": [
+   "6.77",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default_mujer",
+   "default",
+   "default_mujer"
+  ],
+  "nombre": "FERNANDO TORRES",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   6,
+   2,
+   1
+  ],
+  "secundarios": [
+   "MARTHA PINILLA",
+   "GASTON MARIN",
+   "MARIANA BOLLAR",
+   "IRINA FERNANDEZ BORELLI",
+   "EDUARDO SEGURA",
+   "CINTHIA ZAROSO"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "MIGUEL SARMIENTO",
+   "ALDANA GALLO",
+   "JUAN ELOY LAZ TOLOSA",
+   "MARCELA TERRREMERE",
+   "ENRIQUE CHANDIA",
+   "SANDRA SALDIVIA BLANCO"
+  ]
+ },
+ {
+  "asistida": "GUSTAVO ANDRES SUAREZ",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "7",
+  "codigo": "7.90",
+  "id_candidatura": "7.90",
+  "id_umv": 51,
+  "imagenes": [
+   "7.90"
+  ],
+  "nombre": "GUSTAVO ANDRES SUAREZ",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   7,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "MARGA YANET YUNES",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "7",
+  "codigo": "7.91",
+  "id_candidatura": "7.91",
+  "id_umv": 23,
+  "imagenes": [
+   "7.91",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer"
+  ],
+  "nombre": "MARGA YANET YUNES",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   7,
+   2,
+   1
+  ],
+  "secundarios": [
+   "WALTER RAFAEL CHEQUEL",
+   "MARIA ANAH\u00cd BOBADILLA",
+   "DANIEL ANDRES MARIFIL",
+   "\u201cNOLAN\u201d ARGENTINA RAYEL",
+   "FRANCO ANDRES RIOS",
+   "GABRIELA CECILIA TRONCOSO"
+  ],
+  "sexo": "F",
+  "suplentes": [
+   "ARIEL ALEJANDRO YA\u00d1EZ",
+   "MARGARITA ALICIA SILVA",
+   "ERNESTO ANTONIO MOISES KASRTAN",
+   "DIAZ PATRICIA VERONICA",
+   "JOSE MARIO RAUL ACU\u00d1A",
+   "MARIANA ELIZABETH \u201cMARYAN LOVE\u201d ELIZONDO",
+   "FRANCISCO POBLETE"
+  ]
+ },
+ {
+  "asistida": "CLAUDIO FABIAN LARRAZA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "8",
+  "codigo": "8.105",
+  "id_candidatura": "8.105",
+  "id_umv": 52,
+  "imagenes": [
+   "8.105"
+  ],
+  "nombre": "CLAUDIO FABIAN LARRAZA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   8,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "MIGUEL ANTONIO TELMO",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "8",
+  "codigo": "8.106",
+  "id_candidatura": "8.106",
+  "id_umv": 24,
+  "imagenes": [
+   "8.106",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "MIGUEL ANTONIO TELMO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   8,
+   2,
+   1
+  ],
+  "secundarios": [
+   "ZULMA EDITH PAINEMILLA",
+   "CLAUDIO MARCELO BURGOS",
+   "ELENA MIRIAM CARRASCO",
+   "MONACHESI GAST\u00d3N JULIO TAPIA",
+   "NORMA MABEL ANDR\u00c9S",
+   "FRANCO V\u00c1ZQUEZ"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "PAREDES DEBORA MARILINA GALLARDO",
+   "CARLOS GABRIEL OLIVERA",
+   "CECILIA GADALUPE REYES",
+   "RODRIGUEZ GEREMIAS EZEQUIEL",
+   "PATRICIA ROXANA ELIZABETH COFRE",
+   "ANA CECILIA MONACHESI",
+   "MARISA BEATRIZ RIKEMBERG"
+  ]
+ },
+ {
+  "asistida": "CLAUDIO FABIAN LARRAZA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "INT",
+  "cod_lista": "9",
+  "codigo": "9.120",
+  "id_candidatura": "9.120",
+  "id_umv": 53,
+  "imagenes": [
+   "9.120"
+  ],
+  "nombre": "CLAUDIO FABIAN LARRAZA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   9,
+   1,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "LUIS \u201cLUISITO\u201d VAZQUEZ",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "CNJ",
+  "cod_lista": "9",
+  "codigo": "9.121",
+  "id_candidatura": "9.121",
+  "id_umv": 25,
+  "imagenes": [
+   "9.121",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "LUIS \u201cLUISITO\u201d VAZQUEZ",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   9,
+   2,
+   1
+  ],
+  "secundarios": [
+   "PATRICIA CARINA ESPINOZA",
+   "FICA JOSE ARTURO CA\u00d1UMIL",
+   "PINO ROSA ORLINDA SOTO",
+   "ROBERTO FERNANDO JAVIER GUTIERREZ",
+   "AYELEN DEL CARMEN CAMPOS",
+   "SALGADO JOSE ELIAS VARGAS"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "YANET GABRIELA SANCHEZ",
+   "SONIA MARIELA MARTINEZ",
+   "MARIO ALBERTO ESCOBAR",
+   "DIAZ YAMILA MICAELA",
+   "HECTOR MARCELO MOLINA",
+   "EXEQUIEL MANUEL ANGEL BARROS",
+   "AMALIA DOMITILA PARDO"
+  ]
+ },
+ {
+  "asistida": "Voto en Blanco",
+  "cargo_ejecutivo": false,
+  "clase": "Blanco",
+  "cod_categoria": "CNJ",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 26,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en Blanco",
+  "nro_orden": 2,
+  "orden_absoluto": [
+   994,
+   2
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Voto en Blanco",
+  "cargo_ejecutivo": false,
+  "clase": "Blanco",
+  "cod_categoria": "INT",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 54,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en Blanco",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   994,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos Impugnados",
+  "cargo_ejecutivo": false,
+  "clase": "Especial",
+  "cod_categoria": "CNJ",
+  "cod_lista": "",
+  "codigo": "IMP",
+  "id_candidatura": "IMP",
+  "id_umv": 27,
+  "nombre": "Votos Impugnados",
+  "nro_orden": 2,
+  "orden_absoluto": [
+   997,
+   2
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos Impugnados",
+  "cargo_ejecutivo": false,
+  "clase": "Especial",
+  "cod_categoria": "INT",
+  "cod_lista": "",
+  "codigo": "IMP",
+  "id_candidatura": "IMP",
+  "id_umv": 55,
+  "nombre": "Votos Impugnados",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   997,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Total Observados",
+  "cargo_ejecutivo": false,
+  "clase": "Especial",
+  "cod_categoria": "CNJ",
+  "cod_lista": "",
+  "codigo": "OBS",
+  "id_candidatura": "OBS",
+  "id_umv": 28,
+  "nombre": "Total Observados",
+  "nro_orden": 2,
+  "orden_absoluto": [
+   998,
+   2
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Total Observados",
+  "cargo_ejecutivo": false,
+  "clase": "Especial",
+  "cod_categoria": "INT",
+  "cod_lista": "",
+  "codigo": "OBS",
+  "id_candidatura": "OBS",
+  "id_umv": 56,
+  "nombre": "Total Observados",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   998,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ }
+]

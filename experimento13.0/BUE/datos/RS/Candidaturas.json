@@ -1,0 +1,451 @@
+[
+ {
+  "asistida": "JAVIER GERARDO MILEI",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "PRES",
+  "cod_lista": "135",
+  "codigo": "135.1",
+  "id_candidatura": "135.1",
+  "id_umv": 13,
+  "imagenes": [
+   "135.1"
+  ],
+  "nombre": "JAVIER GERARDO MILEI",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   4,
+   1,
+   1
+  ],
+  "secundarios": [
+    "VICTORIA VILLARRUEL"
+  ],
+  "sexo": "F",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "NADIA JUDITH MÁRQUEZ",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "DIP",
+  "cod_lista": "135",
+  "codigo": "135.2",
+  "id_candidatura": "135.2",
+  "id_umv": 1,
+  "imagenes": [
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "NADIA JUDITH MÁRQUEZ",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   4,
+   2,
+   1
+  ],
+  "secundarios": [
+   "MARTIN PEDEMONTE"
+  ],
+  "sexo": "M",
+  "suplentes": [
+    "GABRIELA LUCIANA MABEL MUÑOZ",
+    "GABRIEL ALEJANDRO GOMEZ"
+  ]
+ },
+ {
+  "asistida": "SERGIO TOMAS MASSA",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "PRES",
+  "cod_lista": "134",
+  "codigo": "134.1",
+  "id_candidatura": "134.1",
+  "id_umv": 14,
+  "imagenes": [
+   "134.1"
+  ],
+  "nombre": "SERGIO TOMAS MASSA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   5,
+   1,
+   1
+  ],
+  "secundarios": ["AGUSTIN ROSSI"
+
+  ],
+  "sexo": "F",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "PABLO TODERO",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "DIP",
+  "cod_lista": "134",
+  "codigo": "134.106",
+  "id_candidatura": "134.106",
+  "id_umv": 2,
+  "imagenes": [
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "PABLO TODERO",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   5,
+   2,
+   1
+  ],
+  "secundarios": [
+   "VANE VIVERO"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "CHULE LINARES",
+   "ALEJANDRO BARRAGAN"
+  ]
+ },
+ {
+  "asistida": "PATRICIA BULLRICH",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "PRES",
+  "cod_lista": "132",
+  "codigo": "132.1",
+  "id_candidatura": "132.1",
+  "id_umv": 15,
+  "imagenes": [
+   "132.1"
+  ],
+  "nombre": "PATRICIA BULLRICH",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   6,
+   1,
+   1
+  ],
+  "secundarios": ["LUIS PETRI"
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "FRANCISCO SANCHEZ",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "DIP",
+  "cod_lista": "132",
+  "codigo": "132.61",
+  "id_candidatura": "132.61",
+  "id_umv": 3,
+  "imagenes": [
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "FRANCISCO SANCHEZ",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   6,
+   2,
+   1
+  ],
+  "secundarios": [
+   "MONIN AQUIN"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "DAVID PABLO SCHLERETH",
+"VANESA SILVANA VALDES"
+  ]
+ },
+ {
+  "asistida": "MYRIAM TERESA BREGMAN",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "PRES",
+  "cod_lista": "136",
+  "codigo": "136.1",
+  "id_candidatura": "136.1",
+  "id_umv": 16,
+  "imagenes": [
+   "136.1"
+  ],
+  "nombre": "MYRIAM TERESA BREGMAN",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   1,
+   1,
+   1
+  ],
+  "secundarios": ["NICOLAS DEL CAÑO"
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "ANGELICA LAGUNAS",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "DIP",
+  "cod_lista": "136",
+  "codigo": "136.76",
+  "id_candidatura": "136.76",
+  "id_umv": 4,
+  "imagenes": [
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "ANGELICA LAGUNAS",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   1,
+   2,
+   1
+  ],
+  "secundarios": [
+"ESTEBAN MARTINE"
+  ],
+  "sexo": "M",
+  "suplentes": [
+    "PATRICIA  JURE",
+    "FRANCO VERGARA"
+    
+  ]
+ },
+ {
+  "asistida": "JUAN SCHIARETTI",
+  "cargo_ejecutivo": true,
+  "clase": "Candidato",
+  "cod_categoria": "PRES",
+  "cod_lista": "133",
+  "codigo": "133.1",
+  "id_candidatura": "133.1",
+  "id_umv": 17,
+  "imagenes": [
+   "133.1"
+  ],
+  "nombre": "JUAN SCHIARETTI",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   2,
+   1,
+   1
+  ],
+  "secundarios": ["ANIBAL FLORENCIO RANDAZZO"
+
+  ],
+  "sexo": "M",
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "SANDRO BADILLA",
+  "cargo_ejecutivo": false,
+  "clase": "Candidato",
+  "cod_categoria": "DIP",
+  "cod_lista": "151",
+  "codigo": "151.91",
+  "id_candidatura": "151.91",
+  "id_umv": 5,
+  "imagenes": [
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default",
+   "default_mujer",
+   "default"
+  ],
+  "nombre": "SANDRO BADILLA",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   2,
+   2,
+   1
+  ],
+  "secundarios": [
+   "LILIANA MURISI"
+  ],
+  "sexo": "M",
+  "suplentes": [
+   "MARTIN GONZALEZ",
+   "CECI DIORIO"
+  ]
+ },
+ {
+    "asistida": "Voto en Blanco",
+    "cargo_ejecutivo": true,
+    "clase": "Blanco",
+    "cod_categoria": "DIP",
+    "cod_lista": "",
+    "codigo": "BLC",
+    "id_candidatura": "BLC",
+    "id_umv": 10,
+    "imagenes": [
+     "BLC"
+    ],
+    "nombre": "Voto en Blanco",
+    "nro_orden": 1,
+    "orden_absoluto": [
+     994,
+     1
+    ],
+    "secundarios": [
+  
+    ],
+    "sexo": null,
+    "suplentes": [
+  
+    ]
+   },
+
+
+ {
+  "asistida": "Voto en Blanco",
+  "cargo_ejecutivo": true,
+  "clase": "Blanco",
+  "cod_categoria": "PRES",
+  "cod_lista": "",
+  "codigo": "BLC",
+  "id_candidatura": "BLC",
+  "id_umv": 22,
+  "imagenes": [
+   "BLC"
+  ],
+  "nombre": "Voto en Blanco",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   994,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos Impugnados",
+  "cargo_ejecutivo": false,
+  "clase": "Especial",
+  "cod_categoria": "DIP",
+  "cod_lista": "",
+  "codigo": "IMP",
+  "id_candidatura": "IMP",
+  "id_umv": 11,
+  "nombre": "Votos Impugnados",
+  "nro_orden": 2,
+  "orden_absoluto": [
+   997,
+   2
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Votos Impugnados",
+  "cargo_ejecutivo": true,
+  "clase": "Especial",
+  "cod_categoria": "PRES",
+  "cod_lista": "",
+  "codigo": "IMP",
+  "id_candidatura": "IMP",
+  "id_umv": 23,
+  "nombre": "Votos Impugnados",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   997,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Total Observados",
+  "cargo_ejecutivo": false,
+  "clase": "Especial",
+  "cod_categoria": "DIP",
+  "cod_lista": "",
+  "codigo": "OBS",
+  "id_candidatura": "OBS",
+  "id_umv": 12,
+  "nombre": "Total Observados",
+  "nro_orden": 2,
+  "orden_absoluto": [
+   998,
+   2
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ },
+ {
+  "asistida": "Total Observados",
+  "cargo_ejecutivo": true,
+  "clase": "Especial",
+  "cod_categoria": "PRES",
+  "cod_lista": "",
+  "codigo": "OBS",
+  "id_candidatura": "OBS",
+  "id_umv": 24,
+  "nombre": "Total Observados",
+  "nro_orden": 1,
+  "orden_absoluto": [
+   998,
+   1
+  ],
+  "secundarios": [
+
+  ],
+  "sexo": null,
+  "suplentes": [
+
+  ]
+ }
+]

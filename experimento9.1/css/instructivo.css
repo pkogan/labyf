@@ -1,0 +1,354 @@
+/* VARIABLES */
+.gradiente-gris {
+  background: #feffff;
+  background: -moz-linear-gradient(top, #feffff 0%, #ddf1f9 50%, #a0d8ef 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #feffff), color-stop(50%, #ddf1f9), color-stop(100%, #a0d8ef));
+  background: -webkit-linear-gradient(top, #feffff 0%, #ddf1f9 50%, #a0d8ef 100%);
+  background: -o-linear-gradient(top, #feffff 0%, #ddf1f9 50%, #a0d8ef 100%);
+  background: -ms-linear-gradient(top, #feffff 0%, #ddf1f9 50%, #a0d8ef 100%);
+  background: linear-gradient(to bottom, #feffff 0%, #ddf1f9 50%, #a0d8ef 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#feffff', endColorstr='#a0d8ef', GradientType=0);
+}
+body {
+  background-color: #F2F2F2;
+  color: #000;
+}
+input[type=checkbox] {
+  margin: 0;
+}
+.navbar-brand {
+  background-image: url(../img/header.png);
+  background-size: 2.8rem;
+  background-repeat: no-repeat;
+  height: 69px;
+  padding: 0px;
+  padding-left: 75px;
+  font-size: 32px;
+  font-weight: bold;
+  color: #999;
+  line-height: 1em;
+}
+.navbar-brand span {
+  font-size: 16px;
+  font-weight: normal;
+}
+#ayuda {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+}
+#ayuda #contenedor-ayuda {
+  margin-top: 50px;
+}
+#ayuda #contenedor-ayuda #ubicaciones button,
+#ayuda #contenedor-ayuda #seleccionar_ubicaciones button {
+  display: none;
+}
+#ayuda #contenedor-ayuda #ubicaciones .departamentos,
+#ayuda #contenedor-ayuda #seleccionar_ubicaciones .departamentos {
+  text-align: center;
+  margin-top: 30px;
+  list-style: none;
+}
+#ayuda #contenedor-ayuda #ubicaciones .departamentos li,
+#ayuda #contenedor-ayuda #seleccionar_ubicaciones .departamentos li {
+  cursor: pointer;
+  overflow: hidden;
+  width: 426px;
+  margin-right: 46px;
+  margin-bottom: 27px;
+}
+#ayuda button:hover {
+  cursor: pointer;
+}
+#ayuda #escudo {
+  display: inline-block;
+}
+#ayuda .texto-tribunal {
+  text-align: right;
+}
+#ayuda .tribunal {
+  display: inline-block;
+  font-size: 0.9em;
+  color: #888;
+}
+#ayuda .paso {
+  text-align: center;
+  margin-top: 50px;
+}
+#ayuda .paso h1 {
+  margin: 40px auto;
+  color: #000;
+  font-size: 1.8em;
+  text-align: center;
+}
+#ayuda #paso-3 button.next {
+  margin-left: 45px;
+}
+#ayuda .simulador {
+  font-size: 0.9em;
+  display: inline-block;
+  color: #999;
+  margin-top: 23px;
+}
+#ayuda h2 {
+  font-size: 1.6em;
+  color: #000;
+  width: 50%;
+  margin-top: 3%;
+  line-height: 1.3em;
+}
+#ayuda .grafico {
+  margin: 0 auto;
+  -webkit-filter: drop-shadow(5px 5px 7px rgba(0, 0, 0, 0.3));
+  filter: drop-shadow(5px 5px 7px rgba(0, 0, 0, 0.3));
+  -ms-filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=5, OffY=5, Color='#444')";
+  filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=5, OffY=5, Color='#444')";
+}
+#ayuda button {
+  margin-top: 30px;
+  height: 60px;
+  width: 170px;
+  margin-left: 20px;
+  padding: 0px;
+}
+#bienvenido,
+#agradecimiento {
+  text-align: center;
+}
+#bienvenido h1,
+#agradecimiento h1 {
+  font-size: 2.3em;
+  margin-top: 250px;
+  margin-bottom: 60px;
+}
+#logo-final {
+  width: 15%;
+  float: right;
+  position: absolute;
+  right: 5%;
+  bottom: 20%;
+}
+@media (max-width: 1024px) {
+  .texto-tribunal {
+    display: none;
+    font-size: 0.9em;
+    margin-top: -10px;
+    text-align: left;
+  }
+  .texto-tribunal .simulador {
+    margin-top: 10px;
+  }
+  .paso {
+    margin-top: 10px;
+    transform: scale(0.8) translateY(-50px);
+    -moz-transform: scale(0.8) translateY(-50px);
+    -webkit-transform: scale(0.8) translateY(-50px);
+  }
+  .paso h1 {
+    margin: 20px auto;
+    font-size: 1.1em;
+  }
+}
+@media (max-width: 768px) {
+  #ayuda .navbar-brand {
+    background-size: 2em;
+    font-size: 1.2em;
+    padding-left: 2.5em;
+    padding-top: 2vw;
+    height: 3em;
+  }
+  #ayuda .texto-tribunal {
+    display: none;
+    font-size: 0.9em;
+    margin-top: -10px;
+    text-align: left;
+  }
+  #ayuda .texto-tribunal .simulador {
+    margin-top: 10px;
+  }
+  #ayuda .paso {
+    margin-top: 10px;
+    transform: scale(0.8) translateY(-50px);
+    -moz-transform: scale(0.8) translateY(-50px);
+    -webkit-transform: scale(0.8) translateY(-50px);
+  }
+  #ayuda .paso h1 {
+    margin: 20px auto;
+    font-size: 1.1em;
+  }
+  #bienvenido h1,
+  #agradecimiento h1 {
+    margin-top: 50px;
+    font-size: 1.5em;
+  }
+  .grafico {
+    height: 200px;
+  }
+  #ayuda #contenedor-ayuda {
+    margin-top: 0px;
+  }
+  #ayuda #contenedor-ayuda #ubicaciones,
+  #ayuda #contenedor-ayuda #seleccionar_ubicaciones {
+    margin-top: 40px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  #ayuda #contenedor-ayuda #ubicaciones .departamentos,
+  #ayuda #contenedor-ayuda #seleccionar_ubicaciones .departamentos {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-top: 0px;
+  }
+  #ayuda #contenedor-ayuda #ubicaciones .departamentos li,
+  #ayuda #contenedor-ayuda #seleccionar_ubicaciones .departamentos li {
+    margin-bottom: 10px;
+    margin-right: 0px;
+    line-height: 2;
+  }
+  .departamentos .btn-lg {
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px;
+  }
+}
+
+
+@media (max-width: 900px) {
+  #ayuda .navbar-brand {
+    background-size: 2em;
+    font-size: 1.2em;
+    padding-left: 2.5em;
+    padding-top: 2vw;
+    height: 3em;
+  }
+  #ayuda .texto-tribunal {
+    display: none;
+    font-size: 0.9em;
+    margin-top: -10px;
+    text-align: left;
+  }
+  #ayuda .texto-tribunal .simulador {
+    margin-top: 10px;
+  }
+  #ayuda .paso {
+    margin-top: 10px;
+    transform: scale(0.8) translateY(-50px);
+    -moz-transform: scale(0.8) translateY(-50px);
+    -webkit-transform: scale(0.8) translateY(-50px);
+  }
+  #ayuda .paso h1 {
+    margin: 20px auto;
+    font-size: 1.1em;
+  }
+  #bienvenido h1,
+  #agradecimiento h1 {
+    margin-top: 50px;
+    font-size: 1.5em;
+  }
+  .grafico {
+    height: 200px;
+  }
+  #ayuda #contenedor-ayuda {
+    margin-top: 0px;
+  }
+  #ayuda #contenedor-ayuda #ubicaciones,
+  #ayuda #contenedor-ayuda #seleccionar_ubicaciones {
+    margin-top: 40px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  #ayuda #contenedor-ayuda #ubicaciones .departamentos,
+  #ayuda #contenedor-ayuda #seleccionar_ubicaciones .departamentos {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-top: 0px;
+  }
+  #ayuda #contenedor-ayuda #ubicaciones .departamentos li,
+  #ayuda #contenedor-ayuda #seleccionar_ubicaciones .departamentos li {
+    margin-bottom: 10px;
+    margin-right: 0px;
+    line-height: 2;
+  }
+  .departamentos .btn-lg {
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px;
+  }
+}
+
+
+
+
+@media (max-width: 320px) {
+  #bienvenido h1,
+  #agradecimiento h1 {
+    margin-top: 80px;
+  }
+  #ayuda #paso-3 button {
+    width: 132px;
+    float: left;
+    font-size: 0.9em;
+  }
+  #ayuda #paso-3 button.next {
+    margin-left: 19px;
+  }
+  #ayuda #contenedor-ayuda {
+    margin-top: 15px;
+  }
+  #ayuda .paso {
+    margin-top: 10px;
+  }
+  #ayuda .paso h1 {
+    margin: 20px auto;
+    font-size: 0.9em;
+  }
+  #ayuda #contenedor-ayuda #ubicaciones .departamentos li,
+  #seleccionar_ubicaciones .departamentos li {
+    width: 140px;
+    margin-bottom: 8px;
+  }
+  #ayuda #contenedor-ayuda #ubicaciones .departamentos li:nth-child(2n-1),
+  #seleccionar_ubicaciones .departamentos li:nth-child(2n-1) {
+    margin-right: 4px;
+  }
+}
+/* Spinner CSS */
+.lds-ring {
+  display: inline-block;
+  position: relative;
+  width: 40px;
+  height: 40px;
+}
+.lds-ring div {
+  box-sizing: border-box;
+  display: block;
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  margin: 8px;
+  border: 4px solid #fff;
+  border-radius: 50%;
+  animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+  border-color: #fff transparent transparent transparent;
+}
+.lds-ring div:nth-child(1) {
+  animation-delay: -0.45s;
+}
+.lds-ring div:nth-child(2) {
+  animation-delay: -0.3s;
+}
+.lds-ring div:nth-child(3) {
+  animation-delay: -0.15s;
+}
+@keyframes lds-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

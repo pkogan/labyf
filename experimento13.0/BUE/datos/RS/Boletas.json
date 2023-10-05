@@ -1,0 +1,44 @@
+[
+ {
+  "DIP": 1,
+  "PRES": 13,
+  "agrupacion_municipal": false,
+  "codigo": "135",
+  "lista_completa": true
+ },
+ {
+  "DIP": 2,
+  "PRES": 14,
+  "agrupacion_municipal": false,
+  "codigo": "134",
+  "lista_completa": true
+ },
+ {
+  "DIP": 3,
+  "PRES": 15,
+  "agrupacion_municipal": false,
+  "codigo": "132",
+  "lista_completa": true
+ },
+ {
+  "DIP": 4,
+  "PRES": 16,
+  "agrupacion_municipal": false,
+  "codigo": "136",
+  "lista_completa": true
+ },
+ {
+  "DIP": 10,
+  "PRES": 17,
+  "agrupacion_municipal": false,
+  "codigo": "133",
+  "lista_completa": true
+ },
+ {
+  "DIP": 5,
+  "PRES": 22,
+  "agrupacion_municipal": false,
+  "codigo": "151",
+  "lista_completa": true
+ }
+]

@@ -1,0 +1,120 @@
+[
+ {
+  "COM": 10,
+  "JEF": 233,
+  "LEG": 250,
+  "agrupacion_municipal": false,
+  "codigo": "1.1",
+  "lista_completa": true
+ },
+ {
+  "COM": 16,
+  "JEF": 234,
+  "LEG": 251,
+  "agrupacion_municipal": false,
+  "codigo": "10.12",
+  "lista_completa": true
+ },
+ {
+  "COM": 30,
+  "JEF": 235,
+  "LEG": 252,
+  "agrupacion_municipal": false,
+  "codigo": "11.13",
+  "lista_completa": true
+ },
+ {
+  "COM": 45,
+  "LEG": 253,
+  "agrupacion_municipal": false,
+  "codigo": "12.14",
+  "lista_completa": true
+ },
+ {
+  "COM": 57,
+  "JEF": 236,
+  "LEG": 254,
+  "agrupacion_municipal": false,
+  "codigo": "2.2",
+  "lista_completa": true
+ },
+ {
+  "COM": 72,
+  "JEF": 237,
+  "LEG": 255,
+  "agrupacion_municipal": false,
+  "codigo": "3.3",
+  "lista_completa": true
+ },
+ {
+  "COM": 87,
+  "JEF": 238,
+  "LEG": 256,
+  "agrupacion_municipal": false,
+  "codigo": "3.4",
+  "lista_completa": true
+ },
+ {
+  "COM": 103,
+  "JEF": 239,
+  "LEG": 257,
+  "agrupacion_municipal": false,
+  "codigo": "4.5",
+  "lista_completa": true
+ },
+ {
+  "COM": 117,
+  "JEF": 240,
+  "LEG": 258,
+  "agrupacion_municipal": false,
+  "codigo": "4.6",
+  "lista_completa": true
+ },
+ {
+  "COM": 132,
+  "JEF": 241,
+  "LEG": 259,
+  "agrupacion_municipal": false,
+  "codigo": "5.7",
+  "lista_completa": true
+ },
+ {
+  "COM": 142,
+  "JEF": 242,
+  "LEG": 260,
+  "agrupacion_municipal": false,
+  "codigo": "6.8",
+  "lista_completa": true
+ },
+ {
+  "COM": 149,
+  "JEF": 243,
+  "LEG": 261,
+  "agrupacion_municipal": false,
+  "codigo": "7.9",
+  "lista_completa": true
+ },
+ {
+  "COM": 161,
+  "JEF": 244,
+  "LEG": 262,
+  "agrupacion_municipal": false,
+  "codigo": "8.10",
+  "lista_completa": true
+ },
+ {
+  "JEF": 245,
+  "LEG": 263,
+  "agrupacion_municipal": false,
+  "codigo": "9.11",
+  "lista_completa": true
+ },
+ {
+  "COM": 173,
+  "JEF": 246,
+  "LEG": 264,
+  "agrupacion_municipal": false,
+  "codigo": "BLC",
+  "lista_completa": true
+ }
+]

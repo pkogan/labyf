@@ -1,0 +1,197 @@
+[
+ {
+  "CON": 1,
+  "INT": 31,
+  "agrupacion_municipal": false,
+  "codigo": "1",
+  "lista_completa": true
+ },
+ {
+  "CON": 2,
+  "INT": 32,
+  "agrupacion_municipal": false,
+  "codigo": "151",
+  "lista_completa": true
+ },
+ {
+  "CON": 3,
+  "INT": 33,
+  "agrupacion_municipal": false,
+  "codigo": "166",
+  "lista_completa": true
+ },
+ {
+  "CON": 4,
+  "INT": 34,
+  "agrupacion_municipal": false,
+  "codigo": "190",
+  "lista_completa": true
+ },
+ {
+  "CON": 5,
+  "INT": 35,
+  "agrupacion_municipal": false,
+  "codigo": "191",
+  "lista_completa": true
+ },
+ {
+  "CON": 6,
+  "INT": 36,
+  "agrupacion_municipal": false,
+  "codigo": "50",
+  "lista_completa": true
+ },
+ {
+  "CON": 7,
+  "INT": 37,
+  "agrupacion_municipal": false,
+  "codigo": "682",
+  "lista_completa": true
+ },
+ {
+  "CON": 8,
+  "INT": 38,
+  "agrupacion_municipal": false,
+  "codigo": "683",
+  "lista_completa": true
+ },
+ {
+  "CON": 9,
+  "INT": 39,
+  "agrupacion_municipal": false,
+  "codigo": "684",
+  "lista_completa": true
+ },
+ {
+  "CON": 10,
+  "INT": 40,
+  "agrupacion_municipal": false,
+  "codigo": "863",
+  "lista_completa": true
+ },
+ {
+  "CON": 11,
+  "INT": 41,
+  "agrupacion_municipal": false,
+  "codigo": "868",
+  "lista_completa": true
+ },
+ {
+  "CON": 12,
+  "INT": 42,
+  "agrupacion_municipal": false,
+  "codigo": "883",
+  "lista_completa": true
+ },
+ {
+  "CON": 13,
+  "INT": 43,
+  "agrupacion_municipal": false,
+  "codigo": "884",
+  "lista_completa": true
+ },
+ {
+  "CON": 14,
+  "INT": 44,
+  "agrupacion_municipal": false,
+  "codigo": "885",
+  "lista_completa": true
+ },
+ {
+  "CON": 15,
+  "INT": 45,
+  "agrupacion_municipal": false,
+  "codigo": "889",
+  "lista_completa": true
+ },
+ {
+  "CON": 16,
+  "INT": 46,
+  "agrupacion_municipal": false,
+  "codigo": "891",
+  "lista_completa": true
+ },
+ {
+  "CON": 17,
+  "INT": 47,
+  "agrupacion_municipal": false,
+  "codigo": "895",
+  "lista_completa": true
+ },
+ {
+  "CON": 18,
+  "INT": 48,
+  "agrupacion_municipal": false,
+  "codigo": "901",
+  "lista_completa": true
+ },
+ {
+  "CON": 19,
+  "INT": 49,
+  "agrupacion_municipal": false,
+  "codigo": "915",
+  "lista_completa": true
+ },
+ {
+  "CON": 20,
+  "INT": 50,
+  "agrupacion_municipal": false,
+  "codigo": "917",
+  "lista_completa": true
+ },
+ {
+  "CON": 21,
+  "INT": 51,
+  "agrupacion_municipal": false,
+  "codigo": "918",
+  "lista_completa": true
+ },
+ {
+  "CON": 22,
+  "agrupacion_municipal": false,
+  "codigo": "919",
+  "lista_completa": true
+ },
+ {
+  "CON": 23,
+  "INT": 52,
+  "agrupacion_municipal": false,
+  "codigo": "920",
+  "lista_completa": true
+ },
+ {
+  "CON": 24,
+  "INT": 53,
+  "agrupacion_municipal": false,
+  "codigo": "922",
+  "lista_completa": true
+ },
+ {
+  "CON": 25,
+  "INT": 54,
+  "agrupacion_municipal": false,
+  "codigo": "923",
+  "lista_completa": true
+ },
+ {
+  "CON": 26,
+  "INT": 55,
+  "agrupacion_municipal": false,
+  "codigo": "924",
+  "lista_completa": true
+ },
+ {
+  "CON": 27,
+  "INT": 56,
+  "agrupacion_municipal": false,
+  "codigo": "925",
+  "lista_completa": true
+ },
+ {
+  "CON": 28,
+  "INT": 57,
+  "agrupacion_municipal": false,
+  "codigo": "BLC",
+  "lista_completa": true
+ }
+]

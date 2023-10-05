@@ -1,0 +1,72 @@
+[
+ {
+  "CON": 1,
+  "INT": 13,
+  "agrupacion_municipal": false,
+  "codigo": "151",
+  "lista_completa": true
+ },
+ {
+  "CON": 2,
+  "INT": 14,
+  "agrupacion_municipal": false,
+  "codigo": "166",
+  "lista_completa": true
+ },
+ {
+  "CON": 3,
+  "INT": 15,
+  "agrupacion_municipal": false,
+  "codigo": "194",
+  "lista_completa": true
+ },
+ {
+  "CON": 4,
+  "INT": 16,
+  "agrupacion_municipal": false,
+  "codigo": "50",
+  "lista_completa": true
+ },
+ {
+  "CON": 5,
+  "INT": 17,
+  "agrupacion_municipal": false,
+  "codigo": "67",
+  "lista_completa": true
+ },
+ {
+  "CON": 6,
+  "INT": 18,
+  "agrupacion_municipal": false,
+  "codigo": "72",
+  "lista_completa": true
+ },
+ {
+  "CON": 7,
+  "INT": 19,
+  "agrupacion_municipal": false,
+  "codigo": "901",
+  "lista_completa": true
+ },
+ {
+  "CON": 8,
+  "INT": 20,
+  "agrupacion_municipal": false,
+  "codigo": "915",
+  "lista_completa": true
+ },
+ {
+  "CON": 9,
+  "INT": 21,
+  "agrupacion_municipal": false,
+  "codigo": "921",
+  "lista_completa": true
+ },
+ {
+  "CON": 10,
+  "INT": 22,
+  "agrupacion_municipal": false,
+  "codigo": "BLC",
+  "lista_completa": true
+ }
+]
