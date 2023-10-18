@@ -70,6 +70,6 @@ Para obtener más información o realizar consultas relacionadas con este proyec
 - Institución Académica: Facultad de Informática - Observatorio Electoral - Universidad Nacional del Comahue
 
 ## Licencia
-Este proyecto de tesis se distribuye bajo la licencia CC BY-SA 4.0 DEED Atribución-CompartirIgual 4.0 Internacional. Los fuentes de los experimentos que han sido descargados de fuentes públicos en internet de los simuladores son propiedad de la empresa proveedora.
+Este proyecto de tesis se distribuye bajo la licencia CC BY-SA 4.0 DEED Atribución-CompartirIgual 4.0 Internacional. Los fuentes de los experimentos que han sido descargados de fuentes públicos en internet de los simuladores que son propiedad de la empresa proveedora.
 
 ¡Gracias por su interés en el proyecto de tesis "Labyf"! Este README proporciona una descripción general del proyecto y su estructura. Para obtener información más detallada, consulte los documentos y recursos en las carpetas correspondientes.
