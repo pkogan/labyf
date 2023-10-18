@@ -301,8 +301,8 @@ if (typeof (ubic_preseteada) != "undefined") {
 
 
     var ubic_preseteada = getUrlVar('ubicacion');   
-    if (false) {
-        window.location = "/#ubicaciones";
+    if (ubic_preseteada!= "") {
+        window.location = "index"+ubic_preseteada+".html#paso-3";
     } else {
         history.go(0);
     }

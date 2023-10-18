@@ -40,5 +40,12 @@
   "agrupacion_municipal": false,
   "codigo": "151",
   "lista_completa": true
+ },
+ {
+  "DIP": 10,
+  "PRES": 22,
+  "agrupacion_municipal": false,
+  "codigo": "BLC",
+  "lista_completa": true
  }
 ]

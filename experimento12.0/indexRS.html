@@ -25,24 +25,22 @@
                     <header>
                         <div class="container">
                             <div class="row">
-                                <div class="col-lg-6 col-md-12 col-xs-12" >
-                                    <a class="navbar-brand" style="padding-left: 5em;" href="index.html#">Elecciones Generales 2023</a>
+                                <div class="col-lg-6 col-md-12 col-xs-12" id="superior">
+                                    <a class="navbar-brand" href="index.html#">Elecciones Municipales 2023<span><br />Rincón de los Sauces</span></a>
                                 </div>
                                 <div class="col-md-6 texto-tribunal col-xs-12">
-                                    
-                                    <p class="simulador">Experimento No Oficial!!!!</p>
+                                    <p class="tribunal">&nbsp;</p>
+                                    <p class="simulador">Instructivo para el uso del Sistema de Boleta Única Electrónica (BUE)</p>
                                 </div>
                             </div>
                     </header>
 
                     <div id="bienvenido" style="display:none;">
                         <h1>Simulador del Sistema de Boleta Única Electrónica (BUE)</h1>
-                        <button id="empezar2" class="btn btn-success btn-lg" onclick="document.location.href='indexRS.html'">Neuquen</button>
-                        <button id="empezar2" class="btn btn-success btn-lg" onclick="document.location.href='indexRN.html'">Río Negro</button><br>
+                        <button id="empezar" class="btn btn-success btn-lg">Comenzar</button><br>
                         <!-- <a href=""><button class="btn btn-primary btn-lg">Descargar versión<br> Offline (Windows)</button></a>
                         <a href=""><button class="btn btn-primary btn-lg">Descargar desde <br>Google Play Store</button></a>
                         <a href="javascript:installPWA();"><button class="btn btn-primary btn-lg">Instalar aplicación</button></a> -->
-                        <a href="escrutinio.html">Escrutador</a>
                     </div>
 
                     <div id="paso-1" class="paso" style="display:none;">
@@ -57,6 +55,7 @@
                     
                         <button class="btn btn-primary btn-lg ubicacion-destino" id="RS">Continuar</button>
                         </div>
+                    
                         <div id="paso-3" class="paso" style="display:none;">
                         
                             <div class="noprint" id="qr-reader" style="width:200px;float: right"></div>
@@ -70,7 +69,6 @@
                           
     
                         </div>
-
                     <div id="paso-3bis" class="paso" style="display:none;">
                         <img class="grafico" src="img/maquina-verificacion.png" id="maquina-verificacion">
                         <h1>La máquina imprimirá su elección. Compruebe que el texto es correcto acercando la boleta al verificador.</h1>
