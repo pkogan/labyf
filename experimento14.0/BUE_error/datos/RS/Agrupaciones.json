@@ -1,0 +1,209 @@
+[
+ {
+  "asistida": "135 LA LIBERTAD AVANZA",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "135",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "135",
+  "imagenes": [
+   "135"
+  ],
+  "nombre": "LA LIBERTAD AVANZA",
+  "nombre_corto": "LA",
+  "numero": "135",
+  "orden_absoluto": [
+   4
+  ]
+ },
+ {
+  "asistida": "134 UNION POR LA PATRIA",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "134",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "134",
+  "imagenes": [
+   "134"
+  ],
+  "nombre": "UNION POR LA PATRIA",
+  "nombre_corto": "UxP",
+  "numero": "134",
+  "orden_absoluto": [
+   5
+  ]
+ },
+ {
+  "asistida": "132 JUNTOS POR EL CAMBIO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "132",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "132",
+  "imagenes": [
+   "132"
+  ],
+  "nombre": "JUNTOS POR EL CAMBIO",
+  "nombre_corto": "JxC",
+  "numero": "132",
+  "orden_absoluto": [
+   6
+  ]
+ },
+ {
+  "asistida": "136 FRENTE DE IZQUIERDA Y DE TRABAJADORES-UNIDAD",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "136",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "136",
+  "imagenes": [
+   "136"
+  ],
+  "nombre": "FRENTE DE IZQUIERDA Y DE TRABAJADORES-UNIDAD",
+  "nombre_corto": "FI",
+  "numero": "136",
+  "orden_absoluto": [
+   1
+  ]
+ },
+ {
+  "asistida": "133 HACEMOS POR NUESTRO PAIS",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "133",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "133",
+  "imagenes": [
+   "133"
+  ],
+  "nombre": "HACEMOS POR NUESTRO PAIS",
+  "nombre_corto": "HNP",
+  "numero": "133",
+  "orden_absoluto": [
+   2
+  ]
+ },
+ {
+  "asistida": "151 MOVIMIENTO POPULAR NEUQUINO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "151",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "151",
+  "imagenes": [
+   "151"
+  ],
+  "nombre": "MOVIMIENTO POPULAR NEUQUINO",
+  "nombre_corto": "MPN",
+  "numero": "151",
+  "orden_absoluto": [
+   3
+  ]
+ },
+ {
+  "asistida": "901 JUNTOS",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "901",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "901",
+  "imagenes": [
+   "901"
+  ],
+  "nombre": "JUNTOS",
+  "nombre_corto": "JS",
+  "numero": "901",
+  "orden_absoluto": [
+   7
+  ]
+ },
+ {
+  "asistida": "915 PARTIDO VECINAL RENOVADOR",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "915",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "915",
+  "imagenes": [
+   "915"
+  ],
+  "nombre": "PARTIDO VECINAL RENOVADOR",
+  "nombre_corto": "PVR",
+  "numero": "915",
+  "orden_absoluto": [
+   8
+  ]
+ },
+ {
+  "asistida": "921 INCLUSION Y TRABAJO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "921",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "921",
+  "imagenes": [
+   "921"
+  ],
+  "nombre": "INCLUSION Y TRABAJO",
+  "nombre_corto": "IYT",
+  "numero": "921",
+  "orden_absoluto": [
+   9
+  ]
+ }
+]

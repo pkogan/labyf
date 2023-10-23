@@ -1,0 +1,140 @@
+[
+ {
+  "asistida": "135 LA LIBERTAD AVANZA",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "135",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "135",
+  "imagenes": [
+   "135"
+  ],
+  "nombre": "LA LIBERTAD AVANZA",
+  "nombre_corto": "LA",
+  "numero": "135",
+  "orden_absoluto": [
+   4
+  ]
+ },
+ {
+  "asistida": "134 UNION POR LA PATRIA",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "134",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "134",
+  "imagenes": [
+   "134"
+  ],
+  "nombre": "UNION POR LA PATRIA",
+  "nombre_corto": "UxP",
+  "numero": "134",
+  "orden_absoluto": [
+   5
+  ]
+ },
+ {
+  "asistida": "132 JUNTOS POR EL CAMBIO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "132",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "132",
+  "imagenes": [
+   "132"
+  ],
+  "nombre": "JUNTOS POR EL CAMBIO",
+  "nombre_corto": "JxC",
+  "numero": "132",
+  "orden_absoluto": [
+   6
+  ]
+ },
+ {
+  "asistida": "136 FRENTE DE IZQUIERDA Y DE TRABAJADORES-UNIDAD",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "136",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "136",
+  "imagenes": [
+   "136"
+  ],
+  "nombre": "FRENTE DE IZQUIERDA Y DE TRABAJADORES-UNIDAD",
+  "nombre_corto": "FI",
+  "numero": "136",
+  "orden_absoluto": [
+   1
+  ]
+ },
+ {
+  "asistida": "133 HACEMOS POR NUESTRO PAIS",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "133",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "133",
+  "imagenes": [
+   "133"
+  ],
+  "nombre": "HACEMOS POR NUESTRO PAIS",
+  "nombre_corto": "HNP",
+  "numero": "133",
+  "orden_absoluto": [
+   2
+  ]
+ },
+ {
+  "asistida": "501 JUNTOS SOMOS RIO NEGRO",
+  "clase": "Lista",
+  "cod_alianza": null,
+  "cod_partido": null,
+  "codigo": "501",
+  "color": [
+   "#FFFFFF"
+  ],
+  "color_tipografia": [
+   "#000000"
+  ],
+  "id_candidatura": "501",
+  "imagenes": [
+   "501"
+  ],
+  "nombre": "JUNTOS SOMOS RIO NEGRO",
+  "nombre_corto": "JRN",
+  "numero": "501",
+  "orden_absoluto": [
+   3
+  ]
+ }
+]

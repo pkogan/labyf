@@ -1,0 +1,26 @@
+[
+ {
+  "adhiere": null,
+  "asistida": null,
+  "cargo_ejecutivo": false,
+  "codigo": "DIP",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Diputados/as Nacionales",
+  "posicion": 2,
+  "preferente": false
+ },
+ {
+  "adhiere": null,
+  "asistida": null,
+  "cargo_ejecutivo": true,
+  "codigo": "PRES",
+  "consulta_popular": false,
+  "id_grupo": 1,
+  "max_selecciones": 1,
+  "nombre": "Presidente/a y Vice",
+  "posicion": 1,
+  "preferente": false
+ }
+]
