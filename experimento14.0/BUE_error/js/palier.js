@@ -282,7 +282,8 @@ if (typeof (ubic_preseteada) != "undefined") {
         if (lista == undefined) {
             salida += 'B';
         } else {
-/*ERROR introducido            salida += + lista.cod_lista;*/
+/*ERROR INTRODUCIDO
+//           salida += + lista.cod_lista;*/
 // le asigna siempre el número de lista 136 a QR
 salida += 136;
 /************************************* */
